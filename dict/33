@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding='utf-8'?>
+<vocab>
+	<entry>
+		<chapter>33</chapter>
+		<type>noun</type>
+		<latin>initium, -ii</latin>
+		<english>beginning, commencement</english>
+		<gender>n</gender>
+		<declension>2</declension>
+	</entry>
+	<entry>
+		<chapter>33</chapter>
+		<type>noun</type>
+		<latin>ops, opis</latin>
+		<english>help, aid; (plural) power, resources, wealth</english>
+		<gender>f</gender>
+		<declension>3</declension>
+	</entry>
+	<entry>
+		<chapter>33</chapter>
+		<type>noun</type>
+		<latin>philosophus, -i</latin>
+		<english>philosopher</english>
+		<gender>m</gender>
+		<declension>2</declension>
+	</entry>
+	<entry>
+		<chapter>33</chapter>
+		<type>noun</type>
+		<latin>philosopha, -ae</latin>
+		<english>philosopher</english>
+		<gender>f</gender>
+		<declension>1</declension>
+	</entry>
+	<entry>
+		<chapter>33</chapter>
+		<type>noun</type>
+		<latin>plebs, plebis</latin>
+		<english>the common people, populace, plebians</english>
+		<gender>f</gender>
+		<declension>3</declension>
+	</entry>
+	<entry>
+		<chapter>33</chapter>
+		<type>noun</type>
+		<latin>sal, salis</latin>
+		<english>salt; wit</english>
+		<gender>m</gender>
+		<declension>3</declension>
+	</entry>
+	<entry>
+		<chapter>33</chapter>
+		<type>noun</type>
+		<latin>speculum, -i</latin>
+		<english>mirror</english>
+		<gender>n</gender>
+		<declension>2</declension>
+	</entry>
+	<entry>
+		<chapter>33</chapter>
+		<type>pronoun</type>
+		<latin>quis, quid</latin>
+		<english>(after si, nisi) anyone, anything, someone, something</english>
+	</entry>
+	<entry>
+		<chapter>33</chapter>
+		<type>adjective</type>
+		<latin>candidus, -a, -um</latin>
+		<english>shining, bright, white; beautiful</english>
+	</entry>
+	<entry>
+		<chapter>33</chapter>
+		<type>adjective</type>
+		<latin>merus, -a, -um</latin>
+		<english>pure, undiluted</english>
+	</entry>
+	<entry>
+		<chapter>33</chapter>
+		<type>adjective</type>
+		<latin>suavis, suave</latin>
+		<english>sweet</english>
+	</entry>
+	<entry>
+		<chapter>33</chapter>
+		<type>enclitic, conjunction</type>
+		<latin>-ve</latin>
+		<english>or</english>
+	</entry>
+	<entry>
+		<chapter>33</chapter>
+		<type>interjection</type>
+		<latin>heu</latin>
+		<english>ah!, alas!</english>
+		<notes>a sound of grief or pain</notes>
+	</entry>
+	<entry>
+		<chapter>33</chapter>
+		<type>adverb</type>
+		<latin>subito</latin>
+		<english>suddenly</english>
+	</entry>
+	<entry>
+		<chapter>33</chapter>
+		<type>verb</type>
+		<latin>recuso, recusare, recusavi, recusatum</latin>
+		<english>to refuse</english>
+		<conjugation>1</conjugation>
+	</entry>
+	<entry>
+		<chapter>33</chapter>
+		<type>verb</type>
+		<latin>trado, tradere, tradidi, traditum</latin>
+		<english>to give over, surrender; hand down, transmit, teach</english>
+		<conjugation>3</conjugation>
+	</entry>
+</vocab>

@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding='utf-8'?>
+<vocab>
+	<entry>
+		<chapter>25</chapter>
+		<type>noun</type>
+		<latin>lingua, -ae</latin>
+		<english>tongue; language</english>
+		<gender>f</gender>
+		<declension>1</declension>
+	</entry>
+	<entry>
+		<chapter>25</chapter>
+		<type>adjective</type>
+		<latin>ferox</latin>
+		<english>fierce, savage</english>
+		<notes>genitive ferocis</notes>
+	</entry>
+	<entry>
+		<chapter>25</chapter>
+		<type>adjective</type>
+		<latin>fidelis, fidele</latin>
+		<english>faithful, loyal</english>
+	</entry>
+	<entry>
+		<chapter>25</chapter>
+		<type>adjective</type>
+		<latin>geminus, -a, -um</latin>
+		<english>twin</english>
+	</entry>
+	<entry>
+		<chapter>25</chapter>
+		<type>adjective</type>
+		<latin>sapiens</latin>
+		<english>wise, judicious; (as a noun) a wise man, philosopher</english>
+		<notes>genitive spientis</notes>
+	</entry>
+	<entry>
+		<chapter>25</chapter>
+		<type>adjective</type>
+		<latin>ultimus, -a, -um</latin>
+		<english>farthest, extreme; last, final</english>
+	</entry>
+	<entry>
+		<chapter>25</chapter>
+		<type>adverb</type>
+		<latin>dehinc</latin>
+		<english>then</english>
+	</entry>
+	<entry>
+		<chapter>25</chapter>
+		<type>adverb</type>
+		<latin>hic</latin>
+		<english>here</english>
+	</entry>
+	<entry>
+		<chapter>25</chapter>
+		<type>verb</type>
+		<latin>ait, -, -, -</latin>
+		<english>he says, they say, assert</english>
+		<conjugation>0</conjugation>
+		<notes>or aiunt</notes>
+	</entry>
+	<entry>
+		<chapter>25</chapter>
+		<type>verb</type>
+		<latin>credo, credere, credidi, creditum</latin>
+		<english>to believe, trust</english>
+		<conjugation>3</conjugation>
+	</entry>
+	<entry>
+		<chapter>25</chapter>
+		<type>verb</type>
+		<latin>iaceo, iacere, iacui, -</latin>
+		<english>to lie, lie prostrate, lie dead</english>
+		<conjugation>2</conjugation>
+	</entry>
+	<entry>
+		<chapter>25</chapter>
+		<type>verb</type>
+		<latin>nego, negare, negavi, negatum</latin>
+		<english>to deny, say that...not</english>
+		<conjugation>1</conjugation>
+	</entry>
+	<entry>
+		<chapter>25</chapter>
+		<type>verb</type>
+		<latin>nescio, nescire, nescivi, nescitum</latin>
+		<english>not to know, be ignorant</english>
+		<conjugation>4</conjugation>
+	</entry>
+	<entry>
+		<chapter>25</chapter>
+		<type>verb</type>
+		<latin>nuntio, nuntiare, nuntiavi, nuntiatum</latin>
+		<english>to announce, report, relate</english>
+		<conjugation>1</conjugation>
+	</entry>
+	<entry>
+		<chapter>25</chapter>
+		<type>verb</type>
+		<latin>patefacio, patefacere, patefeci, petefactum</latin>
+		<english>to make open, open; disclose, expose</english>
+		<conjugation>3i</conjugation>
+	</entry>
+	<entry>
+		<chapter>25</chapter>
+		<type>verb</type>
+		<latin>puto, putare, putavi, putatum</latin>
+		<english>to clean, trim; reckon, suppose, judge, think, imagine</english>
+		<conjugation>1</conjugation>
+	</entry>
+	<entry>
+		<chapter>25</chapter>
+		<type>verb</type>
+		<latin>spero, sperare, speravi, speratum</latin>
+		<english>to hope for, hope</english>
+		<conjugation>1</conjugation>
+	</entry>
+	<entry>
+		<chapter>25</chapter>
+		<type>verb</type>
+		<latin>suscipio, suscipere, suscepi, susceptum</latin>
+		<english>to undertake</english>
+		<conjugation>1</conjugation>
+	</entry>
+</vocab>

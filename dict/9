@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding='utf-8'?>
+<vocab>
+	<entry>
+		<chapter>9</chapter>
+		<type>noun</type>
+		<latin>locus, -i</latin>
+		<english>place; passage in literature</english>
+		<gender>m</gender>
+		<declension>2</declension>
+		<notes>loca, -orum, n.: places, regions</notes>
+	</entry>
+	<entry>
+		<chapter>9</chapter>
+		<type>noun</type>
+		<latin>morbus, -i</latin>
+		<english>disease, sickness</english>
+		<gender>m</gender>
+		<declension>2</declension>
+	</entry>
+	<entry>
+		<chapter>9</chapter>
+		<type>noun</type>
+		<latin>studium, -ii</latin>
+		<english>eagerness, zeal, pursuit, study</english>
+		<gender>n</gender>
+		<declension>2</declension>
+	</entry>
+	<entry>
+		<chapter>9</chapter>
+		<type>pronoun</type>
+		<latin>hic, haec, hoc</latin>
+		<english>this; the latter; he, she, it, they</english>
+	</entry>
+	<entry>
+		<chapter>9</chapter>
+		<type>pronoun</type>
+		<latin>ille, illa, illud</latin>
+		<english>that; the former; the famous; he, she, it, they</english>
+	</entry>
+	<entry>
+		<chapter>9</chapter>
+		<type>pronoun</type>
+		<latin>iste, ista, istud</latin>
+		<english>that of yours, that; such</english>
+		<notes>sometimes with contemptuous force</notes>
+	</entry>
+	<entry>
+		<chapter>9</chapter>
+		<type>adjective</type>
+		<latin>alius, alia, aliud</latin>
+		<english>other, another</english>
+		<notes>alii...alii: some...others</notes>
+	</entry>
+	<entry>
+		<chapter>9</chapter>
+		<type>adjective</type>
+		<latin>alter, altera, alterum</latin>
+		<english>the other (of two), second</english>
+	</entry>
+	<entry>
+		<chapter>9</chapter>
+		<type>adjective</type>
+		<latin>neuter, neutra, neutrum</latin>
+		<english>not either, neither</english>
+	</entry>
+	<entry>
+		<chapter>9</chapter>
+		<type>adjective</type>
+		<latin>nullus, -a, -um</latin>
+		<english>not any, no, none</english>
+	</entry>
+	<entry>
+		<chapter>9</chapter>
+		<type>adjective</type>
+		<latin>solus, -a, -um</latin>
+		<english>alone, only, the only</english>
+	</entry>
+	<entry>
+		<chapter>9</chapter>
+		<type>adjective</type>
+		<latin>totus, -a, -um</latin>
+		<english>whole, entire</english>
+	</entry>
+	<entry>
+		<chapter>9</chapter>
+		<type>adjective</type>
+		<latin>ullus, -a, -um</latin>
+		<english>any</english>
+	</entry>
+	<entry>
+		<chapter>9</chapter>
+		<type>adjective</type>
+		<latin>unus, -a, -um</latin>
+		<english>one, single, alone</english>
+	</entry>
+	<entry>
+		<chapter>9</chapter>
+		<type>adjective</type>
+		<latin>uter, utra, utrum</latin>
+		<english>either, which (of two)</english>
+	</entry>
+	<entry>
+		<chapter>9</chapter>
+		<type>conjunction</type>
+		<latin>enim</latin>
+		<english>for, in fact, truely</english>
+		<notes>postpositive</notes>
+	</entry>
+	<entry>
+		<chapter>9</chapter>
+		<type>preposition</type>
+		<latin>in</latin>
+		<english>into, toward; against</english>
+		<notes>takes accusative or ablative</notes>
+	</entry>
+	<entry>
+		<chapter>9</chapter>
+		<type>adverb</type>
+		<latin>nimis, nimium</latin>
+		<english>too, too much, excessively</english>
+	</entry>
+</vocab>

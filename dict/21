@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding='utf-8'?>
+<vocab>
+	<entry>
+		<chapter>21</chapter>
+		<type>noun</type>
+		<latin>casa, -ae</latin>
+		<english>house, cottage, hut</english>
+		<gender>f</gender>
+		<declension>1</declension>
+	</entry>
+	<entry>
+		<chapter>21</chapter>
+		<type>noun</type>
+		<latin>causa, -ae</latin>
+		<english>cause, reason; case, situation; (abl. causa plus a preceding gen.) for the sake of, on account of</english>
+		<gender>f</gender>
+		<declension>1</declension>
+	</entry>
+	<entry>
+		<chapter>21</chapter>
+		<type>noun (1)</type>
+		<latin>fenestra, -ae</latin>
+		<english>window</english>
+		<gender>f</gender>
+		<declension>1</declension>
+	</entry>
+	<entry>
+		<chapter>21</chapter>
+		<type>noun</type>
+		<latin>finis, finis</latin>
+		<english>end, limit, boundary, purpose; (plural) boundaries, territory</english>
+		<gender>m</gender>
+		<declension>3i</declension>
+	</entry>
+	<entry>
+		<chapter>21</chapter>
+		<type>noun</type>
+		<latin>gens, gentis</latin>
+		<english>clan, race, nation, people</english>
+		<gender>f</gender>
+		<declension>3i</declension>
+	</entry>
+	<entry>
+		<chapter>21</chapter>
+		<type>noun</type>
+		<latin>mundus, -i</latin>
+		<english>world, universe</english>
+		<gender>m</gender>
+		<declension>2</declension>
+	</entry>
+	<entry>
+		<chapter>21</chapter>
+		<type>noun</type>
+		<latin>navis, navis</latin>
+		<english>ship, boat</english>
+		<gender>f</gender>
+		<declension>3i</declension>
+	</entry>
+	<entry>
+		<chapter>21</chapter>
+		<type>noun</type>
+		<latin>salus, salutis</latin>
+		<english>health, safety; greeting</english>
+		<gender>f</gender>
+		<declension>3</declension>
+	</entry>
+	<entry>
+		<chapter>21</chapter>
+		<type>noun</type>
+		<latin>Troia, -ae</latin>
+		<english>Troy</english>
+		<gender>f</gender>
+		<declension>1</declension>
+	</entry>
+	<entry>
+		<chapter>21</chapter>
+		<type>noun</type>
+		<latin>vicinus, -i</latin>
+		<english>neighbor</english>
+		<gender>m</gender>
+		<declension>2</declension>
+	</entry>
+	<entry>
+		<chapter>21</chapter>
+		<type>noun</type>
+		<latin>vicina, -ae</latin>
+		<english>neighbor</english>
+		<gender>f</gender>
+		<declension>1</declension>
+	</entry>
+	<entry>
+		<chapter>21</chapter>
+		<type>noun</type>
+		<latin>vulgus, -i</latin>
+		<english>the common people, mob, rabble</english>
+		<gender>m</gender>
+		<declension>2</declension>
+	</entry>
+	<entry>
+		<chapter>21</chapter>
+		<type>adjective</type>
+		<latin>asper, aspera, asperum</latin>
+		<english>rough, harsh</english>
+	</entry>
+	<entry>
+		<chapter>21</chapter>
+		<type>conjunction</type>
+		<latin>atque, ac</latin>
+		<english>and, and also, and even</english>
+	</entry>
+	<entry>
+		<chapter>21</chapter>
+		<type>adverb</type>
+		<latin>iterum</latin>
+		<english>again, a second time</english>
+	</entry>
+	<entry>
+		<chapter>21</chapter>
+		<type>verb</type>
+		<latin>contineo, continere, continui, contentum</latin>
+		<english>to hold together, contain, keep, enclose, restrain</english>
+		<conjugation>2</conjugation>
+	</entry>
+	<entry>
+		<chapter>21</chapter>
+		<type>verb</type>
+		<latin>iubeo, iubere, iussi, iussum</latin>
+		<english>to bid, order, command</english>
+		<conjugation>2</conjugation>
+	</entry>
+	<entry>
+		<chapter>21</chapter>
+		<type>verb</type>
+		<latin>laboro, laborare, laboravi, laboratum</latin>
+		<english>to labor, be in distress</english>
+		<conjugation>1</conjugation>
+	</entry>
+	<entry>
+		<chapter>21</chapter>
+		<type>verb</type>
+		<latin>rapio, rapere, rapui, raptum</latin>
+		<english>to seize, snatch, carry away</english>
+		<conjugation>3i</conjugation>
+	</entry>
+	<entry>
+		<chapter>21</chapter>
+		<type>verb</type>
+		<latin>relinquo, relinquere, reliqui, relictum</latin>
+		<english>to leave behind, leave, abandon, desert</english>
+		<conjugation>3</conjugation>
+	</entry>
+	<entry>
+		<chapter>21</chapter>
+		<type>verb</type>
+		<latin>scio, scire, scivi, scitum</latin>
+		<english>to know</english>
+		<conjugation>4</conjugation>
+	</entry>
+	<entry>
+		<chapter>21</chapter>
+		<type>verb</type>
+		<latin>tango, tangere, tetigi, tactum</latin>
+		<english>to touch</english>
+		<conjugation>3</conjugation>
+	</entry>
+</vocab>

@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding='utf-8'?>
+<vocab>
+	<entry>
+		<chapter>38</chapter>
+		<type>noun</type>
+		<latin>arbor, arboris</latin>
+		<english>tree</english>
+		<gender>f</gender>
+		<declension>3</declension>
+	</entry>
+	<entry>
+		<chapter>38</chapter>
+		<type>noun</type>
+		<latin>dignitas, dignitatis</latin>
+		<english>merit, prestige, dignity</english>
+		<gender>f</gender>
+		<declension>3</declension>
+	</entry>
+	<entry>
+		<chapter>38</chapter>
+		<type>noun</type>
+		<latin>dolor, doloris</latin>
+		<english>pain, grief</english>
+		<gender>m</gender>
+		<declension>3</declension>
+	</entry>
+	<entry>
+		<chapter>38</chapter>
+		<type>noun</type>
+		<latin>odium, -ii</latin>
+		<english>hatred</english>
+		<gender>n</gender>
+		<declension>2</declension>
+	</entry>
+	<entry>
+		<chapter>38</chapter>
+		<type>noun</type>
+		<latin>opus, operis</latin>
+		<english>a work, task; deed, accomplishment</english>
+		<gender>n</gender>
+		<declension>3</declension>
+	</entry>
+	<entry>
+		<chapter>38</chapter>
+		<type>noun</type>
+		<latin>oratio, orationis</latin>
+		<english>speech</english>
+		<gender>f</gender>
+		<declension>3</declension>
+	</entry>
+	<entry>
+		<chapter>38</chapter>
+		<type>noun</type>
+		<latin>pes, pedis</latin>
+		<english>lower leg, foot</english>
+		<gender>m</gender>
+		<declension>3</declension>
+	</entry>
+	<entry>
+		<chapter>38</chapter>
+		<type>noun</type>
+		<latin>sator, satoris</latin>
+		<english>sower, planter; begetter, father; founder</english>
+		<gender>m</gender>
+		<declension>3</declension>
+	</entry>
+	<entry>
+		<chapter>38</chapter>
+		<type>adjective</type>
+		<latin>firmus, -a, -um</latin>
+		<english>firm, strong, reliable</english>
+	</entry>
+	<entry>
+		<chapter>38</chapter>
+		<type>adjective</type>
+		<latin>infirmus, -a, -um</latin>
+		<english>not strong, weak, feeble</english>
+	</entry>
+	<entry>
+		<chapter>38</chapter>
+		<type>adjective</type>
+		<latin>mirabilis, mirabilie</latin>
+		<english>amazing, wondrous, remarkable</english>
+	</entry>
+	<entry>
+		<chapter>38</chapter>
+		<type>adjective</type>
+		<latin>pristinus, -a, -um</latin>
+		<english>ancient; former, previous</english>
+	</entry>
+	<entry>
+		<chapter>38</chapter>
+		<type>adjective</type>
+		<latin>sublimis, sublime</latin>
+		<english>elevated, lofty; heroic, noble</english>
+	</entry>
+	<entry>
+		<chapter>38</chapter>
+		<type>conjunction</type>
+		<latin>etsi</latin>
+		<english>even if, although</english>
+	</entry>
+	<entry>
+		<chapter>38</chapter>
+		<type>preposition</type>
+		<latin>erga</latin>
+		<english>toward</english>
+		<notes>takes accusative</notes>
+	</entry>
+	<entry>
+		<chapter>38</chapter>
+		<type>adverb</type>
+		<latin>libenter</latin>
+		<english>with pleasure, gladly</english>
+	</entry>
+	<entry>
+		<chapter>38</chapter>
+		<type>verb</type>
+		<latin>impedio, impedire, impedivi, impeditum</latin>
+		<english>to impede, hinder, prevent</english>
+		<conjugation>4</conjugation>
+	</entry>
+	<entry>
+		<chapter>38</chapter>
+		<type>verb</type>
+		<latin>metuo, metuere, metui, -</latin>
+		<english>to fear, dread</english>
+		<conjugation>3</conjugation>
+	</entry>
+	<entry>
+		<chapter>38</chapter>
+		<type>verb</type>
+		<latin>queror, queri, questus sum, -</latin>
+		<english>to complain, lament</english>
+		<conjugation>3</conjugation>
+	</entry>
+	<entry>
+		<chapter>38</chapter>
+		<type>verb</type>
+		<latin>recognosco, recognoscere, recognovi, recognitum</latin>
+		<english>to recognize, recollect</english>
+		<conjugation>3</conjugation>
+	</entry>
+	<entry>
+		<chapter>38</chapter>
+		<type>verb</type>
+		<latin>suspendo, suspendere, suspendi, suspensum</latin>
+		<english>to hang up, suspend; interrupt</english>
+		<conjugation>3</conjugation>
+	</entry>
+	<entry>
+		<chapter>38</chapter>
+		<type>verb</type>
+		<latin>vendo, vendere, vendidi, venditum</latin>
+		<english>to sell</english>
+		<conjugation>3</conjugation>
+	</entry>
+</vocab>

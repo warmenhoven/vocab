@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding='utf-8'?>
+<vocab>
+	<entry>
+		<chapter>6</chapter>
+		<type>noun</type>
+		<latin>dea, -ae</latin>
+		<english>goddess</english>
+		<gender>f</gender>
+		<declension>1</declension>
+	</entry>
+	<entry>
+		<chapter>6</chapter>
+		<type>noun</type>
+		<latin>deus, -i</latin>
+		<english>god</english>
+		<gender>m</gender>
+		<declension>2</declension>
+	</entry>
+	<entry>
+		<chapter>6</chapter>
+		<type>noun</type>
+		<latin>discipula, -ae</latin>
+		<english>learner, pupil, student</english>
+		<gender>f</gender>
+		<declension>1</declension>
+	</entry>
+	<entry>
+		<chapter>6</chapter>
+		<type>noun</type>
+		<latin>discipulus, -i</latin>
+		<english>learner, pupil, student</english>
+		<gender>m</gender>
+		<declension>2</declension>
+	</entry>
+	<entry>
+		<chapter>6</chapter>
+		<type>noun</type>
+		<latin>insidiae, -arum</latin>
+		<english>ambush, plot, treachery</english>
+		<gender>f</gender>
+		<declension>1</declension>
+		<notes>always plural</notes>
+	</entry>
+	<entry>
+		<chapter>6</chapter>
+		<type>noun</type>
+		<latin>liber, libri</latin>
+		<english>book</english>
+		<gender>m</gender>
+		<declension>2</declension>
+	</entry>
+	<entry>
+		<chapter>6</chapter>
+		<type>noun</type>
+		<latin>tyrannus, -i</latin>
+		<english>absolute ruler, tyrant</english>
+		<gender>m</gender>
+		<declension>2</declension>
+	</entry>
+	<entry>
+		<chapter>6</chapter>
+		<type>noun</type>
+		<latin>vitium, -ii</latin>
+		<english>fault, crime, vice</english>
+		<gender>n</gender>
+		<declension>2</declension>
+	</entry>
+	<entry>
+		<chapter>6</chapter>
+		<type>adjective</type>
+		<latin>Graecus, -a, -um</latin>
+		<english>Greek</english>
+	</entry>
+	<entry>
+		<chapter>6</chapter>
+		<type>noun</type>
+		<latin>Graecus, -i</latin>
+		<english>a Greek</english>
+		<gender>m</gender>
+		<declension>2</declension>
+	</entry>
+	<entry>
+		<chapter>6</chapter>
+		<type>adjective</type>
+		<latin>perpetuus, -a, -um</latin>
+		<english>perpetual, lasting, uninterrupted, continuous</english>
+	</entry>
+	<entry>
+		<chapter>6</chapter>
+		<type>adjective</type>
+		<latin>plenus, -a, -um</latin>
+		<english>full, abundant, generous</english>
+	</entry>
+	<entry>
+		<chapter>6</chapter>
+		<type>adjective</type>
+		<latin>salvus, -a, -um</latin>
+		<english>safe, sound</english>
+	</entry>
+	<entry>
+		<chapter>6</chapter>
+		<type>adjective</type>
+		<latin>secundus, -a, -um</latin>
+		<english>second; favorable</english>
+	</entry>
+	<entry>
+		<chapter>6</chapter>
+		<type>adjective</type>
+		<latin>vester, vestra, vestrum</latin>
+		<english>your, yours</english>
+	</entry>
+	<entry>
+		<chapter>6</chapter>
+		<type>conjunction, enclitic</type>
+		<latin>-que</latin>
+		<english>and (enclitic)</english>
+		<notes>appended to the second of two words to be joined</notes>
+	</entry>
+	<entry>
+		<chapter>6</chapter>
+		<type>conjunction</type>
+		<latin>sed</latin>
+		<english>but</english>
+	</entry>
+	<entry>
+		<chapter>6</chapter>
+		<type>adverb, conjunction</type>
+		<latin>ubi</latin>
+		<english>where, when</english>
+	</entry>
+	<entry>
+		<chapter>6</chapter>
+		<type>adverb</type>
+		<latin>ibi</latin>
+		<english>there</english>
+	</entry>
+	<entry>
+		<chapter>6</chapter>
+		<type>adverb</type>
+		<latin>quare</latin>
+		<english>because of which thing, therefore, wherefore, why</english>
+	</entry>
+	<entry>
+		<chapter>6</chapter>
+		<type>verb</type>
+		<latin>possum, posse, potui, -</latin>
+		<english>to be able, can, could, have power</english>
+	</entry>
+	<entry>
+		<chapter>6</chapter>
+		<type>verb</type>
+		<latin>tolero, tolerare, toleravi, toleratum</latin>
+		<english>to bear, endure</english>
+		<conjugation>1</conjugation>
+	</entry>
+</vocab>

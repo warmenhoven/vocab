@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding='utf-8'?>
+<vocab>
+	<entry>
+		<chapter>10</chapter>
+		<type>noun</type>
+		<latin>amicitia, -ae</latin>
+		<english>friendship</english>
+		<gender>f</gender>
+		<declension>1</declension>
+	</entry>
+	<entry>
+		<chapter>10</chapter>
+		<type>noun</type>
+		<latin>cupiditas, cupiditatis</latin>
+		<english>desire, longing, passion, cupidity, avarice</english>
+		<gender>f</gender>
+		<declension>3</declension>
+	</entry>
+	<entry>
+		<chapter>10</chapter>
+		<type>noun</type>
+		<latin>hora, -ae</latin>
+		<english>hour, time</english>
+		<gender>f</gender>
+		<declension>1</declension>
+	</entry>
+	<entry>
+		<chapter>10</chapter>
+		<type>noun</type>
+		<latin>natura, -ae</latin>
+		<english>nature</english>
+		<gender>f</gender>
+		<declension>1</declension>
+	</entry>
+	<entry>
+		<chapter>10</chapter>
+		<type>noun</type>
+		<latin>senectus, senectutis</latin>
+		<english>old age</english>
+		<gender>f</gender>
+		<declension>3</declension>
+	</entry>
+	<entry>
+		<chapter>10</chapter>
+		<type>noun</type>
+		<latin>timor, timoris</latin>
+		<english>fear</english>
+		<gender>m</gender>
+		<declension>3</declension>
+	</entry>
+	<entry>
+		<chapter>10</chapter>
+		<type>noun</type>
+		<latin>veritas, veritatis</latin>
+		<english>truth</english>
+		<gender>f</gender>
+		<declension>3</declension>
+	</entry>
+	<entry>
+		<chapter>10</chapter>
+		<type>noun</type>
+		<latin>via, -ae</latin>
+		<english>way, road, street</english>
+		<gender>f</gender>
+		<declension>1</declension>
+	</entry>
+	<entry>
+		<chapter>10</chapter>
+		<type>noun</type>
+		<latin>voluptas, voluptatis</latin>
+		<english>pleasure</english>
+		<gender>f</gender>
+		<declension>3</declension>
+	</entry>
+	<entry>
+		<chapter>10</chapter>
+		<type>adjective</type>
+		<latin>beatus, -a, -um</latin>
+		<english>happy, fortunate, blessed</english>
+	</entry>
+	<entry>
+		<chapter>10</chapter>
+		<type>conjunction</type>
+		<latin>quoniam</latin>
+		<english>since, inasmuch as</english>
+	</entry>
+	<entry>
+		<chapter>10</chapter>
+		<type>preposition</type>
+		<latin>cum</latin>
+		<english>with</english>
+		<notes>takes ablative</notes>
+	</entry>
+	<entry>
+		<chapter>10</chapter>
+		<type>verb</type>
+		<latin>audio, audire, audivi, auditum</latin>
+		<english>to hear, listen to</english>
+		<conjugation>4</conjugation>
+	</entry>
+	<entry>
+		<chapter>10</chapter>
+		<type>verb</type>
+		<latin>capio, capere, cepi, captum</latin>
+		<english>to take, capture, seize, get</english>
+		<conjugation>3i</conjugation>
+	</entry>
+	<entry>
+		<chapter>10</chapter>
+		<type>verb</type>
+		<latin>dico, dicere, dixi, dictum</latin>
+		<english>to say, tell, speak; name, call</english>
+		<conjugation>3</conjugation>
+	</entry>
+	<entry>
+		<chapter>10</chapter>
+		<type>verb</type>
+		<latin>facio, facere, feci, factum</latin>
+		<english>to make, do, accomplish</english>
+		<conjugation>3i</conjugation>
+	</entry>
+	<entry>
+		<chapter>10</chapter>
+		<type>verb</type>
+		<latin>fugio, fugere, fugi, fugitum</latin>
+		<english>to flee, hurry away; go into exile; avoid, shun</english>
+		<conjugation>3i</conjugation>
+	</entry>
+	<entry>
+		<chapter>10</chapter>
+		<type>verb</type>
+		<latin>venio, venire, veni, ventum</latin>
+		<english>to come</english>
+		<conjugation>4</conjugation>
+	</entry>
+	<entry>
+		<chapter>10</chapter>
+		<type>verb</type>
+		<latin>invenio, invenire, inveni, inventum</latin>
+		<english>to come upon, find</english>
+		<conjugation>4</conjugation>
+	</entry>
+	<entry>
+		<chapter>10</chapter>
+		<type>verb</type>
+		<latin>vivo, vivere, vixi, victum</latin>
+		<english>to live</english>
+		<conjugation>3</conjugation>
+	</entry>
+</vocab>

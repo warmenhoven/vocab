@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding='utf-8'?>
+<vocab>
+	<entry>
+		<chapter>19</chapter>
+		<type>noun</type>
+		<latin>argumentum, -i</latin>
+		<english>proof, evidence, argument</english>
+		<gender>n</gender>
+		<declension>2</declension>
+	</entry>
+	<entry>
+		<chapter>19</chapter>
+		<type>noun</type>
+		<latin>auctor, auctoris</latin>
+		<english>increaser, author, originator</english>
+		<gender>m</gender>
+		<declension>3</declension>
+	</entry>
+	<entry>
+		<chapter>19</chapter>
+		<type>noun</type>
+		<latin>beneficium, -ii</latin>
+		<english>benefit, kindness; favor</english>
+		<gender>n</gender>
+		<declension>2</declension>
+	</entry>
+	<entry>
+		<chapter>19</chapter>
+		<type>noun</type>
+		<latin>familia, -ae</latin>
+		<english>household, family</english>
+		<gender>f</gender>
+		<declension>1</declension>
+	</entry>
+	<entry>
+		<chapter>19</chapter>
+		<type>noun</type>
+		<latin>Graecia, -ae</latin>
+		<english>Greece</english>
+		<gender>f</gender>
+		<declension>1</declension>
+	</entry>
+	<entry>
+		<chapter>19</chapter>
+		<type>noun</type>
+		<latin>iudex, iudicis</latin>
+		<english>judge, juror</english>
+		<gender>m</gender>
+		<declension>3</declension>
+	</entry>
+	<entry>
+		<chapter>19</chapter>
+		<type>noun</type>
+		<latin>iudicium, -ii</latin>
+		<english>judgement, decision, opinion; trial</english>
+		<gender>n</gender>
+		<declension>2</declension>
+	</entry>
+	<entry>
+		<chapter>19</chapter>
+		<type>noun</type>
+		<latin>scelus, sceleris</latin>
+		<english>evil deed, crime, sin, wickedness</english>
+		<gender>n</gender>
+		<declension>3</declension>
+	</entry>
+	<entry>
+		<chapter>19</chapter>
+		<type>pronoun</type>
+		<latin>quis?, quid?</latin>
+		<english>who?, whose?, whom?, what?, which?</english>
+	</entry>
+	<entry>
+		<chapter>19</chapter>
+		<type>adjective</type>
+		<latin>qui?, quae?, quod?</latin>
+		<english>what?, which?, what kind of?</english>
+	</entry>
+	<entry>
+		<chapter>19</chapter>
+		<type>adjective</type>
+		<latin>certus, -a, -um</latin>
+		<english>definite, sure, certain, reliable</english>
+	</entry>
+	<entry>
+		<chapter>19</chapter>
+		<type>adjective</type>
+		<latin>gravis, grave</latin>
+		<english>heavy, weighty, serious, important, severe, grievous</english>
+	</entry>
+	<entry>
+		<chapter>19</chapter>
+		<type>adjective</type>
+		<latin>immortalis, immortale</latin>
+		<english>not subject to death, immortal</english>
+	</entry>
+	<entry>
+		<chapter>19</chapter>
+		<type>conjunction</type>
+		<latin>at</latin>
+		<english>but; but, mind you; but, you say</english>
+	</entry>
+	<entry>
+		<chapter>19</chapter>
+		<type>conjunction</type>
+		<latin>nisi</latin>
+		<english>if...not, unless; except</english>
+	</entry>
+	<entry>
+		<chapter>19</chapter>
+		<type>preposition</type>
+		<latin>contra</latin>
+		<english>against</english>
+		<notes>takes accusative</notes>
+	</entry>
+	<entry>
+		<chapter>19</chapter>
+		<type>adverb</type>
+		<latin>iam</latin>
+		<english>now; already, soon</english>
+	</entry>
+	<entry>
+		<chapter>19</chapter>
+		<type>verb</type>
+		<latin>delecto, delectare, delectavi, delectatum</latin>
+		<english>to delight, charm, please</english>
+		<conjugation>1</conjugation>
+	</entry>
+	<entry>
+		<chapter>19</chapter>
+		<type>verb</type>
+		<latin>libero, liberare, liberavi, liberatum</latin>
+		<english>to free, liberate</english>
+		<conjugation>1</conjugation>
+	</entry>
+	<entry>
+		<chapter>19</chapter>
+		<type>verb</type>
+		<latin>paro, parare, paravi, paratum</latin>
+		<english>to prepare, provide, get, obtain</english>
+		<conjugation>1</conjugation>
+	</entry>
+</vocab>

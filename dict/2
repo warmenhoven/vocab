@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding='utf-8'?>
+<vocab>
+	<entry>
+		<chapter>2</chapter>
+		<type>noun</type>
+		<latin>fama, -ae</latin>
+		<english>rumour, report; fame, reputation</english>
+		<gender>f</gender>
+		<declension>1</declension>
+	</entry>
+	<entry>
+		<chapter>2</chapter>
+		<type>noun</type>
+		<latin>forma, -ae</latin>
+		<english>form, shape; beauty</english>
+		<gender>f</gender>
+		<declension>1</declension>
+	</entry>
+	<entry>
+		<chapter>2</chapter>
+		<type>noun</type>
+		<latin>fortuna, -ae</latin>
+		<english>fortune, luck</english>
+		<gender>f</gender>
+		<declension>1</declension>
+	</entry>
+	<entry>
+		<chapter>2</chapter>
+		<type>noun</type>
+		<latin>ira, -ae</latin>
+		<english>ire, anger</english>
+		<gender>f</gender>
+		<declension>1</declension>
+	</entry>
+	<entry>
+		<chapter>2</chapter>
+		<type>noun</type>
+		<latin>nauta, -ae</latin>
+		<english>sailor</english>
+		<gender>m</gender>
+		<declension>1</declension>
+	</entry>
+	<entry>
+		<chapter>2</chapter>
+		<type>noun</type>
+		<latin>patria, -ae</latin>
+		<english>fatherland, native land, (one's) country</english>
+		<gender>f</gender>
+		<declension>1</declension>
+	</entry>
+	<entry>
+		<chapter>2</chapter>
+		<type>noun</type>
+		<latin>pecunia, -ae</latin>
+		<english>money</english>
+		<gender>f</gender>
+		<declension>1</declension>
+	</entry>
+	<entry>
+		<chapter>2</chapter>
+		<type>noun</type>
+		<latin>philosophia, -ae</latin>
+		<english>philosophy</english>
+		<gender>f</gender>
+		<declension>1</declension>
+		<notes>Greek philosophia: love of wisdom</notes>
+	</entry>
+	<entry>
+		<chapter>2</chapter>
+		<type>noun</type>
+		<latin>poena, -ae</latin>
+		<english>penalty, punishment</english>
+		<gender>f</gender>
+		<declension>1</declension>
+		<notes>idiom, poenas dare: to pay the penalty</notes>
+	</entry>
+	<entry>
+		<chapter>2</chapter>
+		<type>noun</type>
+		<latin>poeta, -ae</latin>
+		<english>poet</english>
+		<gender>m</gender>
+		<declension>1</declension>
+	</entry>
+	<entry>
+		<chapter>2</chapter>
+		<type>noun</type>
+		<latin>porta, -ae</latin>
+		<english>gate, entrance</english>
+		<gender>f</gender>
+		<declension>1</declension>
+	</entry>
+	<entry>
+		<chapter>2</chapter>
+		<type>noun</type>
+		<latin>puella, -ae</latin>
+		<english>girl</english>
+		<gender>f</gender>
+		<declension>1</declension>
+	</entry>
+	<entry>
+		<chapter>2</chapter>
+		<type>noun</type>
+		<latin>rosa, -ae</latin>
+		<english>rose</english>
+		<gender>f</gender>
+		<declension>1</declension>
+	</entry>
+	<entry>
+		<chapter>2</chapter>
+		<type>noun</type>
+		<latin>sententia, -ae</latin>
+		<english>feeling, thought, opinion, vote, sentence</english>
+		<gender>f</gender>
+		<declension>1</declension>
+	</entry>
+	<entry>
+		<chapter>2</chapter>
+		<type>noun</type>
+		<latin>vita, -ae</latin>
+		<english>life; mode of life</english>
+		<gender>f</gender>
+		<declension>1</declension>
+	</entry>
+	<entry>
+		<chapter>2</chapter>
+		<type>adjective</type>
+		<latin>antiquus, -a, -um</latin>
+		<english>ancient, old-time</english>
+	</entry>
+	<entry>
+		<chapter>2</chapter>
+		<type>adjective</type>
+		<latin>magnus, -a, -um</latin>
+		<english>large, great, important</english>
+	</entry>
+	<entry>
+		<chapter>2</chapter>
+		<type>adjective</type>
+		<latin>meus, -a, -um</latin>
+		<english>my</english>
+	</entry>
+	<entry>
+		<chapter>2</chapter>
+		<type>adjective</type>
+		<latin>multus, -a, -um</latin>
+		<english>much, many</english>
+	</entry>
+	<entry>
+		<chapter>2</chapter>
+		<type>adjective</type>
+		<latin>tuus, -a, -um</latin>
+		<english>your</english>
+		<notes>used when speaking to one person</notes>
+	</entry>
+	<entry>
+		<chapter>2</chapter>
+		<type>conjunction</type>
+		<latin>et</latin>
+		<english>and</english>
+		<notes>et...et: both...and</notes>
+	</entry>
+	<entry>
+		<chapter>2</chapter>
+		<type>conjunction</type>
+		<latin>sed</latin>
+		<english>but</english>
+	</entry>
+	<entry>
+		<chapter>2</chapter>
+		<type>interjection</type>
+		<latin>O</latin>
+		<english>O!, Oh!</english>
+		<notes>commonly used with the vocative</notes>
+	</entry>
+	<entry>
+		<chapter>2</chapter>
+		<type>preposition</type>
+		<latin>sine</latin>
+		<english>without</english>
+		<notes>takes ablative</notes>
+	</entry>
+</vocab>

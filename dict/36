@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding='utf-8'?>
+<vocab>
+	<entry>
+		<chapter>36</chapter>
+		<type>noun</type>
+		<latin>cupido, cupidinis</latin>
+		<english>desire, passion</english>
+		<gender>f</gender>
+		<declension>3</declension>
+	</entry>
+	<entry>
+		<chapter>36</chapter>
+		<type>noun</type>
+		<latin>lector, lectoris</latin>
+		<english>reader</english>
+		<gender>m</gender>
+		<declension>3</declension>
+	</entry>
+	<entry>
+		<chapter>36</chapter>
+		<type>noun</type>
+		<latin>lectrix, lectricis</latin>
+		<english>reader</english>
+		<gender>f</gender>
+		<declension>3</declension>
+	</entry>
+	<entry>
+		<chapter>36</chapter>
+		<type>noun</type>
+		<latin>vinculum, -i</latin>
+		<english>bond, chain, fetter</english>
+		<gender>n</gender>
+		<declension>2</declension>
+	</entry>
+	<entry>
+		<chapter>36</chapter>
+		<type>adverb</type>
+		<latin>cotidie</latin>
+		<english>daily, every day</english>
+	</entry>
+	<entry>
+		<chapter>36</chapter>
+		<type>adverb</type>
+		<latin>fortasse</latin>
+		<english>perhaps</english>
+	</entry>
+	<entry>
+		<chapter>36</chapter>
+		<type>verb</type>
+		<latin>accedo, accedere, accessi, accessum</latin>
+		<english>to come (to), approach</english>
+		<conjugation>3</conjugation>
+	</entry>
+	<entry>
+		<chapter>36</chapter>
+		<type>verb</type>
+		<latin>carpo, carpere, carpsi, carptum</latin>
+		<english>to harvest, pluck, seize</english>
+		<conjugation>3</conjugation>
+	</entry>
+	<entry>
+		<chapter>36</chapter>
+		<type>verb</type>
+		<latin>cogo, cogere, coegi, coactum</latin>
+		<english>to drive together, bring together, force, compel</english>
+		<conjugation>3</conjugation>
+	</entry>
+	<entry>
+		<chapter>36</chapter>
+		<type>verb</type>
+		<latin>contemno, contemnere, contempsi, contemptum</latin>
+		<english>to despise, scorn</english>
+		<conjugation>3</conjugation>
+	</entry>
+	<entry>
+		<chapter>36</chapter>
+		<type>verb</type>
+		<latin>contundo, contundere, contudi, contusum</latin>
+		<english>to beat, crush, bruise, destroy</english>
+		<conjugation>3</conjugation>
+	</entry>
+	<entry>
+		<chapter>36</chapter>
+		<type>verb</type>
+		<latin>curo, curare, curavi, curatum</latin>
+		<english>to care for, attend to; heal, cure; take care</english>
+		<conjugation>1</conjugation>
+	</entry>
+	<entry>
+		<chapter>36</chapter>
+		<type>verb</type>
+		<latin>decerno, decernere, decrevi, decretum</latin>
+		<english>to decide, settle, decree</english>
+		<conjugation>3</conjugation>
+	</entry>
+	<entry>
+		<chapter>36</chapter>
+		<type>verb</type>
+		<latin>exigo, exigere, exegi, exactum</latin>
+		<english>to drive out, force out, exact; drive through, complete, perfect</english>
+		<conjugation>3</conjugation>
+	</entry>
+	<entry>
+		<chapter>36</chapter>
+		<type>verb</type>
+		<latin>fio, fieri, factus sum, -</latin>
+		<english>to occur, happen, become; be made, be done</english>
+		<conjugation>0</conjugation>
+	</entry>
+	<entry>
+		<chapter>36</chapter>
+		<type>verb</type>
+		<latin>oblecto, oblectare, oblectavi, oblectatum</latin>
+		<english>to please, amuse, delight; pass time pleasantly</english>
+		<conjugation>1</conjugation>
+	</entry>
+	<entry>
+		<chapter>36</chapter>
+		<type>verb</type>
+		<latin>oro, orare, oravi, oratum</latin>
+		<english>to speak, plead; beg, beseech, entreat</english>
+		<conjugation>1</conjugation>
+	</entry>
+	<entry>
+		<chapter>36</chapter>
+		<type>verb</type>
+		<latin>recreo, recreare, recreavi, recreatum</latin>
+		<english>to restore, revive; refresh, cheer</english>
+		<conjugation>1</conjugation>
+	</entry>
+	<entry>
+		<chapter>36</chapter>
+		<type>verb</type>
+		<latin>requiro, requirere, requisivi, requisitum</latin>
+		<english>to seek, ask for, miss, need, require</english>
+		<conjugation>3</conjugation>
+	</entry>
+	<entry>
+		<chapter>36</chapter>
+		<type>verb</type>
+		<latin>sereno, serenare, serenavi, serenatum</latin>
+		<english>to make clear, brighten; cheer up, soothe</english>
+		<conjugation>1</conjugation>
+	</entry>
+</vocab>

@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding='utf-8'?>
+<vocab>
+	<entry>
+		<chapter>40</chapter>
+		<type>noun</type>
+		<latin>aes, aeris</latin>
+		<english>bronze</english>
+		<gender>n</gender>
+		<declension>3</declension>
+	</entry>
+	<entry>
+		<chapter>40</chapter>
+		<type>noun</type>
+		<latin>dominus, -i</latin>
+		<english>master (of a household), lord</english>
+		<gender>m</gender>
+		<declension>2</declension>
+	</entry>
+	<entry>
+		<chapter>40</chapter>
+		<type>noun</type>
+		<latin>domina, -ae</latin>
+		<english>mistress, lady</english>
+		<gender>f</gender>
+		<declension>1</declension>
+	</entry>
+	<entry>
+		<chapter>40</chapter>
+		<type>noun</type>
+		<latin>lacrima, -ae</latin>
+		<english>tear</english>
+		<gender>f</gender>
+		<declension>1</declension>
+	</entry>
+	<entry>
+		<chapter>40</chapter>
+		<type>noun</type>
+		<latin>meta, -ae</latin>
+		<english>turning post, goal; limit</english>
+		<gender>f</gender>
+		<declension>1</declension>
+	</entry>
+	<entry>
+		<chapter>40</chapter>
+		<type>noun</type>
+		<latin>monumentum, -i</latin>
+		<english>monument</english>
+		<gender>n</gender>
+		<declension>2</declension>
+	</entry>
+	<entry>
+		<chapter>40</chapter>
+		<type>noun</type>
+		<latin>nasus, -i</latin>
+		<english>nose</english>
+		<gender>m</gender>
+		<declension>2</declension>
+	</entry>
+	<entry>
+		<chapter>40</chapter>
+		<type>noun</type>
+		<latin>saxum, -i</latin>
+		<english>rock, stone</english>
+		<gender>n</gender>
+		<declension>2</declension>
+	</entry>
+	<entry>
+		<chapter>40</chapter>
+		<type>noun</type>
+		<latin>vultus, -us</latin>
+		<english>countenance, face</english>
+		<gender>m</gender>
+		<declension>4</declension>
+	</entry>
+	<entry>
+		<chapter>40</chapter>
+		<type>adjective</type>
+		<latin>iustus, -a, -um</latin>
+		<english>just, right</english>
+	</entry>
+	<entry>
+		<chapter>40</chapter>
+		<type>adjective</type>
+		<latin>tot</latin>
+		<english>so many</english>
+		<notes>indeclinable</notes>
+	</entry>
+	<entry>
+		<chapter>40</chapter>
+		<type>preposition</type>
+		<latin>praeter, prep.</latin>
+		<english>besides, except; beyond past</english>
+		<notes>takes accusative</notes>
+	</entry>
+	<entry>
+		<chapter>40</chapter>
+		<type>adverb</type>
+		<latin>nonne</latin>
+		<english>yes question</english>
+		<notes>introduces questions expecting the answer yes</notes>
+	</entry>
+	<entry>
+		<chapter>40</chapter>
+		<type>adverb</type>
+		<latin>num</latin>
+		<english>no question; whether</english>
+		<notes>introduces questions expecting the answer no; introduces indirect questions and means whether</notes>
+	</entry>
+	<entry>
+		<chapter>40</chapter>
+		<type>adverb</type>
+		<latin>omnino, adv.</latin>
+		<english>wholly, entirely, altogether</english>
+	</entry>
+	<entry>
+		<chapter>40</chapter>
+		<type>adverb</type>
+		<latin>postremum</latin>
+		<english>after all, finally; for the last time</english>
+	</entry>
+	<entry>
+		<chapter>40</chapter>
+		<type>adverb</type>
+		<latin>quin</latin>
+		<english>indeed, in fact</english>
+	</entry>
+	<entry>
+		<chapter>40</chapter>
+		<type>verb</type>
+		<latin>explico, explicare, explicavi, explicatum</latin>
+		<english>to unfold, explain; spread out, deploy</english>
+		<conjugation>1</conjugation>
+	</entry>
+	<entry>
+		<chapter>40</chapter>
+		<type>verb</type>
+		<latin>fatigo, fatigare, fatigavi, fatigatum</latin>
+		<english>to weary, tire out</english>
+		<conjugation>1</conjugation>
+	</entry>
+	<entry>
+		<chapter>40</chapter>
+		<type>verb</type>
+		<latin>for, fari, fatus sum, -</latin>
+		<english>to speak (prophetically), talk, foretell</english>
+		<conjugation>1</conjugation>
+	</entry>
+	<entry>
+		<chapter>40</chapter>
+		<type>verb</type>
+		<latin>opinor, opinari, opinatus sum, -</latin>
+		<english>to suppose</english>
+		<conjugation>1</conjugation>
+	</entry>
+	<entry>
+		<chapter>40</chapter>
+		<type>verb</type>
+		<latin>reperio, reperire, repperi, repertum</latin>
+		<english>to find, discover, learn, get</english>
+		<conjugation>4</conjugation>
+	</entry>
+	<entry>
+		<chapter>40</chapter>
+		<type>verb</type>
+		<latin>vereor, vereri, vertus sum, -</latin>
+		<english>to show reverence for, respect; be afraid of, fear</english>
+		<conjugation>4</conjugation>
+	</entry>
+</vocab>

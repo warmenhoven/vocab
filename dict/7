@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding='utf-8'?>
+<vocab>
+	<entry>
+		<chapter>7</chapter>
+		<type>noun</type>
+		<latin>amor, amoris</latin>
+		<english>love</english>
+		<gender>m</gender>
+		<declension>3</declension>
+	</entry>
+	<entry>
+		<chapter>7</chapter>
+		<type>noun</type>
+		<latin>carmen, carminis</latin>
+		<english>song, poem</english>
+		<gender>n</gender>
+		<declension>3</declension>
+	</entry>
+	<entry>
+		<chapter>7</chapter>
+		<type>noun</type>
+		<latin>corpus, corporis</latin>
+		<english>body</english>
+		<gender>n</gender>
+		<declension>3</declension>
+	</entry>
+	<entry>
+		<chapter>7</chapter>
+		<type>noun</type>
+		<latin>homo, hominis</latin>
+		<english>human being, man</english>
+		<gender>m</gender>
+		<declension>3</declension>
+	</entry>
+	<entry>
+		<chapter>7</chapter>
+		<type>noun</type>
+		<latin>labor, laboris</latin>
+		<english>labor, work, toil; a work, production</english>
+		<gender>m</gender>
+		<declension>3</declension>
+	</entry>
+	<entry>
+		<chapter>7</chapter>
+		<type>noun</type>
+		<latin>littera, -ae</latin>
+		<english>a letter of the alphabet; (plural) a letter, literature</english>
+		<gender>f</gender>
+		<declension>1</declension>
+	</entry>
+	<entry>
+		<chapter>7</chapter>
+		<type>noun</type>
+		<latin>mos, moris</latin>
+		<english>habit, custom, manner; (plural) habits, character</english>
+		<gender>m</gender>
+		<declension>3</declension>
+	</entry>
+	<entry>
+		<chapter>7</chapter>
+		<type>noun</type>
+		<latin>nomen, nominis</latin>
+		<english>name</english>
+		<gender>n</gender>
+		<declension>3</declension>
+	</entry>
+	<entry>
+		<chapter>7</chapter>
+		<type>noun</type>
+		<latin>pax, pacis</latin>
+		<english>peace</english>
+		<gender>f</gender>
+		<declension>3</declension>
+	</entry>
+	<entry>
+		<chapter>7</chapter>
+		<type>noun</type>
+		<latin>regina, -ae</latin>
+		<english>queen</english>
+		<gender>f</gender>
+		<declension>1</declension>
+	</entry>
+	<entry>
+		<chapter>7</chapter>
+		<type>noun</type>
+		<latin>rex, regis</latin>
+		<english>king</english>
+		<gender>m</gender>
+		<declension>3</declension>
+	</entry>
+	<entry>
+		<chapter>7</chapter>
+		<type>noun</type>
+		<latin>tempus, temporis</latin>
+		<english>time; occasion, opportunity</english>
+		<gender>n</gender>
+		<declension>3</declension>
+	</entry>
+	<entry>
+		<chapter>7</chapter>
+		<type>noun</type>
+		<latin>terra, -ae</latin>
+		<english>earth, ground, land, country</english>
+		<gender>f</gender>
+		<declension>1</declension>
+	</entry>
+	<entry>
+		<chapter>7</chapter>
+		<type>noun</type>
+		<latin>uxor, uxoris</latin>
+		<english>wife</english>
+		<gender>f</gender>
+		<declension>3</declension>
+	</entry>
+	<entry>
+		<chapter>7</chapter>
+		<type>noun</type>
+		<latin>virgo, virginis</latin>
+		<english>maiden, virgin</english>
+		<gender>f</gender>
+		<declension>3</declension>
+	</entry>
+	<entry>
+		<chapter>7</chapter>
+		<type>noun</type>
+		<latin>virtus, virtutis</latin>
+		<english>manliness, courage, excellence, character, worth, virtue</english>
+		<gender>f</gender>
+		<declension>3</declension>
+	</entry>
+	<entry>
+		<chapter>7</chapter>
+		<type>adjective</type>
+		<latin>novus, -a, -um</latin>
+		<english>new; strange</english>
+	</entry>
+	<entry>
+		<chapter>7</chapter>
+		<type>preposition</type>
+		<latin>post</latin>
+		<english>after, behind</english>
+		<notes>takes accusative</notes>
+	</entry>
+	<entry>
+		<chapter>7</chapter>
+		<type>preposition</type>
+		<latin>sub</latin>
+		<english>under, up under, close to</english>
+		<notes>takes ablative with verbs of rest, takes accusative with verbs of motion</notes>
+	</entry>
+	<entry>
+		<chapter>7</chapter>
+		<type>verb</type>
+		<latin>audeo, audere, ausus sum, -</latin>
+		<english>to dare</english>
+		<conjugation>2</conjugation>
+	</entry>
+	<entry>
+		<chapter>7</chapter>
+		<type>verb</type>
+		<latin>neco, necare, necavi, necatum</latin>
+		<english>to murder, kill</english>
+		<conjugation>1</conjugation>
+	</entry>
+</vocab>

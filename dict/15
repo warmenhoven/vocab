@@ -1,0 +1,480 @@
+<?xml version="1.0" encoding='utf-8'?>
+<vocab>
+	<entry>
+		<chapter>15</chapter>
+		<type>noun</type>
+		<latin>Italia, -ae</latin>
+		<english>Italy</english>
+		<gender>f</gender>
+		<declension>1</declension>
+	</entry>
+	<entry>
+		<chapter>15</chapter>
+		<type>noun</type>
+		<latin>memoria, -ae</latin>
+		<english>memory, recollection</english>
+		<gender>f</gender>
+		<declension>1</declension>
+	</entry>
+	<entry>
+		<chapter>15</chapter>
+		<type>noun</type>
+		<latin>tempestas, tempestatis</latin>
+		<english>period of time, season; weather, storm</english>
+		<gender>f</gender>
+		<declension>3</declension>
+	</entry>
+	<entry>
+		<chapter>15</chapter>
+		<type>adjective, cardinal</type>
+		<latin>centum</latin>
+		<english>a hundred</english>
+	</entry>
+	<entry>
+		<chapter>15</chapter>
+		<type>adjective</type>
+		<latin>mille</latin>
+		<english>thousand; (plural) thousands</english>
+	</entry>
+	<entry>
+		<chapter>15</chapter>
+		<type>adjective</type>
+		<latin>miser, misera, miserum</latin>
+		<english>wretched, miserable, unfortunate</english>
+	</entry>
+	<entry>
+		<chapter>15</chapter>
+		<type>preposition</type>
+		<latin>inter</latin>
+		<english>between, among</english>
+		<notes>takes accusative</notes>
+	</entry>
+	<entry>
+		<chapter>15</chapter>
+		<type>adverb</type>
+		<latin>itaque</latin>
+		<english>and so, therefore</english>
+	</entry>
+	<entry>
+		<chapter>15</chapter>
+		<type>verb</type>
+		<latin>committo, committer, commisi, commissum</latin>
+		<english>to entrust, commit</english>
+		<conjugagtion>3</conjugagtion>
+	</entry>
+	<entry>
+		<chapter>15</chapter>
+		<type>verb</type>
+		<latin>expecto, expectare, expectavi, expectatum</latin>
+		<english>to look for, expect, await</english>
+		<conjugagtion>1</conjugagtion>
+	</entry>
+	<entry>
+		<chapter>15</chapter>
+		<type>verb</type>
+		<latin>iacio, iacere, ieci, iectum</latin>
+		<english>to throw, hurl</english>
+		<conjugagtion>3i</conjugagtion>
+	</entry>
+	<entry>
+		<chapter>15</chapter>
+		<type>verb</type>
+		<latin>timeo, timere, timui, -</latin>
+		<english>to fear, be afraid of, be afraid</english>
+		<conjugagtion>2</conjugagtion>
+	</entry>
+	<entry>
+		<chapter>15</chapter>
+		<type>adjective, cardinal</type>
+		<latin>unus, -a, -um</latin>
+		<english>one</english>
+	</entry>
+	<entry>
+		<chapter>15</chapter>
+		<type>adjective, cardinal</type>
+		<latin>duo, duae, duo</latin>
+		<english>two</english>
+		<notes>always plural</notes>
+	</entry>
+	<entry>
+		<chapter>15</chapter>
+		<type>adjective, cardinal</type>
+		<latin>tres, tria</latin>
+		<english>three</english>
+	</entry>
+	<entry>
+		<chapter>15</chapter>
+		<type>adjective, cardinal</type>
+		<latin>quattuor</latin>
+		<english>four</english>
+	</entry>
+	<entry>
+		<chapter>15</chapter>
+		<type>adjective, cardinal</type>
+		<latin>quinque</latin>
+		<english>five</english>
+	</entry>
+	<entry>
+		<chapter>15</chapter>
+		<type>adjective, cardinal</type>
+		<latin>sex</latin>
+		<english>six</english>
+	</entry>
+	<entry>
+		<chapter>15</chapter>
+		<type>adjective, cardinal</type>
+		<latin>septem</latin>
+		<english>seven</english>
+	</entry>
+	<entry>
+		<chapter>15</chapter>
+		<type>adjective, cardinal</type>
+		<latin>octo</latin>
+		<english>eight</english>
+	</entry>
+	<entry>
+		<chapter>15</chapter>
+		<type>adjective, cardinal</type>
+		<latin>novem</latin>
+		<english>nine</english>
+	</entry>
+	<entry>
+		<chapter>15</chapter>
+		<type>adjective, cardinal</type>
+		<latin>decem</latin>
+		<english>ten</english>
+	</entry>
+	<entry>
+		<chapter>15</chapter>
+		<type>adjective, cardinal</type>
+		<latin>undecim</latin>
+		<english>eleven</english>
+	</entry>
+	<entry>
+		<chapter>15</chapter>
+		<type>adjective, cardinal</type>
+		<latin>duodecim</latin>
+		<english>twelve</english>
+	</entry>
+	<entry>
+		<chapter>15</chapter>
+		<type>adjective, cardinal</type>
+		<latin>tredecim</latin>
+		<english>thirteen</english>
+	</entry>
+	<entry>
+		<chapter>15</chapter>
+		<type>adjective, cardinal</type>
+		<latin>quattuordecim</latin>
+		<english>fourteen</english>
+	</entry>
+	<entry>
+		<chapter>15</chapter>
+		<type>adjective, cardinal</type>
+		<latin>quindecim</latin>
+		<english>fifteen</english>
+	</entry>
+	<entry>
+		<chapter>15</chapter>
+		<type>adjective, cardinal</type>
+		<latin>sedecim</latin>
+		<english>sixteen</english>
+	</entry>
+	<entry>
+		<chapter>15</chapter>
+		<type>adjective, cardinal</type>
+		<latin>septendecim</latin>
+		<english>seventeen</english>
+	</entry>
+	<entry>
+		<chapter>15</chapter>
+		<type>adjective, cardinal</type>
+		<latin>duodeviginti</latin>
+		<english>eighteen</english>
+		<notes>literally two from twenty</notes>
+	</entry>
+	<entry>
+		<chapter>15</chapter>
+		<type>adjective, cardinal</type>
+		<latin>undeviginti</latin>
+		<english>nineteen</english>
+		<notes>literally one from twenty</notes>
+	</entry>
+	<entry>
+		<chapter>15</chapter>
+		<type>adjective, cardinal</type>
+		<latin>viginti</latin>
+		<english>twenty</english>
+	</entry>
+	<entry>
+		<chapter>15</chapter>
+		<type>adjective, cardinal</type>
+		<latin>viginti unus</latin>
+		<english>twenty-one</english>
+		<notes>also unus et viginti</notes>
+	</entry>
+	<entry>
+		<chapter>15</chapter>
+		<type>adjective, cardinal</type>
+		<latin>viginti duo</latin>
+		<english>twenty-two</english>
+		<notes>also duo et viginti</notes>
+	</entry>
+	<entry>
+		<chapter>15</chapter>
+		<type>adjective, cardinal</type>
+		<latin>viginti tres</latin>
+		<english>twenty-three</english>
+		<notes>also tres et viginti</notes>
+	</entry>
+	<entry>
+		<chapter>15</chapter>
+		<type>adjective, cardinal</type>
+		<latin>viginti quattuor</latin>
+		<english>twenty-four</english>
+		<notes>also quattuor et viginti</notes>
+	</entry>
+	<entry>
+		<chapter>15</chapter>
+		<type>adjective, cardinal</type>
+		<latin>viginti quinque</latin>
+		<english>twenty-five</english>
+		<notes>also quinque et viginti</notes>
+	</entry>
+	<entry>
+		<chapter>15</chapter>
+		<type>adjective, cardinal</type>
+		<latin>triginta</latin>
+		<english>thirty</english>
+	</entry>
+	<entry>
+		<chapter>15</chapter>
+		<type>adjective, cardinal</type>
+		<latin>quadraginta</latin>
+		<english>forty</english>
+	</entry>
+	<entry>
+		<chapter>15</chapter>
+		<type>adjective, cardinal</type>
+		<latin>quinquaginta</latin>
+		<english>fifty</english>
+	</entry>
+	<entry>
+		<chapter>15</chapter>
+		<type>adjective, cardinal</type>
+		<latin>sexaginta</latin>
+		<english>sixty</english>
+	</entry>
+	<entry>
+		<chapter>15</chapter>
+		<type>adjective, cardinal</type>
+		<latin>septuaginta</latin>
+		<english>seventy</english>
+	</entry>
+	<entry>
+		<chapter>15</chapter>
+		<type>adjective, cardinal</type>
+		<latin>octoginta</latin>
+		<english>eighty</english>
+	</entry>
+	<entry>
+		<chapter>15</chapter>
+		<type>adjective, cardinal</type>
+		<latin>nonaginta</latin>
+		<english>ninety</english>
+	</entry>
+	<entry>
+		<chapter>15</chapter>
+		<type>adjective, ordinal</type>
+		<latin>primus, -a, -um</latin>
+		<english>first</english>
+	</entry>
+	<entry>
+		<chapter>15</chapter>
+		<type>adjective, ordinal</type>
+		<latin>secundus, -a, -um</latin>
+		<english>second</english>
+	</entry>
+	<entry>
+		<chapter>15</chapter>
+		<type>adjective, ordinal</type>
+		<latin>tertius, -a, -um</latin>
+		<english>third</english>
+	</entry>
+	<entry>
+		<chapter>15</chapter>
+		<type>adjective, ordinal</type>
+		<latin>quartus, -a, -um</latin>
+		<english>fourth</english>
+	</entry>
+	<entry>
+		<chapter>15</chapter>
+		<type>adjective, ordinal</type>
+		<latin>quintus, -a, -um</latin>
+		<english>fifth</english>
+	</entry>
+	<entry>
+		<chapter>15</chapter>
+		<type>adjective, ordinal</type>
+		<latin>sextus, -a, -um</latin>
+		<english>sixth</english>
+	</entry>
+	<entry>
+		<chapter>15</chapter>
+		<type>adjective, ordinal</type>
+		<latin>septimus, -a, -um</latin>
+		<english>seventh</english>
+	</entry>
+	<entry>
+		<chapter>15</chapter>
+		<type>adjective, ordinal</type>
+		<latin>octavus, -a, -um</latin>
+		<english>eighth</english>
+	</entry>
+	<entry>
+		<chapter>15</chapter>
+		<type>adjective, ordinal</type>
+		<latin>nonus, -a, -um</latin>
+		<english>nineth</english>
+	</entry>
+	<entry>
+		<chapter>15</chapter>
+		<type>adjective, ordinal</type>
+		<latin>decimus, -a, -um</latin>
+		<english>tenth</english>
+	</entry>
+	<entry>
+		<chapter>15</chapter>
+		<type>adjective, ordinal</type>
+		<latin>undecimus, -a, -um</latin>
+		<english>eleventh</english>
+	</entry>
+	<entry>
+		<chapter>15</chapter>
+		<type>adjective, ordinal</type>
+		<latin>duodecimus, -a, -um</latin>
+		<english>twelfth</english>
+	</entry>
+	<entry>
+		<chapter>15</chapter>
+		<type>adjective, ordinal</type>
+		<latin>tertius decimus, -a, -um</latin>
+		<english>thirteenth</english>
+	</entry>
+	<entry>
+		<chapter>15</chapter>
+		<type>adjective, ordinal</type>
+		<latin>quartus decimus, -a, -um</latin>
+		<english>fourteenth</english>
+	</entry>
+	<entry>
+		<chapter>15</chapter>
+		<type>adjective, ordinal</type>
+		<latin>quintus decimus, -a, -um</latin>
+		<english>fifteenth</english>
+	</entry>
+	<entry>
+		<chapter>15</chapter>
+		<type>adjective, ordinal</type>
+		<latin>sextus decimus, -a, -um</latin>
+		<english>sixteenth</english>
+	</entry>
+	<entry>
+		<chapter>15</chapter>
+		<type>adjective, ordinal</type>
+		<latin>septimus decimus, -a, -um</latin>
+		<english>seventeenth</english>
+	</entry>
+	<entry>
+		<chapter>15</chapter>
+		<type>adjective, ordinal</type>
+		<latin>duodevicesimus, -a, -um</latin>
+		<english>eighteenth</english>
+		<notes>literally two from twenty</notes>
+	</entry>
+	<entry>
+		<chapter>15</chapter>
+		<type>adjective, ordinal</type>
+		<latin>undevicesimus, -a, -um</latin>
+		<english>nineteenth</english>
+		<notes>literally one from twenty</notes>
+	</entry>
+	<entry>
+		<chapter>15</chapter>
+		<type>adjective, ordinal</type>
+		<latin>vicesimus, -a, -um</latin>
+		<english>twentieth</english>
+	</entry>
+	<entry>
+		<chapter>15</chapter>
+		<type>adjective, ordinal</type>
+		<latin>vicesimus primus, -a, -um</latin>
+		<english>twenty-first</english>
+	</entry>
+	<entry>
+		<chapter>15</chapter>
+		<type>adjective, ordinal</type>
+		<latin>vicesimus secundus, -a, -um</latin>
+		<english>twenty-second</english>
+	</entry>
+	<entry>
+		<chapter>15</chapter>
+		<type>adjective, ordinal</type>
+		<latin>vicesimus tertius, -a, -um</latin>
+		<english>twenty-third</english>
+	</entry>
+	<entry>
+		<chapter>15</chapter>
+		<type>adjective, ordinal</type>
+		<latin>vicesimus quartus, -a, -um</latin>
+		<english>twenty-fourth</english>
+	</entry>
+	<entry>
+		<chapter>15</chapter>
+		<type>adjective, ordinal</type>
+		<latin>vicesimus quintus, -a, -um</latin>
+		<english>twenty-fifth</english>
+	</entry>
+	<entry>
+		<chapter>15</chapter>
+		<type>adjective, ordinal</type>
+		<latin>tricesimus</latin>
+		<english>thirtieth</english>
+	</entry>
+	<entry>
+		<chapter>15</chapter>
+		<type>adjective, ordinal</type>
+		<latin>quadragesimus</latin>
+		<english>fortieth</english>
+	</entry>
+	<entry>
+		<chapter>15</chapter>
+		<type>adjective, ordinal</type>
+		<latin>quinquagesimus</latin>
+		<english>fiftieth</english>
+	</entry>
+	<entry>
+		<chapter>15</chapter>
+		<type>adjective, ordinal</type>
+		<latin>sexagesimus</latin>
+		<english>sixtieth</english>
+	</entry>
+	<entry>
+		<chapter>15</chapter>
+		<type>adjective, ordinal</type>
+		<latin>septuagesimus</latin>
+		<english>seventieth</english>
+	</entry>
+	<entry>
+		<chapter>15</chapter>
+		<type>adjective, ordinal</type>
+		<latin>octogesimus</latin>
+		<english>eightieth</english>
+	</entry>
+	<entry>
+		<chapter>15</chapter>
+		<type>adjective, ordinal</type>
+		<latin>nonagesimus</latin>
+		<english>ninetieth</english>
+	</entry>
+</vocab>

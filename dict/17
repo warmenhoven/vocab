@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding='utf-8'?>
+<vocab>
+	<entry>
+		<chapter>17</chapter>
+		<type>noun</type>
+		<latin>libellus, -i</latin>
+		<english>little book</english>
+		<gender>m</gender>
+		<declension>3</declension>
+	</entry>
+	<entry>
+		<chapter>17</chapter>
+		<type>pronoun</type>
+		<latin>qui, quae, quod</latin>
+		<english>who, which, what, that</english>
+	</entry>
+	<entry>
+		<chapter>17</chapter>
+		<type>adjective</type>
+		<latin>caecus, -a, -um</latin>
+		<english>blind</english>
+	</entry>
+	<entry>
+		<chapter>17</chapter>
+		<type>adjective</type>
+		<latin>levis, leve</latin>
+		<english>light, slight, easy, trivial</english>
+	</entry>
+	<entry>
+		<chapter>17</chapter>
+		<type>conjunction</type>
+		<latin>aut</latin>
+		<english>or</english>
+		<notes>aut...aut: either...or</notes>
+	</entry>
+	<entry>
+		<chapter>17</chapter>
+		<type>adverb</type>
+		<latin>quoque</latin>
+		<english>also, too</english>
+	</entry>
+	<entry>
+		<chapter>17</chapter>
+		<type>verb</type>
+		<latin>admitto, admittere, admisi, admissum</latin>
+		<english>to admit, receive, let in</english>
+		<conjugation>3</conjugation>
+	</entry>
+	<entry>
+		<chapter>17</chapter>
+		<type>verb</type>
+		<latin>-, coepisse, coepi, coeptum</latin>
+		<english>began</english>
+		<conjugation>0</conjugation>
+		<notes>only used in the perfect system</notes>
+	</entry>
+	<entry>
+		<chapter>17</chapter>
+		<type>verb</type>
+		<latin>cupio, cupire, cupivi, cupitum</latin>
+		<english>to desire, wish, long for</english>
+		<conjugation>4</conjugation>
+	</entry>
+	<entry>
+		<chapter>17</chapter>
+		<type>verb</type>
+		<latin>deleo, delere, delui, deletum</latin>
+		<english>to destroy, wipe out, erase</english>
+		<conjugation>2</conjugation>
+	</entry>
+	<entry>
+		<chapter>17</chapter>
+		<type>verb</type>
+		<latin>desidero, desiderare, desideravi, desideratum</latin>
+		<english>to desire, long for, miss</english>
+		<conjugation>1</conjugation>
+	</entry>
+	<entry>
+		<chapter>17</chapter>
+		<type>verb</type>
+		<latin>incipio, incipere, incepi, inceptum</latin>
+		<english>to begin</english>
+		<conjugation>3i</conjugation>
+	</entry>
+	<entry>
+		<chapter>17</chapter>
+		<type>verb</type>
+		<latin>navigo, navigare, navigavi, navigatum</latin>
+		<english>to sail, navigate</english>
+		<conjugation>1</conjugation>
+	</entry>
+	<entry>
+		<chapter>17</chapter>
+		<type>verb</type>
+		<latin>neglego, neglegere, neglexi, neglectum</latin>
+		<english>to neglect, disregard</english>
+		<conjugation>3</conjugation>
+	</entry>
+	<entry>
+		<chapter>17</chapter>
+		<type>verb</type>
+		<latin>recito, recitare, recitavi, recitatum</latin>
+		<english>to read aloud, recite</english>
+		<conjugation>1</conjugation>
+	</entry>
+</vocab>

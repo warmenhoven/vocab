@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding='utf-8'?>
+<vocab>
+	<entry>
+		<chapter>32</chapter>
+		<type>noun</type>
+		<latin>custodia, -ae</latin>
+		<english>protection, custody; (plural) guards</english>
+		<gender>f</gender>
+		<declension>1</declension>
+	</entry>
+	<entry>
+		<chapter>32</chapter>
+		<type>noun</type>
+		<latin>exercitus, -us</latin>
+		<english>army</english>
+		<gender>m</gender>
+		<declension>4</declension>
+	</entry>
+	<entry>
+		<chapter>32</chapter>
+		<type>noun</type>
+		<latin>paupertas, paupertatis</latin>
+		<english>poverty, humble circumstance</english>
+		<gender>f</gender>
+		<declension>3</declension>
+	</entry>
+	<entry>
+		<chapter>32</chapter>
+		<type>adjective</type>
+		<latin>dives</latin>
+		<english>rich</english>
+		<notes>genitive divitis or ditis</notes>
+	</entry>
+	<entry>
+		<chapter>32</chapter>
+		<type>adjective</type>
+		<latin>par</latin>
+		<english>equal, like</english>
+		<notes>genitive paris</notes>
+	</entry>
+	<entry>
+		<chapter>32</chapter>
+		<type>adjective</type>
+		<latin>pauper</latin>
+		<english>of small means, poor</english>
+		<notes>genitive pauperis</notes>
+	</entry>
+	<entry>
+		<chapter>32</chapter>
+		<type>conjunction</type>
+		<latin>dummodo</latin>
+		<english>(with subj.) provided that, so long as</english>
+	</entry>
+	<entry>
+		<chapter>32</chapter>
+		<type>adverb</type>
+		<latin>longe</latin>
+		<english>far</english>
+	</entry>
+	<entry>
+		<chapter>32</chapter>
+		<type>adverb</type>
+		<latin>libere</latin>
+		<english>freely</english>
+	</entry>
+	<entry>
+		<chapter>32</chapter>
+		<type>adverb</type>
+		<latin>pulchre</latin>
+		<english>beautifully</english>
+	</entry>
+	<entry>
+		<chapter>32</chapter>
+		<type>adverb</type>
+		<latin>fortiter</latin>
+		<english>bravely</english>
+	</entry>
+	<entry>
+		<chapter>32</chapter>
+		<type>adverb</type>
+		<latin>celeriter</latin>
+		<english>quickly</english>
+	</entry>
+	<entry>
+		<chapter>32</chapter>
+		<type>adverb</type>
+		<latin>acriter</latin>
+		<english>keenly</english>
+	</entry>
+	<entry>
+		<chapter>32</chapter>
+		<type>adverb</type>
+		<latin>feliciter</latin>
+		<english>happily</english>
+	</entry>
+	<entry>
+		<chapter>32</chapter>
+		<type>adverb</type>
+		<latin>sapienter</latin>
+		<english>wisely</english>
+	</entry>
+	<entry>
+		<chapter>32</chapter>
+		<type>adverb</type>
+		<latin>facile</latin>
+		<english>easily</english>
+	</entry>
+	<entry>
+		<chapter>32</chapter>
+		<type>adverb</type>
+		<latin>bene</latin>
+		<english>well</english>
+	</entry>
+	<entry>
+		<chapter>32</chapter>
+		<type>adverb</type>
+		<latin>male</latin>
+		<english>badly</english>
+	</entry>
+	<entry>
+		<chapter>32</chapter>
+		<type>adverb</type>
+		<latin>multum</latin>
+		<english>much</english>
+	</entry>
+	<entry>
+		<chapter>32</chapter>
+		<type>adverb</type>
+		<latin>magnopere</latin>
+		<english>greatly</english>
+	</entry>
+	<entry>
+		<chapter>32</chapter>
+		<type>adverb</type>
+		<latin>parum</latin>
+		<english>little, not very (much)</english>
+	</entry>
+	<entry>
+		<chapter>32</chapter>
+		<type>adverb</type>
+		<latin>diu</latin>
+		<english>for a long time</english>
+	</entry>
+	<entry>
+		<chapter>32</chapter>
+		<type>verb</type>
+		<latin>malo, malle, malui,-</latin>
+		<english>to want (something) more, instead; prefer</english>
+		<conjugation>0</conjugation>
+	</entry>
+	<entry>
+		<chapter>32</chapter>
+		<type>verb</type>
+		<latin>nolo, nolle, nolui,-</latin>
+		<english>to not...wish, be unwilling</english>
+		<conjugation>0</conjugation>
+	</entry>
+	<entry>
+		<chapter>32</chapter>
+		<type>verb</type>
+		<latin>pateo, patere, patui, -</latin>
+		<english>to be open, lie open, be accessible, be evident</english>
+		<conjugation>2</conjugation>
+	</entry>
+	<entry>
+		<chapter>32</chapter>
+		<type>verb</type>
+		<latin>praebeo, praebere, praebui, praebitum</latin>
+		<english>to offer, provide</english>
+		<conjugation>2</conjugation>
+	</entry>
+	<entry>
+		<chapter>32</chapter>
+		<type>verb</type>
+		<latin>promitto, promittere, promisi, promissum</latin>
+		<english>to send forth; promise</english>
+		<conjugation>3</conjugation>
+	</entry>
+	<entry>
+		<chapter>32</chapter>
+		<type>verb</type>
+		<latin>volo, velle, volui,-</latin>
+		<english>to wish, want, be willing, will</english>
+		<conjugation>0</conjugation>
+	</entry>
+</vocab>

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding='utf-8'?>
+<vocab>
+	<entry>
+		<chapter>12</chapter>
+		<type>noun</type>
+		<latin>adulescens, adulescentis</latin>
+		<english>young man</english>
+		<gender>m</gender>
+		<declension>3</declension>
+	</entry>
+	<entry>
+		<chapter>12</chapter>
+		<type>noun</type>
+		<latin>annus, -i</latin>
+		<english>year</english>
+		<gender>m</gender>
+		<declension>2</declension>
+	</entry>
+	<entry>
+		<chapter>12</chapter>
+		<type>noun</type>
+		<latin>Asia, -ae</latin>
+		<english>Asia</english>
+		<gender>f</gender>
+		<declension>1</declension>
+	</entry>
+	<entry>
+		<chapter>12</chapter>
+		<type>noun</type>
+		<latin>Caesar, Caesaris</latin>
+		<english>Caesar</english>
+		<gender>m</gender>
+		<declension>3</declension>
+	</entry>
+	<entry>
+		<chapter>12</chapter>
+		<type>noun</type>
+		<latin>mater, matris</latin>
+		<english>mother</english>
+		<gender>f</gender>
+		<declension>3</declension>
+	</entry>
+	<entry>
+		<chapter>12</chapter>
+		<type>noun</type>
+		<latin>medicus, -i</latin>
+		<english>doctor, physician</english>
+		<gender>m</gender>
+		<declension>2</declension>
+	</entry>
+	<entry>
+		<chapter>12</chapter>
+		<type>noun</type>
+		<latin>medica, -ae</latin>
+		<english>doctor, physician</english>
+		<gender>f</gender>
+		<declension>1</declension>
+	</entry>
+	<entry>
+		<chapter>12</chapter>
+		<type>noun</type>
+		<latin>pater, patris</latin>
+		<english>father</english>
+		<gender>m</gender>
+		<declension>3</declension>
+	</entry>
+	<entry>
+		<chapter>12</chapter>
+		<type>noun</type>
+		<latin>patientia, -ae</latin>
+		<english>suffering, patience, endurance</english>
+		<gender>f</gender>
+		<declension>1</declension>
+	</entry>
+	<entry>
+		<chapter>12</chapter>
+		<type>noun</type>
+		<latin>principium, -ii</latin>
+		<english>beginning</english>
+		<gender>n</gender>
+		<declension>2</declension>
+	</entry>
+	<entry>
+		<chapter>12</chapter>
+		<type>adjective</type>
+		<latin>acerbus, -a, -um</latin>
+		<english>harsh, bitter, grievous</english>
+	</entry>
+	<entry>
+		<chapter>12</chapter>
+		<type>preposition</type>
+		<latin>pro</latin>
+		<english>in front of, before, on behalf of, for the sake of, in return for, instead of, for, as</english>
+		<notes>takes ablative</notes>
+	</entry>
+	<entry>
+		<chapter>12</chapter>
+		<type>adverb</type>
+		<latin>diu</latin>
+		<english>for a long time</english>
+	</entry>
+	<entry>
+		<chapter>12</chapter>
+		<type>adverb</type>
+		<latin>nuper</latin>
+		<english>recently</english>
+	</entry>
+	<entry>
+		<chapter>12</chapter>
+		<type>verb</type>
+		<latin>amitto, amittere, amisi, amissum</latin>
+		<english>to lose, let go</english>
+		<conjugation>3</conjugation>
+	</entry>
+	<entry>
+		<chapter>12</chapter>
+		<type>verb</type>
+		<latin>cado, cadere, cecidi, casum</latin>
+		<english>to fall</english>
+		<conjugation>3</conjugation>
+	</entry>
+	<entry>
+		<chapter>12</chapter>
+		<type>verb</type>
+		<latin>creo, creare, creavi, creatum</latin>
+		<english>to create</english>
+		<conjugation>1</conjugation>
+	</entry>
+</vocab>

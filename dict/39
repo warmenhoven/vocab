@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding='utf-8'?>
+<vocab>
+	<entry>
+		<chapter>39</chapter>
+		<type>noun</type>
+		<latin>aedificium, -ii</latin>
+		<english>building, structure</english>
+		<gender>n</gender>
+		<declension>2</declension>
+	</entry>
+	<entry>
+		<chapter>39</chapter>
+		<type>noun</type>
+		<latin>iniuria, -ae</latin>
+		<english>injustice, injury, wrong</english>
+		<gender>f</gender>
+		<declension>1</declension>
+	</entry>
+	<entry>
+		<chapter>39</chapter>
+		<type>noun</type>
+		<latin>mulier, mulieris</latin>
+		<english>woman</english>
+		<gender>f</gender>
+		<declension>3</declension>
+	</entry>
+	<entry>
+		<chapter>39</chapter>
+		<type>noun</type>
+		<latin>transitus, -us</latin>
+		<english>passing over, transit, transition</english>
+		<gender>m</gender>
+		<declension>4</declension>
+	</entry>
+	<entry>
+		<chapter>39</chapter>
+		<type>noun</type>
+		<latin>ventus, -i</latin>
+		<english>wind</english>
+		<gender>m</gender>
+		<declension>2</declension>
+	</entry>
+	<entry>
+		<chapter>39</chapter>
+		<type>adjective</type>
+		<latin>cupidus, -a, -um</latin>
+		<english>desirous, eager, fond; (with gen.) desirous of, eager for</english>
+	</entry>
+	<entry>
+		<chapter>39</chapter>
+		<type>adjective</type>
+		<latin>liberalis, liberale</latin>
+		<english>of or relating to a free person; worthy of a free man, decent, liberal; generous</english>
+	</entry>
+	<entry>
+		<chapter>39</chapter>
+		<type>adjective</type>
+		<latin>necesse</latin>
+		<english>necessary, inevitable</english>
+		<notes>indeclinable</notes>
+	</entry>
+	<entry>
+		<chapter>39</chapter>
+		<type>adjective</type>
+		<latin>vetus</latin>
+		<english>old</english>
+		<notes>genitive veteris</notes>
+	</entry>
+	<entry>
+		<chapter>39</chapter>
+		<type>adverb, conjunction</type>
+		<latin>quasi</latin>
+		<english>as if, as it were</english>
+	</entry>
+	<entry>
+		<chapter>39</chapter>
+		<type>verb</type>
+		<latin>ambulo, ambulare, ambulavi, ambulatum</latin>
+		<english>to walk</english>
+		<conjugation>1</conjugation>
+	</entry>
+	<entry>
+		<chapter>39</chapter>
+		<type>verb</type>
+		<latin>experior, experiri, expertus sum, -</latin>
+		<english>to try, test, experience</english>
+		<conjugation>4</conjugation>
+	</entry>
+	<entry>
+		<chapter>39</chapter>
+		<type>verb</type>
+		<latin>libo, libare, libavi, libatum</latin>
+		<english>to pour a libation of, pour a libation on; to pour ritually; to sip, touch gently</english>
+		<conjugation>1</conjugation>
+	</entry>
+	<entry>
+		<chapter>39</chapter>
+		<type>verb</type>
+		<latin>oportet, oportere, oportuit, -</latin>
+		<english>it is proper, right, necessary</english>
+		<conjugation>0</conjugation>
+	</entry>
+	<entry>
+		<chapter>39</chapter>
+		<type>verb</type>
+		<latin>oppugno, oppugnare, oppugnavi, oppugnatum</latin>
+		<english>to fight against, attack, assault, assail</english>
+		<conjugation>1</conjugation>
+	</entry>
+	<entry>
+		<chapter>39</chapter>
+		<type>verb</type>
+		<latin>orno, ornare, ornavi, ornatum</latin>
+		<english>to equip, furnish, adorn</english>
+		<conjugation>1</conjugation>
+	</entry>
+	<entry>
+		<chapter>39</chapter>
+		<type>verb</type>
+		<latin>pernocto, pernoctare, pernoctavi, pernoctatum</latin>
+		<english>to spend the night, occupy the night</english>
+		<conjugation>1</conjugation>
+	</entry>
+	<entry>
+		<chapter>39</chapter>
+		<type>verb</type>
+		<latin>transeo, transire, transii, transitum</latin>
+		<english>to go across, cross; pass over, ignore</english>
+		<conjugation>0</conjugation>
+	</entry>
+</vocab>

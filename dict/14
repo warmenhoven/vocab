@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding='utf-8'?>
+<vocab>
+	<entry>
+		<chapter>14</chapter>
+		<type>noun</type>
+		<latin>animal, animalis</latin>
+		<english>a living creature, animal</english>
+		<gender>n</gender>
+		<declension>3i</declension>
+	</entry>
+	<entry>
+		<chapter>14</chapter>
+		<type>noun</type>
+		<latin>aqua, -ae</latin>
+		<english>water</english>
+		<gender>f</gender>
+		<declension>1</declension>
+	</entry>
+	<entry>
+		<chapter>14</chapter>
+		<type>noun</type>
+		<latin>ars, artis</latin>
+		<english>art, skill</english>
+		<gender>f</gender>
+		<declension>3i</declension>
+	</entry>
+	<entry>
+		<chapter>14</chapter>
+		<type>noun</type>
+		<latin>auris, auris</latin>
+		<english>ear</english>
+		<gender>f</gender>
+		<declension>3i</declension>
+	</entry>
+	<entry>
+		<chapter>14</chapter>
+		<type>noun</type>
+		<latin>civis, civis</latin>
+		<english>citizen</english>
+		<gender>m. and f</gender>
+		<declension>3i</declension>
+	</entry>
+	<entry>
+		<chapter>14</chapter>
+		<type>noun</type>
+		<latin>ius, iuris</latin>
+		<english>right, justice</english>
+		<gender>n</gender>
+		<declension>3i</declension>
+	</entry>
+	<entry>
+		<chapter>14</chapter>
+		<type>noun</type>
+		<latin>mare, maris</latin>
+		<english>sea</english>
+		<gender>n</gender>
+		<declension>3i</declension>
+	</entry>
+	<entry>
+		<chapter>14</chapter>
+		<type>noun</type>
+		<latin>mors, mortis</latin>
+		<english>death</english>
+		<gender>f</gender>
+		<declension>3i</declension>
+	</entry>
+	<entry>
+		<chapter>14</chapter>
+		<type>noun</type>
+		<latin>nubes, nubis</latin>
+		<english>cloud</english>
+		<gender>f</gender>
+		<declension>3i</declension>
+	</entry>
+	<entry>
+		<chapter>14</chapter>
+		<type>noun</type>
+		<latin>os, oris</latin>
+		<english>mouth, face</english>
+		<gender>n</gender>
+		<declension>3</declension>
+	</entry>
+	<entry>
+		<chapter>14</chapter>
+		<type>noun</type>
+		<latin>pars, partis</latin>
+		<english>part, share</english>
+		<gender>f</gender>
+		<declension>3i</declension>
+	</entry>
+	<entry>
+		<chapter>14</chapter>
+		<type>noun</type>
+		<latin>Roma, -ae</latin>
+		<english>Rome</english>
+		<gender>f</gender>
+		<declension>1</declension>
+	</entry>
+	<entry>
+		<chapter>14</chapter>
+		<type>noun</type>
+		<latin>turba, -ae</latin>
+		<english>uproar, disturbance, mob, crowd, multitude</english>
+		<gender>f</gender>
+		<declension>1</declension>
+	</entry>
+	<entry>
+		<chapter>14</chapter>
+		<type>noun</type>
+		<latin>urbs, urbis</latin>
+		<english>city</english>
+		<gender>f</gender>
+		<declension>3i</declension>
+	</entry>
+	<entry>
+		<chapter>14</chapter>
+		<type>noun</type>
+		<latin>vis, vis</latin>
+		<english>force, power, violence</english>
+		<gender>f</gender>
+		<declension>3i</declension>
+	</entry>
+	<entry>
+		<chapter>13</chapter>
+		<type>preposition</type>
+		<latin>ab</latin>
+		<english>away from, from; by</english>
+		<notes>takes ablative</notes>
+	</entry>
+	<entry>
+		<chapter>14</chapter>
+		<type>preposition</type>
+		<latin>trans</latin>
+		<english>across</english>
+		<notes>takes accusative</notes>
+	</entry>
+	<entry>
+		<chapter>14</chapter>
+		<type>verb</type>
+		<latin>appello, appellare, appellavi, appellatum</latin>
+		<english>to speak to, address (as), call, name</english>
+		<conjugation>1</conjugation>
+	</entry>
+	<entry>
+		<chapter>14</chapter>
+		<type>verb</type>
+		<latin>curro, currere, cucurri, cursum</latin>
+		<english>to run, rush, move quickly</english>
+		<conjugation>3</conjugation>
+	</entry>
+	<entry>
+		<chapter>14</chapter>
+		<type>verb</type>
+		<latin>muto, mutare, mutavi, mutatum</latin>
+		<english>to change, alter; exchange</english>
+		<conjugation>1</conjugation>
+	</entry>
+	<entry>
+		<chapter>14</chapter>
+		<type>verb</type>
+		<latin>teneo, tenere, tenui, tentum</latin>
+		<english>to hold, keep, possess; restrain</english>
+		<conjugation>2</conjugation>
+	</entry>
+	<entry>
+		<chapter>14</chapter>
+		<type>verb</type>
+		<latin>vito, vitare, vitavi, vitatum</latin>
+		<english>to avoid, shun</english>
+		<conjugation>1</conjugation>
+	</entry>
+</vocab>

@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding='utf-8'?>
+<vocab>
+	<entry>
+		<chapter>22</chapter>
+		<type>noun</type>
+		<latin>dies, diei</latin>
+		<english>day</english>
+		<gender>m</gender>
+		<declension>5</declension>
+	</entry>
+	<entry>
+		<chapter>22</chapter>
+		<type>noun</type>
+		<latin>ferrum, -i</latin>
+		<english>iron; sword</english>
+		<gender>n</gender>
+		<declension>2</declension>
+	</entry>
+	<entry>
+		<chapter>22</chapter>
+		<type>noun</type>
+		<latin>fides, fidei</latin>
+		<english>faith, trust, trustworthiness, fidelity, promise, guarantee, protection</english>
+		<gender>f</gender>
+		<declension>5</declension>
+	</entry>
+	<entry>
+		<chapter>22</chapter>
+		<type>noun</type>
+		<latin>ignis, ignis</latin>
+		<english>fire</english>
+		<gender>m</gender>
+		<declension>3i</declension>
+	</entry>
+	<entry>
+		<chapter>22</chapter>
+		<type>noun</type>
+		<latin>modus, -i</latin>
+		<english>measure, bound, limit; manner, method, mode, way</english>
+		<gender>m</gender>
+		<declension>2</declension>
+	</entry>
+	<entry>
+		<chapter>22</chapter>
+		<type>noun</type>
+		<latin>res, rei</latin>
+		<english>thing, matter, business, affair</english>
+		<gender>f</gender>
+		<declension>5</declension>
+	</entry>
+	<entry>
+		<chapter>22</chapter>
+		<type>noun</type>
+		<latin>spes, spei</latin>
+		<english>hope</english>
+		<gender>f</gender>
+		<declension>5</declension>
+	</entry>
+	<entry>
+		<chapter>22</chapter>
+		<type>adjective</type>
+		<latin>aequus, -a, -um</latin>
+		<english>level, even; calm; equal, just; favorable</english>
+	</entry>
+	<entry>
+		<chapter>22</chapter>
+		<type>adjective</type>
+		<latin>felix, felicis</latin>
+		<english>lucky, fortunate, happy</english>
+	</entry>
+	<entry>
+		<chapter>22</chapter>
+		<type>adjective</type>
+		<latin>incertus, -a, -um</latin>
+		<english>uncertain, unsure, doubtful</english>
+	</entry>
+	<entry>
+		<chapter>22</chapter>
+		<type>adjective</type>
+		<latin>Latinus, -a, -um</latin>
+		<english>Latin</english>
+	</entry>
+	<entry>
+		<chapter>22</chapter>
+		<type>adjective</type>
+		<latin>medius, -a, -um</latin>
+		<english>middle</english>
+	</entry>
+	<entry>
+		<chapter>22</chapter>
+		<type>adverb</type>
+		<latin>quondam</latin>
+		<english>formerly, once</english>
+	</entry>
+	<entry>
+		<chapter>22</chapter>
+		<type>adverb, preposition</type>
+		<latin>ultra</latin>
+		<english>on the other side, beyond</english>
+		<notes>takes accusative</notes>
+	</entry>
+	<entry>
+		<chapter>22</chapter>
+		<type>adverb</type>
+		<latin>protinus</latin>
+		<english>immediately</english>
+	</entry>
+	<entry>
+		<chapter>22</chapter>
+		<type>verb</type>
+		<latin>cerno, cernere, crevi, cretum</latin>
+		<english>to distinguish, discern, perceive</english>
+		<conjugation>3</conjugation>
+	</entry>
+	<entry>
+		<chapter>22</chapter>
+		<type>verb</type>
+		<latin>eripio, eripere, eripui, ereptum</latin>
+		<english>to snatch away, take away; rescue</english>
+		<conjugation>3i</conjugation>
+	</entry>
+	<entry>
+		<chapter>22</chapter>
+		<type>verb</type>
+		<latin>inquit, -, -, -</latin>
+		<english>he says, he said</english>
+		<conjugation>0</conjugation>
+		<notes>defective verb placed after one or more words of direct quotation</notes>
+	</entry>
+	<entry>
+		<chapter>22</chapter>
+		<type>verb</type>
+		<latin>tollo, tollere, sustuli, sublatum</latin>
+		<english>to raise, lift up; take away, remove, destroy</english>
+		<conjugation>3</conjugation>
+	</entry>
+</vocab>

@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding='utf-8'?>
+<vocab>
+	<entry>
+		<chapter>20</chapter>
+		<type>noun</type>
+		<latin>coniurati, -orum</latin>
+		<english>conspirators</english>
+		<gender>m</gender>
+		<declension>2</declension>
+		<notes>plural</notes>
+	</entry>
+	<entry>
+		<chapter>20</chapter>
+		<type>noun</type>
+		<latin>cornu, -us</latin>
+		<english>horn</english>
+		<gender>n</gender>
+		<declension>4</declension>
+	</entry>
+	<entry>
+		<chapter>20</chapter>
+		<type>noun</type>
+		<latin>fructus, -us</latin>
+		<english>fruit, profit, benefit, enjoyment</english>
+		<gender>m</gender>
+		<declension>4</declension>
+	</entry>
+	<entry>
+		<chapter>20</chapter>
+		<type>noun</type>
+		<latin>genu, -us</latin>
+		<english>knee</english>
+		<gender>n</gender>
+		<declension>4</declension>
+	</entry>
+	<entry>
+		<chapter>20</chapter>
+		<type>noun</type>
+		<latin>manus, -us</latin>
+		<english>hand, band; handwriting</english>
+		<gender>f</gender>
+		<declension>4</declension>
+	</entry>
+	<entry>
+		<chapter>20</chapter>
+		<type>noun</type>
+		<latin>metus, -us</latin>
+		<english>fear, dread, anxiety</english>
+		<gender>m</gender>
+		<declension>4</declension>
+	</entry>
+	<entry>
+		<chapter>20</chapter>
+		<type>noun</type>
+		<latin>mons, montis</latin>
+		<english>mountain</english>
+		<gender>m</gender>
+		<declension>3i</declension>
+	</entry>
+	<entry>
+		<chapter>20</chapter>
+		<type>noun</type>
+		<latin>senatus, -us</latin>
+		<english>senate</english>
+		<gender>m</gender>
+		<declension>4</declension>
+	</entry>
+	<entry>
+		<chapter>20</chapter>
+		<type>noun</type>
+		<latin>sensus, -us</latin>
+		<english>feeling, sense</english>
+		<gender>m</gender>
+		<declension>4</declension>
+	</entry>
+	<entry>
+		<chapter>20</chapter>
+		<type>noun</type>
+		<latin>servitus, servitutis</latin>
+		<english>servitude, slavery</english>
+		<gender>f</gender>
+		<declension>3</declension>
+	</entry>
+	<entry>
+		<chapter>20</chapter>
+		<type>noun</type>
+		<latin>spiritus, -us</latin>
+		<english>breath, breathing; spirit, soul</english>
+		<gender>m</gender>
+		<declension>4</declension>
+	</entry>
+	<entry>
+		<chapter>20</chapter>
+		<type>noun</type>
+		<latin>versus, -us</latin>
+		<english>line of verse</english>
+		<gender>m</gender>
+		<declension>4</declension>
+	</entry>
+	<entry>
+		<chapter>20</chapter>
+		<type>adjective</type>
+		<latin>communis, commune</latin>
+		<english>common, general, of the community, for the community</english>
+	</entry>
+	<entry>
+		<chapter>20</chapter>
+		<type>adjective</type>
+		<latin>dexter, dextra, dextrum</latin>
+		<english>right, right-hand</english>
+	</entry>
+	<entry>
+		<chapter>20</chapter>
+		<type>adjective</type>
+		<latin>sinister, sinistra, sinistrum</latin>
+		<english>left, left-hand</english>
+	</entry>
+	<entry>
+		<chapter>20</chapter>
+		<type>verb</type>
+		<latin>careo, carere, carui, cariturus</latin>
+		<english>to be without, be deprived of, want, lack; be free from</english>
+		<conjugation>2</conjugation>
+		<notes>takes ablative of separation</notes>
+	</entry>
+	<entry>
+		<chapter>20</chapter>
+		<type>verb</type>
+		<latin>defendo, defendere, defensi, defensum</latin>
+		<english>to ward off; defend, protect</english>
+		<conjugation>3</conjugation>
+	</entry>
+	<entry>
+		<chapter>20</chapter>
+		<type>verb</type>
+		<latin>discedo, discedere, discessi, discessum</latin>
+		<english>to go away, depart</english>
+		<conjugation>3</conjugation>
+	</entry>
+	<entry>
+		<chapter>20</chapter>
+		<type>verb</type>
+		<latin>-, odisse, odi, osurum</latin>
+		<english>to hate</english>
+		<conjugation>0</conjugation>
+	</entry>
+	<entry>
+		<chapter>20</chapter>
+		<type>verb</type>
+		<latin>prohibeo, prohibere, prohibui, prohibitum</latin>
+		<english>to keep (back), prevent, hinder, restrain, prohibit</english>
+		<conjugation>2</conjugation>
+	</entry>
+	<entry>
+		<chapter>20</chapter>
+		<type>verb</type>
+		<latin>pronuntio, pronuntiare, pronuntiavi, pronuntiatum</latin>
+		<english>to proclaim, announce; declaim; pronounce</english>
+		<conjugation>1</conjugation>
+	</entry>
+</vocab>

@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding='utf-8'?>
+<vocab>
+	<entry>
+		<chapter>29</chapter>
+		<type>noun</type>
+		<latin>fatum, -i</latin>
+		<english>fate, death</english>
+		<gender>n</gender>
+		<declension>2</declension>
+	</entry>
+	<entry>
+		<chapter>29</chapter>
+		<type>noun</type>
+		<latin>ingenium, -ii</latin>
+		<english>nature, innate talent</english>
+		<gender>n</gender>
+		<declension>2</declension>
+	</entry>
+	<entry>
+		<chapter>29</chapter>
+		<type>noun</type>
+		<latin>moenia, moenium</latin>
+		<english>walls of a city</english>
+		<gender>n</gender>
+		<declension>3i</declension>
+		<notes>always plural</notes>
+	</entry>
+	<entry>
+		<chapter>29</chapter>
+		<type>noun</type>
+		<latin>nata, -ae</latin>
+		<english>daughter</english>
+		<gender>f</gender>
+		<declension>1</declension>
+	</entry>
+	<entry>
+		<chapter>29</chapter>
+		<type>noun</type>
+		<latin>osculum, -i</latin>
+		<english>kiss</english>
+		<gender>n</gender>
+		<declension>2</declension>
+	</entry>
+	<entry>
+		<chapter>29</chapter>
+		<type>noun</type>
+		<latin>sidus, sideris</latin>
+		<english>constellation, star</english>
+		<gender>n</gender>
+		<declension>3</declension>
+	</entry>
+	<entry>
+		<chapter>29</chapter>
+		<type>adjective</type>
+		<latin>dignus, -a, -um</latin>
+		<english>worthy, worthy of</english>
+	</entry>
+	<entry>
+		<chapter>29</chapter>
+		<type>adjective</type>
+		<latin>durus, -a, -um</latin>
+		<english>hard, harsh, rough, stern, unfeeling, hardy, difficult</english>
+	</entry>
+	<entry>
+		<chapter>29</chapter>
+		<type>adjective</type>
+		<latin>tantus, -a, -um</latin>
+		<english>so large, so great, of such a size</english>
+	</entry>
+	<entry>
+		<chapter>29</chapter>
+		<type>adverb</type>
+		<latin>denique</latin>
+		<english>at last, finally, lastly</english>
+	</entry>
+	<entry>
+		<chapter>29</chapter>
+		<type>adverb</type>
+		<latin>ita</latin>
+		<english>so, thus</english>
+	</entry>
+	<entry>
+		<chapter>29</chapter>
+		<type>adverb</type>
+		<latin>quidem</latin>
+		<english>indeed, certainly, at least, even</english>
+		<notes>ne...quidem: not...even</notes>
+	</entry>
+	<entry>
+		<chapter>29</chapter>
+		<type>adverb</type>
+		<latin>sic</latin>
+		<english>so, thus</english>
+	</entry>
+	<entry>
+		<chapter>29</chapter>
+		<type>adverb</type>
+		<latin>tam</latin>
+		<english>so, to such a degree</english>
+		<notes>tam...quam: so...as</notes>
+	</entry>
+	<entry>
+		<chapter>29</chapter>
+		<type>adverb</type>
+		<latin>vero</latin>
+		<english>in truth, indeed, to be sure, however</english>
+	</entry>
+	<entry>
+		<chapter>29</chapter>
+		<type>verb</type>
+		<latin>condo, condere, condidi, conditum</latin>
+		<english>to put together, put into, store; found, establish</english>
+		<conjugation>3</conjugation>
+	</entry>
+	<entry>
+		<chapter>29</chapter>
+		<type>verb</type>
+		<latin>contendo, contendere, contendi, contenditum</latin>
+		<english>to strive, struggle, contend; hasten</english>
+		<conjugation>3</conjugation>
+	</entry>
+	<entry>
+		<chapter>29</chapter>
+		<type>verb</type>
+		<latin>mollio, mollire, mollivi, mollitum</latin>
+		<english>to soften; make calm, make less hostile</english>
+		<conjugation>4</conjugation>
+	</entry>
+	<entry>
+		<chapter>29</chapter>
+		<type>verb</type>
+		<latin>pugno, pugnare, pugnavi, pugnatum</latin>
+		<english>to fight</english>
+		<conjugation>1</conjugation>
+	</entry>
+	<entry>
+		<chapter>29</chapter>
+		<type>verb</type>
+		<latin>respondeo, respondere, respondi, responsum</latin>
+		<english>to answer</english>
+		<conjugation>2</conjugation>
+	</entry>
+	<entry>
+		<chapter>29</chapter>
+		<type>verb</type>
+		<latin>surgo, surgere, surrexi, surrectum</latin>
+		<english>to get up, arise</english>
+		<conjugation>3</conjugation>
+	</entry>
+</vocab>

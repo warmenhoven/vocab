@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding='utf-8'?>
+<vocab>
+	<entry>
+		<chapter>16</chapter>
+		<type>noun</type>
+		<latin>aetas, aetatis</latin>
+		<english>period of life, life, age, an age, time</english>
+		<gender>f</gender>
+		<declension>3</declension>
+	</entry>
+	<entry>
+		<chapter>16</chapter>
+		<type>noun</type>
+		<latin>auditor, auditoris</latin>
+		<english>hearer, listener, member of an audience</english>
+		<gender>m</gender>
+		<declension>3</declension>
+	</entry>
+	<entry>
+		<chapter>16</chapter>
+		<type>noun</type>
+		<latin>clementia, -ae</latin>
+		<english>mildness, gentleness, mercy</english>
+		<gender>f</gender>
+		<declension>1</declension>
+	</entry>
+	<entry>
+		<chapter>16</chapter>
+		<type>noun</type>
+		<latin>mens, mentis</latin>
+		<english>mind, thought, intention</english>
+		<gender>f</gender>
+		<declension>3i</declension>
+	</entry>
+	<entry>
+		<chapter>16</chapter>
+		<type>noun</type>
+		<latin>satura, -ae</latin>
+		<english>satire</english>
+		<gender>f</gender>
+		<declension>1</declension>
+	</entry>
+	<entry>
+		<chapter>16</chapter>
+		<type>adjective</type>
+		<latin>acer, acris, acre</latin>
+		<english>sharp, keen, eager; severe, fierce</english>
+	</entry>
+	<entry>
+		<chapter>16</chapter>
+		<type>adjective</type>
+		<latin>brevis, breve</latin>
+		<english>short, small, brief</english>
+	</entry>
+	<entry>
+		<chapter>16</chapter>
+		<type>adjective</type>
+		<latin>celer, celeris, celere</latin>
+		<english>swift, quick, rapid</english>
+	</entry>
+	<entry>
+		<chapter>16</chapter>
+		<type>adjective</type>
+		<latin>difficilis, difficile</latin>
+		<english>hard, difficult, troublesome</english>
+	</entry>
+	<entry>
+		<chapter>16</chapter>
+		<type>adjective</type>
+		<latin>dulcis, dulce</latin>
+		<english>sweet; pleasant, agreeable</english>
+	</entry>
+	<entry>
+		<chapter>16</chapter>
+		<type>adjective</type>
+		<latin>facilis, facile</latin>
+		<english>easy, agreeable</english>
+	</entry>
+	<entry>
+		<chapter>16</chapter>
+		<type>adjective</type>
+		<latin>fortis, forte</latin>
+		<english>strong, brave</english>
+	</entry>
+	<entry>
+		<chapter>16</chapter>
+		<type>adjective</type>
+		<latin>ingens</latin>
+		<english>huge</english>
+		<notes>genitive ingentis</notes>
+	</entry>
+	<entry>
+		<chapter>16</chapter>
+		<type>adjective</type>
+		<latin>iucundus, -a, -um</latin>
+		<english>pleasant, delightful, agreeable, pleasing</english>
+	</entry>
+	<entry>
+		<chapter>16</chapter>
+		<type>adjective</type>
+		<latin>longus, -a, -um</latin>
+		<english>long</english>
+	</entry>
+	<entry>
+		<chapter>16</chapter>
+		<type>adjective</type>
+		<latin>omnis, omne</latin>
+		<english>every, all</english>
+	</entry>
+	<entry>
+		<chapter>16</chapter>
+		<type>adjective</type>
+		<latin>potens</latin>
+		<english>able, powerful, mighty, strong</english>
+		<notes>genitive potentis</notes>
+	</entry>
+	<entry>
+		<chapter>16</chapter>
+		<type>adjective and noun</type>
+		<latin>senex, senis</latin>
+		<english>old, aged; old man</english>
+		<gender>m</gender>
+		<declension>3</declension>
+	</entry>
+	<entry>
+		<chapter>16</chapter>
+		<type>adverb</type>
+		<latin>quam</latin>
+		<english>how</english>
+	</entry>
+	<entry>
+		<chapter>16</chapter>
+		<type>verb</type>
+		<latin>rego, regere, rexi, rectum</latin>
+		<english>to rule, guide, direct</english>
+		<conjugation>3</conjugation>
+	</entry>
+</vocab>

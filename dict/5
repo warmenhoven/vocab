@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding='utf-8'?>
+<vocab>
+	<entry>
+		<chapter>5</chapter>
+		<type>noun</type>
+		<latin>adulescentia, -ae</latin>
+		<english>youth, young manhood, youthfulness</english>
+		<gender>f</gender>
+		<declension>1</declension>
+	</entry>
+	<entry>
+		<chapter>5</chapter>
+		<type>noun</type>
+		<latin>animus, -i</latin>
+		<english>soul, spirit, mind; (plural) high spirits, pride, courage</english>
+		<gender>m</gender>
+		<declension>2</declension>
+	</entry>
+	<entry>
+		<chapter>5</chapter>
+		<type>noun</type>
+		<latin>caelum, -i</latin>
+		<english>sky, heaven</english>
+		<gender>n</gender>
+		<declension>2</declension>
+	</entry>
+	<entry>
+		<chapter>5</chapter>
+		<type>noun</type>
+		<latin>culpa, -ae</latin>
+		<english>fault, blame</english>
+		<gender>f</gender>
+		<declension>1</declension>
+	</entry>
+	<entry>
+		<chapter>5</chapter>
+		<type>noun</type>
+		<latin>gloria, -ae</latin>
+		<english>glory, fame</english>
+		<gender>f</gender>
+		<declension>1</declension>
+	</entry>
+	<entry>
+		<chapter>5</chapter>
+		<type>noun</type>
+		<latin>verbum, -i</latin>
+		<english>word</english>
+		<gender>n</gender>
+		<declension>2</declension>
+	</entry>
+	<entry>
+		<chapter>5</chapter>
+		<type>pronoun</type>
+		<latin>te</latin>
+		<english>you, yourself</english>
+	</entry>
+	<entry>
+		<chapter>5</chapter>
+		<type>adjective</type>
+		<latin>liber, libera, liberumj.</latin>
+		<english>free</english>
+	</entry>
+	<entry>
+		<chapter>5</chapter>
+		<type>adjective</type>
+		<latin>noster, nostra, nostrum</latin>
+		<english>our, ours</english>
+	</entry>
+	<entry>
+		<chapter>5</chapter>
+		<type>adjective</type>
+		<latin>pulcher, pulchra, pulchrum</latin>
+		<english>beautiful, handsome; fine</english>
+	</entry>
+	<entry>
+		<chapter>5</chapter>
+		<type>adjective</type>
+		<latin>sanus, -a, -us</latin>
+		<english>sound, healthy, sane</english>
+	</entry>
+	<entry>
+		<chapter>5</chapter>
+		<type>conjunction</type>
+		<latin>igitur</latin>
+		<english>therefore, consequently</english>
+		<notes>postpositive</notes>
+	</entry>
+	<entry>
+		<chapter>5</chapter>
+		<type>enclitic</type>
+		<latin>-ne</latin>
+		<english>question</english>
+		<notes>introduces questions the answer to which is uncertain</notes>
+	</entry>
+	<entry>
+		<chapter>5</chapter>
+		<type>preposition</type>
+		<latin>propter</latin>
+		<english>on account of, because of</english>
+		<notes>takes ablative</notes>
+	</entry>
+	<entry>
+		<chapter>5</chapter>
+		<type>adverb</type>
+		<latin>cras, adv.</latin>
+		<english>tomorrow</english>
+	</entry>
+	<entry>
+		<chapter>5</chapter>
+		<type>adverb</type>
+		<latin>heri</latin>
+		<english>yesterday</english>
+	</entry>
+	<entry>
+		<chapter>5</chapter>
+		<type>adverb, conjunction</type>
+		<latin>quando</latin>
+		<english>when</english>
+		<notes>si quando: if ever</notes>
+	</entry>
+	<entry>
+		<chapter>5</chapter>
+		<type>adverb, noun</type>
+		<latin>satis</latin>
+		<english>enough, sufficient (-ly)</english>
+		<gender>n</gender>
+	</entry>
+	<entry>
+		<chapter>5</chapter>
+		<type>adverb</type>
+		<latin>tum</latin>
+		<english>then, at that time; thereupon, in the next place</english>
+	</entry>
+	<entry>
+		<chapter>5</chapter>
+		<type>verb</type>
+		<latin>ceno, cenare, cenavi, cenatum</latin>
+		<english>to dine</english>
+		<conjugation>1</conjugation>
+	</entry>
+	<entry>
+		<chapter>5</chapter>
+		<type>verb</type>
+		<latin>culpo, culpare, culpavi, culpatum</latin>
+		<english>to blame, censure</english>
+		<conjugation>1</conjugation>
+	</entry>
+	<entry>
+		<chapter>5</chapter>
+		<type>verb</type>
+		<latin>remaneo, remanere, remansi, remansum</latin>
+		<english>to remain, stay behind, abide, continue</english>
+		<conjugation>2</conjugation>
+	</entry>
+	<entry>
+		<chapter>5</chapter>
+		<type>verb</type>
+		<latin>maneo, manere, mansi, mansum</latin>
+		<english>to remain, stay, abide, continue</english>
+		<conjugation>2</conjugation>
+	</entry>
+	<entry>
+		<chapter>5</chapter>
+		<type>verb</type>
+		<latin>supero, superare, superavi, superatum</latin>
+		<english>to be above, have the upper hand, surpass; overcome, conquer</english>
+		<conjugation>1</conjugation>
+	</entry>
+</vocab>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding='utf-8'?>
+<vocab>
+	<entry>
+		<chapter>26</chapter>
+		<type>noun</type>
+		<latin>cena, -ae</latin>
+		<english>dinner</english>
+		<gender>f</gender>
+		<declension>1</declension>
+	</entry>
+	<entry>
+		<chapter>26</chapter>
+		<type>noun</type>
+		<latin>forum, -i</latin>
+		<english>marketplace, forum</english>
+		<gender>n</gender>
+		<declension>2</declension>
+	</entry>
+	<entry>
+		<chapter>26</chapter>
+		<type>noun</type>
+		<latin>lex, legis</latin>
+		<english>law, statute</english>
+		<gender>f</gender>
+		<declension>3</declension>
+	</entry>
+	<entry>
+		<chapter>26</chapter>
+		<type>noun</type>
+		<latin>limen, liminis</latin>
+		<english>threshold</english>
+		<gender>n</gender>
+		<declension>3</declension>
+	</entry>
+	<entry>
+		<chapter>26</chapter>
+		<type>noun</type>
+		<latin>lux, lucis</latin>
+		<english>light</english>
+		<gender>f</gender>
+		<declension>3</declension>
+	</entry>
+	<entry>
+		<chapter>26</chapter>
+		<type>noun</type>
+		<latin>mensa, -ae</latin>
+		<english>table, dining, dish, course</english>
+		<gender>f</gender>
+		<declension>1</declension>
+		<notes>mensa secunda: dessert</notes>
+	</entry>
+	<entry>
+		<chapter>26</chapter>
+		<type>noun</type>
+		<latin>nox, noctis</latin>
+		<english>night</english>
+		<gender>f</gender>
+		<declension>3i</declension>
+	</entry>
+	<entry>
+		<chapter>26</chapter>
+		<type>noun</type>
+		<latin>somnus, -i</latin>
+		<english>sleep</english>
+		<gender>m</gender>
+		<declension>2</declension>
+	</entry>
+	<entry>
+		<chapter>26</chapter>
+		<type>pronoun, adjective</type>
+		<latin>quidam, quaedam, quiddam</latin>
+		<english>(pron.) a certain one, certain thing, someone, something; (adj.) a certain, some</english>
+	</entry>
+	<entry>
+		<chapter>26</chapter>
+		<type>adjective</type>
+		<latin>pudicus, -a, -um</latin>
+		<english>modest, chaste</english>
+	</entry>
+	<entry>
+		<chapter>26</chapter>
+		<type>adjective</type>
+		<latin>superbus, -a, -um</latin>
+		<english>arrogant, overbearing, haughty, proud</english>
+	</entry>
+	<entry>
+		<chapter>26</chapter>
+		<type>adjective</type>
+		<latin>tristis, triste</latin>
+		<english>sad, sorrowful; joyless, grim, severe</english>
+	</entry>
+	<entry>
+		<chapter>26</chapter>
+		<type>adjective</type>
+		<latin>turpis, turpe</latin>
+		<english>ugly, shameful, base, disgraceful</english>
+	</entry>
+	<entry>
+		<chapter>26</chapter>
+		<type>adjective</type>
+		<latin>urbanus, -a, -um</latin>
+		<english>of the city, urban, urbane, elegant</english>
+	</entry>
+	<entry>
+		<chapter>26</chapter>
+		<type>preposition</type>
+		<latin>prae</latin>
+		<english>in front of, before</english>
+		<notes>takes ablative</notes>
+	</entry>
+	<entry>
+		<chapter>26</chapter>
+		<type>adverb, conjunction</type>
+		<latin>quam</latin>
+		<english>(after comparatives) than; (with superlatives) as...as possible (e.g. quam fortissimus, as great as possible)</english>
+	</entry>
+	<entry>
+		<chapter>26</chapter>
+		<type>adverb</type>
+		<latin>tantum</latin>
+		<english>only</english>
+	</entry>
+	<entry>
+		<chapter>26</chapter>
+		<type>verb</type>
+		<latin>invito, invitare, invitavi, invitatum</latin>
+		<english>to entertain, invite, summon</english>
+		<conjugation>1</conjugation>
+	</entry>
+</vocab>

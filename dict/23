@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding='utf-8'?>
+<vocab>
+	<entry>
+		<chapter>23</chapter>
+		<type>noun</type>
+		<latin>arx, arcis</latin>
+		<english>citadel, stronghold</english>
+		<gender>f</gender>
+		<declension>3i</declension>
+	</entry>
+	<entry>
+		<chapter>23</chapter>
+		<type>noun</type>
+		<latin>dux, ducis</latin>
+		<english>leader, guide; commander, general</english>
+		<gender>m</gender>
+		<declension>3</declension>
+	</entry>
+	<entry>
+		<chapter>23</chapter>
+		<type>noun</type>
+		<latin>equus, -i</latin>
+		<english>horse</english>
+		<gender>m</gender>
+		<declension>2</declension>
+	</entry>
+	<entry>
+		<chapter>23</chapter>
+		<type>noun</type>
+		<latin>hasta, -ae</latin>
+		<english>spear</english>
+		<gender>f</gender>
+		<declension>1</declension>
+	</entry>
+	<entry>
+		<chapter>23</chapter>
+		<type>noun</type>
+		<latin>insula, -ae</latin>
+		<english>island</english>
+		<gender>f</gender>
+		<declension>1</declension>
+	</entry>
+	<entry>
+		<chapter>23</chapter>
+		<type>noun</type>
+		<latin>litus, litoris</latin>
+		<english>shore, coast</english>
+		<gender>n</gender>
+		<declension>3</declension>
+	</entry>
+	<entry>
+		<chapter>23</chapter>
+		<type>noun</type>
+		<latin>miles, militis</latin>
+		<english>soldier</english>
+		<gender>m</gender>
+		<declension>3</declension>
+	</entry>
+	<entry>
+		<chapter>23</chapter>
+		<type>noun</type>
+		<latin>orator, oratoris</latin>
+		<english>orator, speaker</english>
+		<gender>m</gender>
+		<declension>3</declension>
+	</entry>
+	<entry>
+		<chapter>23</chapter>
+		<type>noun</type>
+		<latin>sacerdos, sacerdotis</latin>
+		<english>priest</english>
+		<gender>m</gender>
+		<declension>3</declension>
+	</entry>
+	<entry>
+		<chapter>23</chapter>
+		<type>pronoun</type>
+		<latin>aliquis, aliquid</latin>
+		<english>someone, somebody, something</english>
+	</entry>
+	<entry>
+		<chapter>23</chapter>
+		<type>pronoun</type>
+		<latin>quisquis, quidquid</latin>
+		<english>whoever, whatever</english>
+	</entry>
+	<entry>
+		<chapter>23</chapter>
+		<type>adjective</type>
+		<latin>magnanimus, -a, -um</latin>
+		<english>great-hearted, brave, magnanimous</english>
+	</entry>
+	<entry>
+		<chapter>23</chapter>
+		<type>adverb</type>
+		<latin>umquam</latin>
+		<english>ever, at any time</english>
+	</entry>
+	<entry>
+		<chapter>23</chapter>
+		<type>verb</type>
+		<latin>educo, educare, educavi, educatum</latin>
+		<english>to bring up, educate</english>
+		<conjugation>1</conjugation>
+	</entry>
+	<entry>
+		<chapter>23</chapter>
+		<type>verb</type>
+		<latin>gaudeo, gaudere, gavisus sum, -</latin>
+		<english>to be glad, rejoice</english>
+		<conjugation>2</conjugation>
+	</entry>
+	<entry>
+		<chapter>23</chapter>
+		<type>verb</type>
+		<latin>ostendo, ostendere, ostendi, ostentum</latin>
+		<english>to exhibit, show, display</english>
+		<conjugation>3</conjugation>
+	</entry>
+	<entry>
+		<chapter>23</chapter>
+		<type>verb</type>
+		<latin>peto, petere, petivi, petitum</latin>
+		<english>to seek, aim at, beg, beseech</english>
+		<conjugation>3</conjugation>
+	</entry>
+	<entry>
+		<chapter>23</chapter>
+		<type>verb</type>
+		<latin>premo, premere, pressi, pressum</latin>
+		<english>to press, press hard, pursue</english>
+		<conjugation>3</conjugation>
+	</entry>
+	<entry>
+		<chapter>23</chapter>
+		<type>verb</type>
+		<latin>opprimo, opprimere, oppressi, oppressum</latin>
+		<english>to suppress, overwhelm, overpower, check</english>
+		<conjugation>3</conjugation>
+	</entry>
+	<entry>
+		<chapter>23</chapter>
+		<type>verb</type>
+		<latin>verto, vertere, verti, versum</latin>
+		<english>to turn; change</english>
+		<conjugation>3</conjugation>
+	</entry>
+</vocab>

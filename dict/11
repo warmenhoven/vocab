@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding='utf-8'?>
+<vocab>
+	<entry>
+		<chapter>11</chapter>
+		<type>noun</type>
+		<latin>caput, capitis</latin>
+		<english>head; leader; beginning; life; heading; chapter</english>
+		<gender>n</gender>
+		<declension>3</declension>
+	</entry>
+	<entry>
+		<chapter>11</chapter>
+		<type>noun</type>
+		<latin>consul, consulis</latin>
+		<english>consul</english>
+		<gender>m</gender>
+		<declension>3</declension>
+	</entry>
+	<entry>
+		<chapter>11</chapter>
+		<type>noun</type>
+		<latin>nemo, neminis</latin>
+		<english>no one, nobody</english>
+		<gender>m. or f</gender>
+		<declension>3</declension>
+	</entry>
+	<entry>
+		<chapter>11</chapter>
+		<type>pronoun</type>
+		<latin>ego, mei</latin>
+		<english>I</english>
+	</entry>
+	<entry>
+		<chapter>11</chapter>
+		<type>pronoun</type>
+		<latin>tu, tui</latin>
+		<english>you</english>
+	</entry>
+	<entry>
+		<chapter>11</chapter>
+		<type>pronoun</type>
+		<latin>is, ea, id</latin>
+		<english>this, that; he, she, it</english>
+		<notes>demonstrative</notes>
+	</entry>
+	<entry>
+		<chapter>11</chapter>
+		<type>pronoun</type>
+		<latin>idem, eadem, idem</latin>
+		<english>the same</english>
+		<notes>demonstrative</notes>
+	</entry>
+	<entry>
+		<chapter>11</chapter>
+		<type>adjective</type>
+		<latin>amicus, -a, -um</latin>
+		<english>friendly</english>
+	</entry>
+	<entry>
+		<chapter>11</chapter>
+		<type>adjective</type>
+		<latin>carus, -a, -um,</latin>
+		<english>dear</english>
+	</entry>
+	<entry>
+		<chapter>11</chapter>
+		<type>conjunction</type>
+		<latin>quod</latin>
+		<english>because</english>
+	</entry>
+	<entry>
+		<chapter>11</chapter>
+		<type>conjunction</type>
+		<latin>neque, nec</latin>
+		<english>and not, nor</english>
+		<notes>neque...neque (or nec...nec): neither...nor</notes>
+	</entry>
+	<entry>
+		<chapter>11</chapter>
+		<type>conjunction</type>
+		<latin>autem</latin>
+		<english>however; moreover</english>
+		<notes>postpositive</notes>
+	</entry>
+	<entry>
+		<chapter>11</chapter>
+		<type>adverb</type>
+		<latin>bene</latin>
+		<english>well, satisfactorily, quite</english>
+	</entry>
+	<entry>
+		<chapter>11</chapter>
+		<type>adverb</type>
+		<latin>etiam</latin>
+		<english>even</english>
+	</entry>
+	<entry>
+		<chapter>11</chapter>
+		<type>verb</type>
+		<latin>intellego, intellegere, intellexi, intellectum</latin>
+		<english>to understand</english>
+		<conjugation>3</conjugation>
+	</entry>
+	<entry>
+		<chapter>11</chapter>
+		<type>verb</type>
+		<latin>mitto, mittere, misi, missum</latin>
+		<english>to send, let go</english>
+		<conjugation>3</conjugation>
+	</entry>
+	<entry>
+		<chapter>11</chapter>
+		<type>verb</type>
+		<latin>sentio, sentire, sensi, sensum</latin>
+		<english>to feel, perceive, think, experience</english>
+		<conjugation>4</conjugation>
+	</entry>
+</vocab>

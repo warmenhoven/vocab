@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding='utf-8'?>
+<vocab>
+	<entry>
+		<chapter>31</chapter>
+		<type>noun</type>
+		<latin>as, assis</latin>
+		<english>an as (a small copper coin, roughly equivalent to a penny)</english>
+		<gender>m</gender>
+		<declension>3</declension>
+	</entry>
+	<entry>
+		<chapter>31</chapter>
+		<type>noun</type>
+		<latin>auxillium, -ii</latin>
+		<english>aid, help</english>
+		<gender>n</gender>
+		<declension>2</declension>
+	</entry>
+	<entry>
+		<chapter>31</chapter>
+		<type>noun</type>
+		<latin>digitus, -i</latin>
+		<english>finger, toe</english>
+		<gender>m</gender>
+		<declension>2</declension>
+	</entry>
+	<entry>
+		<chapter>31</chapter>
+		<type>noun</type>
+		<latin>elephantus, -i</latin>
+		<english>elephant</english>
+		<gender>m</gender>
+		<declension>2</declension>
+	</entry>
+	<entry>
+		<chapter>31</chapter>
+		<type>noun</type>
+		<latin>exsilium, -ii</latin>
+		<english>exile, banishment</english>
+		<gender>n</gender>
+		<declension>2</declension>
+	</entry>
+	<entry>
+		<chapter>31</chapter>
+		<type>noun</type>
+		<latin>invidia, -ae</latin>
+		<english>envy, jealousy, hatred</english>
+		<gender>f</gender>
+		<declension>1</declension>
+	</entry>
+	<entry>
+		<chapter>31</chapter>
+		<type>noun</type>
+		<latin>rumor, rumoris</latin>
+		<english>rumor, gossip</english>
+		<gender>m</gender>
+		<declension>3</declension>
+	</entry>
+	<entry>
+		<chapter>31</chapter>
+		<type>noun</type>
+		<latin>vinum, -i</latin>
+		<english>wine</english>
+		<gender>n</gender>
+		<declension>2</declension>
+	</entry>
+	<entry>
+		<chapter>31</chapter>
+		<type>adjective</type>
+		<latin>mediocris, medicre</latin>
+		<english>ordinary, moderate, mediocre</english>
+	</entry>
+	<entry>
+		<chapter>31</chapter>
+		<type>conjunction</type>
+		<latin>cum</latin>
+		<english>(with subj.) when, since, although; (with indic.) when</english>
+	</entry>
+	<entry>
+		<chapter>31</chapter>
+		<type>preposition</type>
+		<latin>apud</latin>
+		<english>among, in the presence of, at the house of</english>
+		<notes>takes accusative</notes>
+	</entry>
+	<entry>
+		<chapter>31</chapter>
+		<type>adverb</type>
+		<latin>semel</latin>
+		<english>a single time, once, once and for all, simultaneously</english>
+	</entry>
+	<entry>
+		<chapter>31</chapter>
+		<type>adverb</type>
+		<latin>usque</latin>
+		<english>all the way, up (to), even (to), continuously, always</english>
+	</entry>
+	<entry>
+		<chapter>31</chapter>
+		<type>verb</type>
+		<latin>doleo, dolere, dolui, doliturum</latin>
+		<english>to grieve, suffer, hurt, give pain</english>
+		<conjugation>2</conjugation>
+	</entry>
+	<entry>
+		<chapter>31</chapter>
+		<type>verb</type>
+		<latin>dormio, dormire, dormivi, dormitum</latin>
+		<english>to sleep</english>
+		<conjugation>4</conjugation>
+	</entry>
+	<entry>
+		<chapter>31</chapter>
+		<type>verb</type>
+		<latin>fero, ferre, tuli, latum</latin>
+		<english>to bear, carry, bring; suffer, endure, tolerate; say, report</english>
+		<conjugation>3</conjugation>
+	</entry>
+	<entry>
+		<chapter>31</chapter>
+		<type>verb</type>
+		<latin>adfero, adferre, attuli, allatum</latin>
+		<english>to bring to</english>
+		<conjugation>3</conjugation>
+	</entry>
+	<entry>
+		<chapter>31</chapter>
+		<type>verb</type>
+		<latin>confero, conferre, contuli, collatum</latin>
+		<english>to bring together, compare; confer, bestow</english>
+		<conjugation>3</conjugation>
+		<notes>se conferre: betake onself, go</notes>
+	</entry>
+	<entry>
+		<chapter>31</chapter>
+		<type>verb</type>
+		<latin>offero, offerre, obtuli, oblatum</latin>
+		<english>to offer</english>
+		<conjugation>3</conjugation>
+	</entry>
+	<entry>
+		<chapter>31</chapter>
+		<type>verb</type>
+		<latin>refero, referre, rettuli, relatum</latin>
+		<english>to carry back, bring back; repeat, answer, report</english>
+		<conjugation>3</conjugation>
+	</entry>
+	<entry>
+		<chapter>31</chapter>
+		<type>verb</type>
+		<latin>invideo, invidere, invidi, invisum</latin>
+		<english>to be envious; to look at with envy, envy, be jealous of</english>
+		<conjugation>2</conjugation>
+	</entry>
+	<entry>
+		<chapter>31</chapter>
+		<type>verb</type>
+		<latin>occido, occidere, occidi, occasum</latin>
+		<english>to fall down; die; set</english>
+		<conjugation>3</conjugation>
+	</entry>
+</vocab>

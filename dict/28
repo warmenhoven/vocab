@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding='utf-8'?>
+<vocab>
+	<entry>
+		<chapter>28</chapter>
+		<type>noun</type>
+		<latin>arma, -orum</latin>
+		<english>arms, weapons</english>
+		<gender>n</gender>
+		<declension>2</declension>
+		<notes>always plural</notes>
+	</entry>
+	<entry>
+		<chapter>28</chapter>
+		<type>noun</type>
+		<latin>cursus, -us</latin>
+		<english>running, race; course</english>
+		<gender>m</gender>
+		<declension>4</declension>
+	</entry>
+	<entry>
+		<chapter>28</chapter>
+		<type>noun</type>
+		<latin>luna, -ae</latin>
+		<english>moon</english>
+		<gender>f</gender>
+		<declension>1</declension>
+	</entry>
+	<entry>
+		<chapter>28</chapter>
+		<type>noun</type>
+		<latin>occasio, occasionis</latin>
+		<english>occasion, opportunity</english>
+		<gender>f</gender>
+		<declension>3</declension>
+	</entry>
+	<entry>
+		<chapter>28</chapter>
+		<type>noun</type>
+		<latin>parens, parentis</latin>
+		<english>parent</english>
+		<gender>m. or f</gender>
+		<declension>3</declension>
+	</entry>
+	<entry>
+		<chapter>28</chapter>
+		<type>noun</type>
+		<latin>stella, -ae</latin>
+		<english>star, planet</english>
+		<gender>f</gender>
+		<declension>1</declension>
+	</entry>
+	<entry>
+		<chapter>28</chapter>
+		<type>noun</type>
+		<latin>vesper, vesperis</latin>
+		<english>evening</english>
+		<gender>m</gender>
+		<declension>3</declension>
+		<notes>genitive singular may also be vesperi</notes>
+	</entry>
+	<entry>
+		<chapter>28</chapter>
+		<type>adjective</type>
+		<latin>mortuus, -a, -um</latin>
+		<english>dead</english>
+	</entry>
+	<entry>
+		<chapter>28</chapter>
+		<type>adjective</type>
+		<latin>princeps</latin>
+		<english>chief, foremost; (m. or f. noun) leader, emperor</english>
+		<notes>genitive principis</notes>
+	</entry>
+	<entry>
+		<chapter>28</chapter>
+		<type>conjunction</type>
+		<latin>ut</latin>
+		<english>in order that, so that, that, in order to, so as to, to; (with indicative) as, when</english>
+	</entry>
+	<entry>
+		<chapter>28</chapter>
+		<type>adverb, conjunction</type>
+		<latin>ne</latin>
+		<english>not; in order that...not, that...not, in order not to</english>
+	</entry>
+	<entry>
+		<chapter>28</chapter>
+		<type>verb</type>
+		<latin>cedo, cedere, cessi, cessum</latin>
+		<english>to go, withdraw; yield to, grant, submit</english>
+		<conjugation>3</conjugation>
+	</entry>
+	<entry>
+		<chapter>28</chapter>
+		<type>verb</type>
+		<latin>dedico, dedicare, dedicavi, dedicatum</latin>
+		<english>to dedicate</english>
+		<conjugation>1</conjugation>
+	</entry>
+	<entry>
+		<chapter>28</chapter>
+		<type>verb</type>
+		<latin>egeo, egere, egui, -</latin>
+		<english>to need, lack, want</english>
+		<conjugation>2</conjugation>
+	</entry>
+	<entry>
+		<chapter>28</chapter>
+		<type>verb</type>
+		<latin>expleo, explere, explevi, expletum</latin>
+		<english>to fill, fill up, complete</english>
+		<conjugation>2</conjugation>
+	</entry>
+	<entry>
+		<chapter>28</chapter>
+		<type>verb</type>
+		<latin>praesto, praestare, praestiti, praestitum</latin>
+		<english>to excel; exhibit, show, offer, supply, furnish</english>
+		<conjugation>1</conjugation>
+	</entry>
+	<entry>
+		<chapter>28</chapter>
+		<type>verb</type>
+		<latin>taceo, tacere, tacui, tacitum</latin>
+		<english>to be silent, leave unmentioned</english>
+		<conjugation>2</conjugation>
+	</entry>
+</vocab>

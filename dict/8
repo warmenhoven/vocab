@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding='utf-8'?>
+<vocab>
+	<entry>
+		<chapter>8</chapter>
+		<type>noun</type>
+		<latin>Cicero, Ciceronis</latin>
+		<english>Cicero</english>
+		<gender>f</gender>
+		<declension>3</declension>
+	</entry>
+	<entry>
+		<chapter>8</chapter>
+		<type>noun</type>
+		<latin>copia, -ae</latin>
+		<english>abundance, supply; (plural) supplies, troops, forces</english>
+		<gender>f</gender>
+		<declension>1</declension>
+	</entry>
+	<entry>
+		<chapter>8</chapter>
+		<type>noun</type>
+		<latin>frater, fratris</latin>
+		<english>brother</english>
+		<gender>m</gender>
+		<declension>3</declension>
+	</entry>
+	<entry>
+		<chapter>8</chapter>
+		<type>noun</type>
+		<latin>laus, laudis</latin>
+		<english>praise, glory, fame</english>
+		<gender>f</gender>
+		<declension>3</declension>
+	</entry>
+	<entry>
+		<chapter>8</chapter>
+		<type>noun</type>
+		<latin>libertas, libertatis</latin>
+		<english>liberty</english>
+		<gender>f</gender>
+		<declension>3</declension>
+	</entry>
+	<entry>
+		<chapter>8</chapter>
+		<type>noun</type>
+		<latin>ratio, rationis</latin>
+		<english>reckoning, account; reason, judgement, consideration; system; manner, method</english>
+		<gender>f</gender>
+		<declension>3</declension>
+	</entry>
+	<entry>
+		<chapter>8</chapter>
+		<type>noun</type>
+		<latin>scriptor, scriptoris</latin>
+		<english>writer, author</english>
+		<gender>m</gender>
+		<declension>3</declension>
+	</entry>
+	<entry>
+		<chapter>8</chapter>
+		<type>noun</type>
+		<latin>soror, sororis</latin>
+		<english>sister</english>
+		<gender>f</gender>
+		<declension>3</declension>
+	</entry>
+	<entry>
+		<chapter>8</chapter>
+		<type>noun</type>
+		<latin>victoria, -ae</latin>
+		<english>victory</english>
+		<gender>f</gender>
+		<declension>1</declension>
+	</entry>
+	<entry>
+		<chapter>8</chapter>
+		<type>conjunction</type>
+		<latin>dum</latin>
+		<english>while</english>
+	</entry>
+	<entry>
+		<chapter>8</chapter>
+		<type>preposition</type>
+		<latin>ad</latin>
+		<english>to, up to, near to</english>
+		<notes>takes accusative</notes>
+	</entry>
+	<entry>
+		<chapter>8</chapter>
+		<type>preposition</type>
+		<latin>ex</latin>
+		<english>out of, from, from within; by reason of, on account of</english>
+		<notes>takes ablative</notes>
+	</entry>
+	<entry>
+		<chapter>8</chapter>
+		<type>adverb</type>
+		<latin>numquam</latin>
+		<english>never</english>
+	</entry>
+	<entry>
+		<chapter>8</chapter>
+		<type>adverb</type>
+		<latin>tamen</latin>
+		<english>nevertheless, still</english>
+	</entry>
+	<entry>
+		<chapter>8</chapter>
+		<type>verb</type>
+		<latin>ago, agere, egi, actum</latin>
+		<english>to drive, lead, do, act; pass, spend</english>
+		<conjugation>3</conjugation>
+		<notes>gratias agere: to give thanks</notes>
+	</entry>
+	<entry>
+		<chapter>8</chapter>
+		<type>verb</type>
+		<latin>demonstro, demonstrare, demonstravi, demonstratum</latin>
+		<english>to point out, show, demonstrate</english>
+		<conjugation>1</conjugation>
+	</entry>
+	<entry>
+		<chapter>8</chapter>
+		<type>verb</type>
+		<latin>disco, discere, didici, -</latin>
+		<english>to learn</english>
+		<conjugation>3</conjugation>
+	</entry>
+	<entry>
+		<chapter>8</chapter>
+		<type>verb</type>
+		<latin>doceo, docere, docui, doctum</latin>
+		<english>to teach</english>
+		<conjugation>2</conjugation>
+	</entry>
+	<entry>
+		<chapter>8</chapter>
+		<type>verb</type>
+		<latin>duco, ducere, duxi, ductum</latin>
+		<english>to lead; consider, regard; prolong</english>
+		<conjugation>3</conjugation>
+	</entry>
+	<entry>
+		<chapter>8</chapter>
+		<type>verb</type>
+		<latin>gero, gerere, gessi, gestum</latin>
+		<english>to carry, carry on, manage, conduct, accomplish, perform</english>
+		<conjugation>3</conjugation>
+	</entry>
+	<entry>
+		<chapter>8</chapter>
+		<type>verb</type>
+		<latin>scribo, scribere, scripsi, scriptum</latin>
+		<english>to write, compose</english>
+		<conjugation>3</conjugation>
+	</entry>
+	<entry>
+		<chapter>8</chapter>
+		<type>verb</type>
+		<latin>traho, trahere, traxi, tractum</latin>
+		<english>to draw, drag, derive</english>
+		<conjugation>3</conjugation>
+	</entry>
+	<entry>
+		<chapter>8</chapter>
+		<type>verb</type>
+		<latin>vinco, vincere, vici, victum</latin>
+		<english>to conquer, overcome</english>
+		<conjugation>3</conjugation>
+	</entry>
+</vocab>

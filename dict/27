@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding='utf-8'?>
+<vocab>
+	<entry>
+		<chapter>27</chapter>
+		<type>noun</type>
+		<latin>delectatio, delectationis</latin>
+		<english>delight, pleasure, enjoyment</english>
+		<gender>f</gender>
+		<declension>3</declension>
+	</entry>
+	<entry>
+		<chapter>27</chapter>
+		<type>noun</type>
+		<latin>nepos, nepotis</latin>
+		<english>grandson, descendant</english>
+		<gender>m</gender>
+		<declension>3</declension>
+	</entry>
+	<entry>
+		<chapter>27</chapter>
+		<type>noun</type>
+		<latin>sol, solis</latin>
+		<english>sun</english>
+		<gender>m</gender>
+		<declension>3</declension>
+	</entry>
+	<entry>
+		<chapter>27</chapter>
+		<type>adjective</type>
+		<latin>diligens</latin>
+		<english>diligent, careful</english>
+		<notes>genitive diligentis</notes>
+	</entry>
+	<entry>
+		<chapter>27</chapter>
+		<type>adjective</type>
+		<latin>dissimilis, dissimile</latin>
+		<english>unlike, different</english>
+	</entry>
+	<entry>
+		<chapter>27</chapter>
+		<type>adjective</type>
+		<latin>gracilis, gracile</latin>
+		<english>slender, thin</english>
+	</entry>
+	<entry>
+		<chapter>27</chapter>
+		<type>adjective</type>
+		<latin>humilis, humile</latin>
+		<english>lowly, humble</english>
+	</entry>
+	<entry>
+		<chapter>27</chapter>
+		<type>adjective</type>
+		<latin>maior, -ius</latin>
+		<english>greater, older; (plural) ancestors</english>
+	</entry>
+	<entry>
+		<chapter>27</chapter>
+		<type>adjective</type>
+		<latin>primus, -a, -um</latin>
+		<english>first, foremost, chief, principal</english>
+	</entry>
+	<entry>
+		<chapter>27</chapter>
+		<type>adjective</type>
+		<latin>quot</latin>
+		<english>how many, as many as</english>
+		<notes>indeclinable</notes>
+	</entry>
+	<entry>
+		<chapter>27</chapter>
+		<type>adjective</type>
+		<latin>similis, simile</latin>
+		<english>similar (to), like, resembling</english>
+	</entry>
+	<entry>
+		<chapter>27</chapter>
+		<type>adjective</type>
+		<latin>superus, -a, -um</latin>
+		<english>above, upper</english>
+	</entry>
+	<entry>
+		<chapter>27</chapter>
+		<type>adjective</type>
+		<latin>utilis, utile</latin>
+		<english>useful, advantageous</english>
+	</entry>
+	<entry>
+		<chapter>27</chapter>
+		<type>adjective</type>
+		<latin>melior, -ius</latin>
+		<english>better</english>
+	</entry>
+	<entry>
+		<chapter>27</chapter>
+		<type>adjective</type>
+		<latin>peior, -ius</latin>
+		<english>worse</english>
+	</entry>
+	<entry>
+		<chapter>27</chapter>
+		<type>adjective</type>
+		<latin>plus</latin>
+		<english>more</english>
+		<notes>NB no masc. and fem. or dat. sing; abl. sing. plure, gen. plur. plurium, neut. pl. plura</notes>
+	</entry>
+	<entry>
+		<chapter>27</chapter>
+		<type>adjective</type>
+		<latin>minor, minus</latin>
+		<english>smaller</english>
+	</entry>
+	<entry>
+		<chapter>27</chapter>
+		<type>adjective</type>
+		<latin>prior, -ius</latin>
+		<english>former</english>
+	</entry>
+	<entry>
+		<chapter>27</chapter>
+		<type>adjective</type>
+		<latin>superior, -ius</latin>
+		<english>higher</english>
+	</entry>
+	<entry>
+		<chapter>27</chapter>
+		<type>adjective</type>
+		<latin>optimus, -a, -um</latin>
+		<english>best</english>
+	</entry>
+	<entry>
+		<chapter>27</chapter>
+		<type>adjective</type>
+		<latin>maximus, -a, -um</latin>
+		<english>greatest</english>
+	</entry>
+	<entry>
+		<chapter>27</chapter>
+		<type>adjective</type>
+		<latin>pessimus, -a, -um</latin>
+		<english>worst</english>
+	</entry>
+	<entry>
+		<chapter>27</chapter>
+		<type>adjective</type>
+		<latin>plurimus, -a, -um</latin>
+		<english>most</english>
+	</entry>
+	<entry>
+		<chapter>27</chapter>
+		<type>adjective</type>
+		<latin>minimus, -a, -um</latin>
+		<english>smallest</english>
+	</entry>
+	<entry>
+		<chapter>27</chapter>
+		<type>adjective</type>
+		<latin>summus, -a, -um</latin>
+		<english>highest, furthest</english>
+	</entry>
+	<entry>
+		<chapter>27</chapter>
+		<type>adjective</type>
+		<latin>supremus, -a, -um</latin>
+		<english>highest, last</english>
+	</entry>
+	<entry>
+		<chapter>27</chapter>
+		<type>verb</type>
+		<latin>pono, ponere, posui, positum</latin>
+		<english>to put, place, set</english>
+		<conjugation>3</conjugation>
+	</entry>
+	<entry>
+		<chapter>27</chapter>
+		<type>verb</type>
+		<latin>probo, probare, probavi, probatum</latin>
+		<english>to test, approve, recommend</english>
+		<conjugation>1</conjugation>
+	</entry>
+</vocab>

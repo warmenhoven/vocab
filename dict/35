@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding='utf-8'?>
+<vocab>
+	<entry>
+		<chapter>35</chapter>
+		<type>noun</type>
+		<latin>aestas, aestatis</latin>
+		<english>summer</english>
+		<gender>f</gender>
+		<declension>3</declension>
+	</entry>
+	<entry>
+		<chapter>35</chapter>
+		<type>noun</type>
+		<latin>ianua, -ae</latin>
+		<english>door</english>
+		<gender>f</gender>
+		<declension>1</declension>
+	</entry>
+	<entry>
+		<chapter>35</chapter>
+		<type>noun</type>
+		<latin>pectus, pectoris</latin>
+		<english>breast, heart</english>
+		<gender>n</gender>
+		<declension>3</declension>
+	</entry>
+	<entry>
+		<chapter>35</chapter>
+		<type>noun</type>
+		<latin>praemium, -ii</latin>
+		<english>reward, prize</english>
+		<gender>n</gender>
+		<declension>2</declension>
+	</entry>
+	<entry>
+		<chapter>35</chapter>
+		<type>adjective</type>
+		<latin>iratus, -a, -um</latin>
+		<english>angry</english>
+	</entry>
+	<entry>
+		<chapter>35</chapter>
+		<type>verb</type>
+		<latin>antepono, anteponere, anteposui, antepositum</latin>
+		<english>to put before, prefer</english>
+		<conjugation>3</conjugation>
+	</entry>
+	<entry>
+		<chapter>35</chapter>
+		<type>verb</type>
+		<latin>foveo, fovere, fovi, fotum</latin>
+		<english>to comfort, nurture, cherish</english>
+		<conjugation>3</conjugation>
+	</entry>
+	<entry>
+		<chapter>35</chapter>
+		<type>verb</type>
+		<latin>ignosco, ignoscere, ignovi, ignotum</latin>
+		<english>to grant pardon to, forgive</english>
+		<conjugation>3</conjugation>
+	</entry>
+	<entry>
+		<chapter>35</chapter>
+		<type>verb</type>
+		<latin>impero, imperare, imperavi, imperatum</latin>
+		<english>to give orders to, command</english>
+		<conjugation>1</conjugation>
+	</entry>
+	<entry>
+		<chapter>35</chapter>
+		<type>verb</type>
+		<latin>miror, mirari, miratus sum, -</latin>
+		<english>to marvel at, admire, wonder</english>
+		<conjugation>1</conjugation>
+	</entry>
+	<entry>
+		<chapter>35</chapter>
+		<type>verb</type>
+		<latin>noceo, nocere, nocui, nocitum</latin>
+		<english>to do harm to, harm, injure</english>
+		<conjugation>2</conjugation>
+	</entry>
+	<entry>
+		<chapter>35</chapter>
+		<type>verb</type>
+		<latin>nubo, nubere, nupsi, nuptum</latin>
+		<english>to cover, veil; (with dat.) to be married to, marry</english>
+		<conjugation>3</conjugation>
+	</entry>
+	<entry>
+		<chapter>35</chapter>
+		<type>verb</type>
+		<latin>parco, parcere, peperci, parsurum</latin>
+		<english>to be lenient to, spare</english>
+		<conjugation>3</conjugation>
+	</entry>
+	<entry>
+		<chapter>35</chapter>
+		<type>verb</type>
+		<latin>pareo, parere, parui, -</latin>
+		<english>to be obedient to, obey</english>
+		<conjugation>2</conjugation>
+	</entry>
+	<entry>
+		<chapter>35</chapter>
+		<type>verb</type>
+		<latin>persuadeo, persuadere, persuasi, persuasum</latin>
+		<english>to make sweet to, persuade</english>
+		<conjugation>2</conjugation>
+	</entry>
+	<entry>
+		<chapter>35</chapter>
+		<type>verb</type>
+		<latin>placeo, placere, placui, placitum</latin>
+		<english>to be pleasing to, please</english>
+		<conjugation>2</conjugation>
+	</entry>
+	<entry>
+		<chapter>35</chapter>
+		<type>verb</type>
+		<latin>sapio, sapere, sapui, -</latin>
+		<english>to have good taste; have good sense, be wise</english>
+		<conjugation>3i</conjugation>
+	</entry>
+	<entry>
+		<chapter>35</chapter>
+		<type>verb</type>
+		<latin>servio, servire, servivi, servitum</latin>
+		<english>to be a slave to, serve</english>
+		<conjugation>4</conjugation>
+	</entry>
+	<entry>
+		<chapter>35</chapter>
+		<type>verb</type>
+		<latin>studeo, studere, studui, -</latin>
+		<english>to direct one's zeal to, be eager for, study</english>
+		<conjugation>2</conjugation>
+	</entry>
+	<entry>
+		<chapter>35</chapter>
+		<type>verb</type>
+		<latin>subrideo, subridere, subrisi, subrisum</latin>
+		<english>to smile upon, to smile down upon</english>
+		<conjugation>2</conjugation>
+	</entry>
+</vocab>

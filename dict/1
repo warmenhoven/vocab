@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding='utf-8'?>
+<vocab>
+	<entry>
+		<chapter>1</chapter>
+		<type>pronoun</type>
+		<latin>me</latin>
+		<english>me</english>
+	</entry>
+	<entry>
+		<chapter>1</chapter>
+		<type>pronoun</type>
+		<latin>quid</latin>
+		<english>what</english>
+	</entry>
+	<entry>
+		<chapter>1</chapter>
+		<type>noun</type>
+		<latin>nihil</latin>
+		<english>nothing</english>
+		<gender>n</gender>
+	</entry>
+	<entry>
+		<chapter>1</chapter>
+		<type>adverb</type>
+		<latin>non</latin>
+		<english>not</english>
+	</entry>
+	<entry>
+		<chapter>1</chapter>
+		<type>adverb</type>
+		<latin>saepe</latin>
+		<english>often</english>
+	</entry>
+	<entry>
+		<chapter>1</chapter>
+		<type>conjunction</type>
+		<latin>si</latin>
+		<english>if</english>
+	</entry>
+	<entry>
+		<chapter>1</chapter>
+		<type>verb</type>
+		<latin>amo, amare, amavi, amatum</latin>
+		<english>to love, like</english>
+		<conjugation>1</conjugation>
+		<notes>amabo te: please (I will love you)</notes>
+	</entry>
+	<entry>
+		<chapter>1</chapter>
+		<type>verb</type>
+		<latin>cogito, cogitare, cogitavi, cogitatum</latin>
+		<english>to think, ponder, consider, plan</english>
+		<conjugation>1</conjugation>
+	</entry>
+	<entry>
+		<chapter>1</chapter>
+		<type>verb</type>
+		<latin>debeo, debere, debui, debitum</latin>
+		<english>to owe; ought, must</english>
+		<conjugation>2</conjugation>
+	</entry>
+	<entry>
+		<chapter>1</chapter>
+		<type>verb</type>
+		<latin>do, dare, dedi, datum</latin>
+		<english>to give, offer</english>
+		<conjugation>1</conjugation>
+	</entry>
+	<entry>
+		<chapter>1</chapter>
+		<type>verb</type>
+		<latin>erro, errare, erravi, erratum</latin>
+		<english>to wander, err, go astray, be mistaken</english>
+		<conjugation>1</conjugation>
+	</entry>
+	<entry>
+		<chapter>1</chapter>
+		<type>verb</type>
+		<latin>laudo, laudare, laudavi, laudatum</latin>
+		<english>to praise</english>
+		<conjugation>1</conjugation>
+	</entry>
+	<entry>
+		<chapter>1</chapter>
+		<type>verb</type>
+		<latin>moneo, monere, monui, monitum</latin>
+		<english>to remind, advise, warn</english>
+		<conjugation>2</conjugation>
+	</entry>
+	<entry>
+		<chapter>1</chapter>
+		<type>verb</type>
+		<latin>salveo, salvere, -, -</latin>
+		<english>to be well, be in good health</english>
+		<notes>salve and salvete: hello</notes>
+		<conjugation>2</conjugation>
+	</entry>
+	<entry>
+		<chapter>1</chapter>
+		<type>verb</type>
+		<latin>servo, servare, servavi, servatum</latin>
+		<english>to preserve, save, keep, guard</english>
+		<conjugation>1</conjugation>
+	</entry>
+	<entry>
+		<chapter>1</chapter>
+		<type>verb</type>
+		<latin>conservo, conservare, conservavi, conservatum</latin>
+		<english>to preserve, conserve, maintain</english>
+		<notes>stronger than servo</notes>
+		<conjugation>1</conjugation>
+	</entry>
+	<entry>
+		<chapter>1</chapter>
+		<type>verb</type>
+		<latin>terreo, terrere, terrui, territum</latin>
+		<english>to frighten, terrify</english>
+		<conjugation>2</conjugation>
+	</entry>
+	<entry>
+		<chapter>1</chapter>
+		<type>verb</type>
+		<latin>valeo, valere, valui, valiturum</latin>
+		<english>to be strong, have power; be well</english>
+		<conjugation>2</conjugation>
+	</entry>
+	<entry>
+		<chapter>1</chapter>
+		<type>verb</type>
+		<latin>video, videre, vidi, visum</latin>
+		<english>to see; observe, understand</english>
+		<conjugation>2</conjugation>
+	</entry>
+	<entry>
+		<chapter>1</chapter>
+		<type>verb</type>
+		<latin>voco, vocare, vocavi, vocatum</latin>
+		<english>to call, summon</english>
+		<conjugation>1</conjugation>
+	</entry>
+</vocab>

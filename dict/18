@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding='utf-8'?>
+<vocab>
+	<entry>
+		<chapter>18</chapter>
+		<type>noun</type>
+		<latin>flumen, fluminis</latin>
+		<english>river</english>
+		<gender>n</gender>
+		<declension>3</declension>
+	</entry>
+	<entry>
+		<chapter>18</chapter>
+		<type>noun</type>
+		<latin>genus, generis</latin>
+		<english>origin, kind, sort, class</english>
+		<gender>n</gender>
+		<declension>3</declension>
+	</entry>
+	<entry>
+		<chapter>18</chapter>
+		<type>noun</type>
+		<latin>hostis, hostis</latin>
+		<english>an enemy; (plural) the enemy</english>
+		<gender>m</gender>
+		<declension>3i</declension>
+	</entry>
+	<entry>
+		<chapter>18</chapter>
+		<type>noun</type>
+		<latin>ludus, ludi</latin>
+		<english>game, sport; school</english>
+		<gender>m</gender>
+		<declension>2</declension>
+	</entry>
+	<entry>
+		<chapter>18</chapter>
+		<type>noun</type>
+		<latin>probitas, probitatis</latin>
+		<english>uprightness, honesty</english>
+		<gender>f</gender>
+		<declension>3</declension>
+	</entry>
+	<entry>
+		<chapter>18</chapter>
+		<type>noun</type>
+		<latin>scientia, -ae</latin>
+		<english>knowledge</english>
+		<gender>f</gender>
+		<declension>1</declension>
+	</entry>
+	<entry>
+		<chapter>18</chapter>
+		<type>adjective</type>
+		<latin>clarus, -a, -um</latin>
+		<english>clear, bright; renowned, famous, illustrious</english>
+	</entry>
+	<entry>
+		<chapter>18</chapter>
+		<type>adjective</type>
+		<latin>mortalis, mortale</latin>
+		<english>mortal</english>
+	</entry>
+	<entry>
+		<chapter>18</chapter>
+		<type>adverb</type>
+		<latin>cur</latin>
+		<english>why</english>
+	</entry>
+	<entry>
+		<chapter>18</chapter>
+		<type>adverb</type>
+		<latin>deinde</latin>
+		<english>thereupon, next, then</english>
+	</entry>
+	<entry>
+		<chapter>18</chapter>
+		<type>verb</type>
+		<latin>fluo, fluere, fluxi, fluxum</latin>
+		<english>to flow</english>
+		<conjugation>3</conjugation>
+	</entry>
+	<entry>
+		<chapter>18</chapter>
+		<type>verb</type>
+		<latin>lego, legere, legi, lectum</latin>
+		<english>to pick out, choose; read</english>
+		<conjugation>3</conjugation>
+	</entry>
+	<entry>
+		<chapter>18</chapter>
+		<type>verb</type>
+		<latin>misceo, miscere, miscui, mixtum</latin>
+		<english>to mix, stir up, disturb</english>
+		<conjugation>2</conjugation>
+	</entry>
+	<entry>
+		<chapter>18</chapter>
+		<type>verb</type>
+		<latin>moveo, movere, movi, motum</latin>
+		<english>to move; arouse, affect</english>
+		<conjugation>2</conjugation>
+	</entry>
+	<entry>
+		<chapter>18</chapter>
+		<type>verb</type>
+		<latin>videor, videri, visus sum, -</latin>
+		<english>to be seen, seem, appear</english>
+		<conjugation>2</conjugation>
+	</entry>
+</vocab>

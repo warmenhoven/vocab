@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding='utf-8'?>
+<vocab>
+	<entry>
+		<chapter>34</chapter>
+		<type>noun</type>
+		<latin>anima, -ae</latin>
+		<english>soul, spirit</english>
+		<gender>f</gender>
+		<declension>1</declension>
+	</entry>
+	<entry>
+		<chapter>34</chapter>
+		<type>noun</type>
+		<latin>remissio, remissionis</latin>
+		<english>letting go, release; relaxation</english>
+		<gender>f</gender>
+		<declension>3</declension>
+	</entry>
+	<entry>
+		<chapter>34</chapter>
+		<type>noun</type>
+		<latin>vox, vocis</latin>
+		<english>voice, word</english>
+		<gender>f</gender>
+		<declension>3</declension>
+	</entry>
+	<entry>
+		<chapter>34</chapter>
+		<type>adjective</type>
+		<latin>adversus, -a, -um</latin>
+		<english>opposite, adverse</english>
+	</entry>
+	<entry>
+		<chapter>34</chapter>
+		<type>adjective</type>
+		<latin>talis, tale</latin>
+		<english>such, of such a sort</english>
+	</entry>
+	<entry>
+		<chapter>34</chapter>
+		<type>interjection</type>
+		<latin>vae</latin>
+		<english>alas, woe to</english>
+	</entry>
+	<entry>
+		<chapter>34</chapter>
+		<type>verb</type>
+		<latin>arbitror, arbitrari, arbitratus sum, -</latin>
+		<english>to judge, think</english>
+		<conjugation>1</conjugation>
+	</entry>
+	<entry>
+		<chapter>34</chapter>
+		<type>verb</type>
+		<latin>conor, conari, conatus sum, -</latin>
+		<english>to try, attempt</english>
+		<conjugation>1</conjugation>
+	</entry>
+	<entry>
+		<chapter>34</chapter>
+		<type>verb</type>
+		<latin>cresco, crescere, crevi, cretum</latin>
+		<english>to increase</english>
+		<conjugation>2</conjugation>
+	</entry>
+	<entry>
+		<chapter>34</chapter>
+		<type>verb</type>
+		<latin>egredior, egredi, egressus sum, -</latin>
+		<english>to go out</english>
+		<conjugation>3i</conjugation>
+	</entry>
+	<entry>
+		<chapter>34</chapter>
+		<type>verb</type>
+		<latin>fateor, fateri, fassus sum, -</latin>
+		<english>to confess, admit</english>
+		<conjugation>2</conjugation>
+	</entry>
+	<entry>
+		<chapter>34</chapter>
+		<type>verb</type>
+		<latin>hortor, hortari, hortatus sum, -</latin>
+		<english>to encourage, urge</english>
+		<conjugation>1</conjugation>
+	</entry>
+	<entry>
+		<chapter>34</chapter>
+		<type>verb</type>
+		<latin>loquor, loqui, locutus sum, -</latin>
+		<english>to say, speak, tell</english>
+		<conjugation>3</conjugation>
+	</entry>
+	<entry>
+		<chapter>34</chapter>
+		<type>verb</type>
+		<latin>molior, moliri, molitus sum, -</latin>
+		<english>to work at, build, undertake, plan</english>
+		<conjugation>4</conjugation>
+	</entry>
+	<entry>
+		<chapter>34</chapter>
+		<type>verb</type>
+		<latin>morior, mori, mortuus sum, -</latin>
+		<english>to die</english>
+		<conjugation>3i</conjugation>
+	</entry>
+	<entry>
+		<chapter>34</chapter>
+		<type>verb</type>
+		<latin>nascor, nasci, natus sum, -</latin>
+		<english>to be born; spring forth, arise</english>
+		<conjugation>3</conjugation>
+	</entry>
+	<entry>
+		<chapter>34</chapter>
+		<type>verb</type>
+		<latin>patior, pati, passus sum, -</latin>
+		<english>to suffer, endure, permit</english>
+		<conjugation>3i</conjugation>
+	</entry>
+	<entry>
+		<chapter>34</chapter>
+		<type>verb</type>
+		<latin>proficiscor, proficisci, profectus sum, -</latin>
+		<english>to set out, start</english>
+		<conjugation>3</conjugation>
+	</entry>
+	<entry>
+		<chapter>34</chapter>
+		<type>verb</type>
+		<latin>rusticor, rusticari, rusticatus sum, -</latin>
+		<english>to live in the country</english>
+		<conjugation>1</conjugation>
+	</entry>
+	<entry>
+		<chapter>34</chapter>
+		<type>verb</type>
+		<latin>sedeo, sedere, sedi, sessum</latin>
+		<english>to sit</english>
+		<conjugation>2</conjugation>
+	</entry>
+	<entry>
+		<chapter>34</chapter>
+		<type>verb</type>
+		<latin>sequor, sequi, secutus sum, -</latin>
+		<english>to follow</english>
+		<conjugation>3</conjugation>
+	</entry>
+	<entry>
+		<chapter>34</chapter>
+		<type>verb</type>
+		<latin>specto, spectare, spectavi, spectatum</latin>
+		<english>to look at, see</english>
+		<conjugation>1</conjugation>
+	</entry>
+	<entry>
+		<chapter>34</chapter>
+		<type>verb</type>
+		<latin>utor, uti, usus sum, -</latin>
+		<english>to use; enjoy, experience</english>
+		<conjugation>3</conjugation>
+	</entry>
+</vocab>

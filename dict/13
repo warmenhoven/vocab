@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding='utf-8'?>
+<vocab>
+	<entry>
+		<chapter>13</chapter>
+		<type>noun</type>
+		<latin>divitiae, -arum</latin>
+		<english>riches, wealth</english>
+		<gender>f</gender>
+		<declension>1</declension>
+		<notes>always plural</notes>
+	</entry>
+	<entry>
+		<chapter>13</chapter>
+		<type>noun</type>
+		<latin>factum, -i</latin>
+		<english>deed, act, achievement</english>
+		<gender>n</gender>
+		<declension>2</declension>
+	</entry>
+	<entry>
+		<chapter>13</chapter>
+		<type>noun</type>
+		<latin>signum, -i</latin>
+		<english>sign, signal, indication, seal</english>
+		<gender>n</gender>
+		<declension>2</declension>
+	</entry>
+	<entry>
+		<chapter>13</chapter>
+		<type>pronoun</type>
+		<latin>ipse, ipsa, ipsum</latin>
+		<english>myself, yourself, himself, herself, itself (etc.); the very, the actual</english>
+		<notes>intensive</notes>
+	</entry>
+	<entry>
+		<chapter>13</chapter>
+		<type>pronoun</type>
+		<latin>quisque, quidque</latin>
+		<english>each one, each person</english>
+		<notes>indefinite</notes>
+	</entry>
+	<entry>
+		<chapter>13</chapter>
+		<type>pronoun</type>
+		<latin>sui</latin>
+		<english>himself, herself, itself, themselves</english>
+		<notes>reflexive</notes>
+	</entry>
+	<entry>
+		<chapter>13</chapter>
+		<type>adjective</type>
+		<latin>doctus, -a, -um</latin>
+		<english>taught, learned, skilled</english>
+	</entry>
+	<entry>
+		<chapter>13</chapter>
+		<type>adjective</type>
+		<latin>fortunatus, -a, -um</latin>
+		<english>lucky, fortunate, happy</english>
+	</entry>
+	<entry>
+		<chapter>13</chapter>
+		<type>adjective</type>
+		<latin>suus, -a, -um</latin>
+		<english>his own, her own, its own, their own</english>
+		<notes>reflexive possessive</notes>
+	</entry>
+	<entry>
+		<chapter>13</chapter>
+		<type>conjunction</type>
+		<latin>nam</latin>
+		<english>for</english>
+	</entry>
+	<entry>
+		<chapter>13</chapter>
+		<type>adverb</type>
+		<latin>ante</latin>
+		<english>before, in front of; previously</english>
+	</entry>
+	<entry>
+		<chapter>13</chapter>
+		<type>preposition</type>
+		<latin>per</latin>
+		<english>through</english>
+		<notes>takes accusative</notes>
+	</entry>
+	<entry>
+		<chapter>13</chapter>
+		<type>adverb</type>
+		<latin>olim</latin>
+		<english>at that time, once, formerly; in the future</english>
+	</entry>
+	<entry>
+		<chapter>13</chapter>
+		<type>verb</type>
+		<latin>alo, alere, alui, altum</latin>
+		<english>to nourish, support, sustain, increase, cherish</english>
+		<conjugation>3</conjugation>
+	</entry>
+	<entry>
+		<chapter>13</chapter>
+		<type>verb</type>
+		<latin>diligo, diligere, dilexi, dilectum</latin>
+		<english>to esteem, love</english>
+		<conjugation>3</conjugation>
+	</entry>
+	<entry>
+		<chapter>13</chapter>
+		<type>verb</type>
+		<latin>iungo, iungere, iunxi, iunctum</latin>
+		<english>to join</english>
+		<conjugation>3</conjugation>
+	</entry>
+	<entry>
+		<chapter>13</chapter>
+		<type>verb</type>
+		<latin>sto, stare, steti, statum</latin>
+		<english>to stand, stand still, stand firm</english>
+		<conjugation>1</conjugation>
+	</entry>
+</vocab>

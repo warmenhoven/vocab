@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding='utf-8'?>
+<vocab>
+	<entry>
+		<chapter>30</chapter>
+		<type>noun</type>
+		<latin>honor, honoris</latin>
+		<english>honor, esteem; public office</english>
+		<gender>m</gender>
+		<declension>3</declension>
+	</entry>
+	<entry>
+		<chapter>30</chapter>
+		<type>adjective</type>
+		<latin>ceteri, -ae, -a</latin>
+		<english>the remaining, the rest, the other, all the others</english>
+		<notes>always plural</notes>
+	</entry>
+	<entry>
+		<chapter>30</chapter>
+		<type>adjective</type>
+		<latin>quantus, -a, -um</latin>
+		<english>how large, how great, how much</english>
+	</entry>
+	<entry>
+		<chapter>30</chapter>
+		<type>adjective</type>
+		<latin>ridiculus, -a, -um</latin>
+		<english>laughable, ridiculous</english>
+	</entry>
+	<entry>
+		<chapter>30</chapter>
+		<type>adjective</type>
+		<latin>vivus, -a, -um</latin>
+		<english>alive, living</english>
+	</entry>
+	<entry>
+		<chapter>30</chapter>
+		<type>adverb</type>
+		<latin>furtim</latin>
+		<english>stealthily, secretly</english>
+	</entry>
+	<entry>
+		<chapter>30</chapter>
+		<type>adverb</type>
+		<latin>mox</latin>
+		<english>soon</english>
+	</entry>
+	<entry>
+		<chapter>30</chapter>
+		<type>adverb</type>
+		<latin>primo</latin>
+		<english>at first, at the beginning</english>
+	</entry>
+	<entry>
+		<chapter>30</chapter>
+		<type>adverb</type>
+		<latin>repente</latin>
+		<english>suddenly</english>
+	</entry>
+	<entry>
+		<chapter>30</chapter>
+		<type>adverb</type>
+		<latin>unde</latin>
+		<english>whence, from what, from which place, from which, from whom</english>
+	</entry>
+	<entry>
+		<chapter>30</chapter>
+		<type>adverb, conjunction</type>
+		<latin>utrum...an</latin>
+		<english>whether...or</english>
+	</entry>
+	<entry>
+		<chapter>30</chapter>
+		<type>verb</type>
+		<latin>bibo, bibere, bibi, -</latin>
+		<english>to drink</english>
+		<conjugation>3</conjugation>
+	</entry>
+	<entry>
+		<chapter>30</chapter>
+		<type>verb</type>
+		<latin>cognosco, cognoscere, cognovi, cognitum</latin>
+		<english>to become acquainted with, learn, recognize; (in perf.) know</english>
+		<conjugation>3</conjugation>
+	</entry>
+	<entry>
+		<chapter>30</chapter>
+		<type>verb</type>
+		<latin>comprehendo, comprehendere, comprehendi, comprehensum</latin>
+		<english>to grasp, seize, arrest; comprehend, understand</english>
+		<conjugation>3</conjugation>
+	</entry>
+	<entry>
+		<chapter>30</chapter>
+		<type>verb</type>
+		<latin>consumo, consumere, consumpsi, consumptum</latin>
+		<english>to consume, use up</english>
+		<conjugation>3</conjugation>
+	</entry>
+	<entry>
+		<chapter>30</chapter>
+		<type>verb</type>
+		<latin>dubito, dubitare, dubitavi, dubitatum</latin>
+		<english>to doubt, hesitate</english>
+		<conjugation>1</conjugation>
+	</entry>
+	<entry>
+		<chapter>30</chapter>
+		<type>verb</type>
+		<latin>expono, exponere, exponsui, expositum</latin>
+		<english>to set forth, explain, expose</english>
+		<conjugation>3</conjugation>
+	</entry>
+	<entry>
+		<chapter>30</chapter>
+		<type>verb</type>
+		<latin>minuo, minuere, minui, minutum</latin>
+		<english>to lessen, diminish</english>
+		<conjugation>3</conjugation>
+	</entry>
+	<entry>
+		<chapter>30</chapter>
+		<type>verb</type>
+		<latin>rogo, rogare, rogavi, rogatum</latin>
+		<english>to ask</english>
+		<conjugation>1</conjugation>
+	</entry>
+</vocab>

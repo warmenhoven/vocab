@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding='utf-8'?>
+<vocab>
+	<entry>
+		<chapter>3</chapter>
+		<type>noun</type>
+		<latin>ager, agri</latin>
+		<english>field, farm</english>
+		<gender>m</gender>
+		<declension>2</declension>
+	</entry>
+	<entry>
+		<chapter>3</chapter>
+		<type>noun</type>
+		<latin>agricola, -ae</latin>
+		<english>farmer</english>
+		<gender>m</gender>
+		<declension>1</declension>
+	</entry>
+	<entry>
+		<chapter>3</chapter>
+		<type>noun</type>
+		<latin>amica, -ae</latin>
+		<english>friend</english>
+		<gender>f</gender>
+		<declension>1</declension>
+	</entry>
+	<entry>
+		<chapter>3</chapter>
+		<type>noun</type>
+		<latin>amicus, -i</latin>
+		<english>friend</english>
+		<gender>m</gender>
+		<declension>2</declension>
+	</entry>
+	<entry>
+		<chapter>3</chapter>
+		<type>noun</type>
+		<latin>femina, -ae</latin>
+		<english>woman</english>
+		<gender>f</gender>
+		<declension>1</declension>
+	</entry>
+	<entry>
+		<chapter>3</chapter>
+		<type>noun</type>
+		<latin>filia, -ae</latin>
+		<english>daughter</english>
+		<gender>f</gender>
+		<declension>1</declension>
+		<notes>dative and ablative plural, filiabus</notes>
+	</entry>
+	<entry>
+		<chapter>3</chapter>
+		<type>noun</type>
+		<latin>filius, -ii</latin>
+		<english>son</english>
+		<gender>m</gender>
+		<declension>2</declension>
+	</entry>
+	<entry>
+		<chapter>3</chapter>
+		<type>noun</type>
+		<latin>numerus, -i</latin>
+		<english>number</english>
+		<gender>m</gender>
+		<declension>2</declension>
+	</entry>
+	<entry>
+		<chapter>3</chapter>
+		<type>noun</type>
+		<latin>populus, -i</latin>
+		<english>the people, a people, a nation</english>
+		<gender>m</gender>
+		<declension>2</declension>
+	</entry>
+	<entry>
+		<chapter>3</chapter>
+		<type>noun</type>
+		<latin>puer, pueri</latin>
+		<english>boy; boys, children</english>
+		<gender>m</gender>
+		<declension>2</declension>
+	</entry>
+	<entry>
+		<chapter>3</chapter>
+		<type>noun</type>
+		<latin>sapientia, -ae</latin>
+		<english>wisdom</english>
+		<gender>f</gender>
+		<declension>1</declension>
+	</entry>
+	<entry>
+		<chapter>3</chapter>
+		<type>noun</type>
+		<latin>vir, viri</latin>
+		<english>man, hero</english>
+		<gender>m</gender>
+		<declension>2</declension>
+	</entry>
+	<entry>
+		<chapter>3</chapter>
+		<type>adjective</type>
+		<latin>avarus, -a, -um</latin>
+		<english>greedy, avaricious</english>
+	</entry>
+	<entry>
+		<chapter>3</chapter>
+		<type>adjective</type>
+		<latin>pauci, -ae, -a</latin>
+		<english>few, a few</english>
+		<notes>usually plural</notes>
+	</entry>
+	<entry>
+		<chapter>3</chapter>
+		<type>adjective</type>
+		<latin>Romanus, -a, -um</latin>
+		<english>Roman</english>
+	</entry>
+	<entry>
+		<chapter>3</chapter>
+		<type>preposition</type>
+		<latin>de</latin>
+		<english>down from, from; concerning, about</english>
+		<notes>takes ablative</notes>
+	</entry>
+	<entry>
+		<chapter>3</chapter>
+		<type>preposition</type>
+		<latin>in</latin>
+		<english>in, on</english>
+		<notes>takes ablative</notes>
+	</entry>
+	<entry>
+		<chapter>3</chapter>
+		<type>adverb</type>
+		<latin>hodie</latin>
+		<english>today</english>
+	</entry>
+	<entry>
+		<chapter>3</chapter>
+		<type>adverb</type>
+		<latin>semper</latin>
+		<english>always</english>
+	</entry>
+	<entry>
+		<chapter>3</chapter>
+		<type>verb</type>
+		<latin>habeo, habere, habui, habitum</latin>
+		<english>to have, hold, possess, consider, regard</english>
+		<conjugation>2</conjugation>
+	</entry>
+	<entry>
+		<chapter>3</chapter>
+		<type>verb</type>
+		<latin>satio, satiare, satiavi, satiatum</latin>
+		<english>to satisfy, sate</english>
+		<conjugation>1</conjugation>
+	</entry>
+</vocab>

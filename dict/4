@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding='utf-8'?>
+<vocab>
+	<entry>
+		<chapter>4</chapter>
+		<type>noun</type>
+		<latin>basium, -ii</latin>
+		<english>kiss</english>
+		<gender>n</gender>
+		<declension>2</declension>
+	</entry>
+	<entry>
+		<chapter>4</chapter>
+		<type>noun</type>
+		<latin>bellum, -i</latin>
+		<english>war</english>
+		<gender>n</gender>
+		<declension>2</declension>
+	</entry>
+	<entry>
+		<chapter>4</chapter>
+		<type>noun</type>
+		<latin>consilium, -ii</latin>
+		<english>plan, purpose, counsel, advice, judgement, wisdom</english>
+		<gender>n</gender>
+		<declension>2</declension>
+	</entry>
+	<entry>
+		<chapter>4</chapter>
+		<type>noun</type>
+		<latin>cura, -ae</latin>
+		<english>care, attention, caution, anxiety</english>
+		<gender>f</gender>
+		<declension>1</declension>
+	</entry>
+	<entry>
+		<chapter>4</chapter>
+		<type>noun</type>
+		<latin>donum, -i</latin>
+		<english>gift, present</english>
+		<gender>n</gender>
+		<declension>2</declension>
+	</entry>
+	<entry>
+		<chapter>4</chapter>
+		<type>noun</type>
+		<latin>exitium, -ii</latin>
+		<english>destruction, ruin</english>
+		<gender>n</gender>
+		<declension>2</declension>
+	</entry>
+	<entry>
+		<chapter>4</chapter>
+		<type>noun</type>
+		<latin>magister, magistri</latin>
+		<english>schoolmaster, teacher, master</english>
+		<gender>m</gender>
+		<declension>2</declension>
+	</entry>
+	<entry>
+		<chapter>4</chapter>
+		<type>noun</type>
+		<latin>magistra, -ae</latin>
+		<english>school mistress, teacher, mistress</english>
+		<gender>f</gender>
+		<declension>1</declension>
+	</entry>
+	<entry>
+		<chapter>4</chapter>
+		<type>noun</type>
+		<latin>mora, -ae</latin>
+		<english>delay</english>
+		<gender>f</gender>
+		<declension>1</declension>
+	</entry>
+	<entry>
+		<chapter>4</chapter>
+		<type>noun</type>
+		<latin>nihil</latin>
+		<english>nothing</english>
+		<gender>n</gender>
+	</entry>
+	<entry>
+		<chapter>4</chapter>
+		<type>noun</type>
+		<latin>oculus, -i</latin>
+		<english>eye</english>
+		<gender>m</gender>
+		<declension>2</declension>
+	</entry>
+	<entry>
+		<chapter>4</chapter>
+		<type>noun</type>
+		<latin>officium, -ii</latin>
+		<english>duty, service</english>
+		<gender>n</gender>
+		<declension>2</declension>
+	</entry>
+	<entry>
+		<chapter>4</chapter>
+		<type>noun</type>
+		<latin>otium, -ii</latin>
+		<english>leisure, peace</english>
+		<gender>n</gender>
+		<declension>2</declension>
+	</entry>
+	<entry>
+		<chapter>4</chapter>
+		<type>noun</type>
+		<latin>periculum, -i</latin>
+		<english>danger, risk</english>
+		<gender>n</gender>
+		<declension>2</declension>
+	</entry>
+	<entry>
+		<chapter>4</chapter>
+		<type>noun</type>
+		<latin>remedium, -ii</latin>
+		<english>cure, remedy</english>
+		<gender>n</gender>
+		<declension>2</declension>
+	</entry>
+	<entry>
+		<chapter>4</chapter>
+		<type>adjective</type>
+		<latin>bellus, -a, -um</latin>
+		<english>pretty, handsome, charming</english>
+	</entry>
+	<entry>
+		<chapter>4</chapter>
+		<type>adjective</type>
+		<latin>bonus, -a, -um</latin>
+		<english>good, kind</english>
+	</entry>
+	<entry>
+		<chapter>4</chapter>
+		<type>adjective</type>
+		<latin>humanus, -a, -um</latin>
+		<english>pertaining to man, human, humane, kind, refined, cultivated</english>
+	</entry>
+	<entry>
+		<chapter>4</chapter>
+		<type>adjective</type>
+		<latin>malus, -a, -um</latin>
+		<english>bad, wicked, evil</english>
+	</entry>
+	<entry>
+		<chapter>4</chapter>
+		<type>adjective</type>
+		<latin>parvus, -a, -um</latin>
+		<english>small, little</english>
+	</entry>
+	<entry>
+		<chapter>4</chapter>
+		<type>adjective</type>
+		<latin>stultus, -a, -um</latin>
+		<english>foolish</english>
+		<notes>stultus, -i, m.: a fool</notes>
+	</entry>
+	<entry>
+		<chapter>4</chapter>
+		<type>adjective</type>
+		<latin>verus, -a, -um</latin>
+		<english>true, real, proper</english>
+	</entry>
+	<entry>
+		<chapter>4</chapter>
+		<type>verb</type>
+		<latin>iuvo, iuvare, iuvi, iutum</latin>
+		<english>to help, aid, assist; to please</english>
+		<conjugation>1</conjugation>
+	</entry>
+	<entry>
+		<chapter>4</chapter>
+		<type>verb</type>
+		<latin>sum, esse, fui, futurum</latin>
+		<english>to be, exist</english>
+	</entry>
+</vocab>
