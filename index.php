@@ -174,10 +174,10 @@
       Latin vocab site, which proved to be very useful indeed. However, there
       were enough things wrong with it, and the author seemed to be absent for
       long enough, that I decided to create my own based on it. I downloaded
-      the vocabulary database and converted it to <a href="dict">xml</a>, and
-      wrote several PHP scripts to provide essentially the same functionality.
-      If the original site is ever updated, I'll probably take this one down
-      and just link to that one. I think they did a better job than I.
+      the vocabulary database and converted it to xml, and wrote several PHP
+      scripts to provide essentially the same functionality. If the original
+      site is ever updated, I'll probably take this one down and just link to
+      that one. I think they did a better job than I.
     </p>
 
     <p>
