@@ -40,7 +40,7 @@
 		}
 
 		if (strcasecmp($list[$i][$j], "-")) {
-		        print "<form action=\"vocabans.php\" method=\"post\" target=\"bottom\">";
+		        print "<form action=\"verbsans.php\" method=\"post\" target=\"bottom\">";
 			for ($k = 0; $k < 4; $k++) {
 				if ($j == $k) {
 					$answer = $list[$i][$j];
