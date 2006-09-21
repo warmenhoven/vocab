@@ -137,6 +137,12 @@
 	<entry>
 		<chapter>6</chapter>
 		<type>adverb</type>
+		<latin>nunc</latin>
+		<english>now, today, at present</english>
+	</entry>
+	<entry>
+		<chapter>6</chapter>
+		<type>adverb</type>
 		<latin>quare</latin>
 		<english>because of which thing, therefore, wherefore, why</english>
 	</entry>
