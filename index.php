@@ -118,6 +118,28 @@
       <input type="submit" value="Create" />
     </form>
 
+    <h3>Site Updated! (March 10, 2007)</h3>
+
+    <p>
+      This probably won't affect anyone, but I've decided I don't like having
+      the scripts hit the server to check your answers, so it's all been redone
+      in JavaScript. This makes it slightly less usable in web browsers that no
+      one uses anyway.
+    </p>
+
+    <p>
+      One thing that is slightly different is that it puts the
+      Correct/Incorrect notification next to the question instead of at the
+      bottom of the page. Hopefully that shouldn't mess up anyone's display,
+      and should be a little more usable.
+    </p>
+
+    <p>
+      If you have any problems with the new site, please <a
+      href="mailto:eric@warmenhoven.org">email me</a> (eric@warmenhoven.org).
+      The <a href="old/">old version</a> is still available.
+    </p>
+
     <h3>Frequently Asked Questions</h3>
 
     <p>
@@ -149,12 +171,6 @@
     </p>
 
     <p>
-      <b>It seems you've misspelled "favour", "neighbour", etc.</b><br />
-      I'm American, get used to it. Also Wheelock's does the same; I'm just
-      following suit.
-    </p>
-
-    <p>
       <b>Are you going to add the words used in Wheelock's but not in the
       Chapters' vocabulary lists?</b><br />
       If I have the time. If you have the time, send them to me and I'll be
@@ -163,7 +179,7 @@
 
     <p>
       <b>This page is really ugly; you should fix that.</b><br />
-      I know. (It looks fine in links though.)
+      I know.
     </p>
 
     <h3>About This Page</h3>
@@ -199,6 +215,18 @@
       href="mailto:eric@warmenhoven.org">e-mail me</a> (eric@warmenhoven.org).
       I'll try to respond to email I get about this site in a timely manner.
       (Please don't email me in Latin; I'm still just a beginner.)
+    </p>
+
+    <p align="center">
+      <script type="text/javascript"><!--
+      google_ad_client = "pub-7643919961248886";
+      google_ad_width = 728;
+      google_ad_height = 90;
+      google_ad_format = "728x90_as";
+      google_ad_type = "text";
+      google_ad_channel ="";
+      //--></script>
+      <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
     </p>
   </body>
 </html>
