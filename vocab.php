@@ -40,9 +40,9 @@
       }
 
       if (correct) {
-        result.innerHTML = "<font color=\"green\">Correct!</font>";
+        result.innerHTML = "<font color=\"green\">Correct!</font> " + check.name;
       } else {
-        result.innerHTML = "<font color=\"red\">Incorrect!</font>";
+        result.innerHTML = "<font color=\"red\">Incorrect!</font> " + check.name;
       }
 
       return false;

@@ -143,7 +143,7 @@
     <h3>Frequently Asked Questions</h3>
 
     <p>
-      <b>It's telling me my translation is wrong.</b><br />
+      <b>It's telling me my translation is wrong, but it's not.</b><br />
       The script is really rather stupid, and very pedantic. It splits the
       correct answers on commas, and ignores everything inside parentheses.
       Then it strips out various articles (as well as the infinitves' "to").
@@ -207,7 +207,8 @@
       Latin-to-English vocab drill, I've added an English-to-Latin vocab drill.
       As for the backend, that site uses perl with an SQL database; my site is
       PHP and (for now) uses XML files to store the dictionary. All the PHP and
-      XML files are available for <a href="site.tgz">download</a>.
+      XML files are available for download (<a href="site.tgz">tgz</a>, <a
+      href="site.zip">zip</a>).
     </p>
 
     <p>
