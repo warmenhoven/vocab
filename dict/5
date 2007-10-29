@@ -57,7 +57,7 @@
 	<entry>
 		<chapter>5</chapter>
 		<type>adjective</type>
-		<latin>liber, libera, liberumj.</latin>
+		<latin>liber, libera, liberum</latin>
 		<english>free</english>
 	</entry>
 	<entry>
@@ -97,7 +97,7 @@
 		<type>preposition</type>
 		<latin>propter</latin>
 		<english>on account of, because of</english>
-		<notes>takes ablative</notes>
+		<notes>takes accusative</notes>
 	</entry>
 	<entry>
 		<chapter>5</chapter>
