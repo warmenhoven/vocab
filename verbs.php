@@ -27,7 +27,33 @@
   </head>
   <body>
     <p><b>Please input your answers and press "Enter" to check them.</b></p>
+    <p><form action="verbs.php" method="post">
+      Quiz
+      <select name="part">
+        <option value="0">all</option>
+        <option value="1">first</option>
+        <option value="2">second</option>
+        <option value="3">third</option>
+        <option value="4">fourth</option>
+      </select>
+      principal parts for verbs from Chapter
+      <select name="start">
+<? for ($i = 1; $i <= 40; $i++): ?>
+        <option value="<? echo $i ?>"><? echo $i ?></option>
+<? endfor ?>
+      </select>
+      to Chapter
+      <select name="end">
+<? for ($i = 1; $i <= 40; $i++): ?>
+        <option value="<? echo $i; if ($i == 40) echo "\" selected=\"selected" ?>"><? echo $i ?></option>
+<? endfor ?>
+      </select>
+      <input type="submit" value="Quiz" />
+    </form></p>
+
     <p><a href="index.php">Return to Main Page</a></p>
+    <p><hr /></p>
+
     <table>
 
 <?
