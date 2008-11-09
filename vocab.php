@@ -83,7 +83,7 @@
 <? endfor ?>
       </select>
       from
-      <select name="englih">
+      <select name="english">
         <option value="yes">Latin to English</option>
   <option value="no">English to Latin</option>
       </select>
