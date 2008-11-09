@@ -137,7 +137,7 @@
     <p>
       If you have any problems with the new site, please <a
       href="mailto:eric@warmenhoven.org">email me</a> (eric@warmenhoven.org).
-      The <a href="old/">old version</a> is still available.
+      <!-- The <a href="old/">old version</a> is still available. -->
     </p>
 
     <h3>Frequently Asked Questions</h3>

@@ -1,4 +1,8 @@
 <?
+  $month = $_POST["month"];
+  $year  = $_POST["year"];
+?>
+<?
 
 function roman($yr) {
 	$r = "";
