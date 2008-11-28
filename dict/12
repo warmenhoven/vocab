@@ -115,9 +115,10 @@
 	<entry>
 		<chapter>12</chapter>
 		<type>verb</type>
-		<latin>cado, cadere, cecidi, casum</latin>
+		<latin>cado, cadere, cecidi, casurum</latin>
 		<english>to fall</english>
 		<conjugation>3</conjugation>
+		<notes>'casum' is an alternative fourth principal part</notes>
 	</entry>
 	<entry>
 		<chapter>12</chapter>
