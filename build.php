@@ -40,7 +40,7 @@ function GetXMLTree($file)
 	return $tree;
 }
 
-function GetVocab($file) {
+function GetVocab() {
 	$num = 0;
 
 	for ($file = 1; $file <= 40; $file++) {
@@ -62,6 +62,6 @@ function GetVocab($file) {
 	return $vocab;
 }
 
-$vocab = GetVocab($file);
+$vocab = GetVocab();
 
 ?>
