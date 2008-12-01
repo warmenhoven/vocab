@@ -4,7 +4,7 @@
 		<chapter>1</chapter>
 		<type>pronoun</type>
 		<latin>me</latin>
-		<english>me</english>
+		<english>me, myself</english>
 	</entry>
 	<entry>
 		<chapter>1</chapter>
@@ -122,6 +122,7 @@
 		<type>verb</type>
 		<latin>valeo, valere, valui, valiturum</latin>
 		<english>to be strong, have power; be well</english>
+		<notes>vale and valete: good-bye, farewell</notes>
 		<conjugation>2</conjugation>
 	</entry>
 	<entry>
