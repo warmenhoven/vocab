@@ -1,5 +1,5 @@
 <? header("Content-Type: application/x-tar");
-   $f = `tar zcf - *.php dict/[0-9]*`;
+   $f = `tar zcf - *.php *.js dict/[0-9]*`;
    print $f;
    exit;
 ?>

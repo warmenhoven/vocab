@@ -1,5 +1,5 @@
 <? header("Content-Type: application/zip");
-   $f = `zip - *.php dict/[0-9]*`;
+   $f = `zip - *.php *.js dict/[0-9]*`;
    print $f;
    exit;
 ?>
