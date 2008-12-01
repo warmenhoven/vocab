@@ -40,6 +40,7 @@
 		<gender>f</gender>
 		<declension>1</declension>
 		<notes>always plural</notes>
+		<plural>always</plural>
 	</entry>
 	<entry>
 		<chapter>6</chapter>

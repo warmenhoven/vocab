@@ -24,6 +24,7 @@
 		<gender>n</gender>
 		<declension>3i</declension>
 		<notes>always plural</notes>
+		<plural>always</plural>
 	</entry>
 	<entry>
 		<chapter>29</chapter>

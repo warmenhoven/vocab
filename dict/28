@@ -8,6 +8,7 @@
 		<gender>n</gender>
 		<declension>2</declension>
 		<notes>always plural</notes>
+		<plural>always</plural>
 	</entry>
 	<entry>
 		<chapter>28</chapter>

@@ -8,6 +8,7 @@
 		<gender>f</gender>
 		<declension>1</declension>
 		<notes>always plural</notes>
+		<plural>always</plural>
 	</entry>
 	<entry>
 		<chapter>37</chapter>
@@ -49,6 +50,7 @@
 		<gender>f</gender>
 		<declension>1</declension>
 		<notes>always plural</notes>
+		<plural>always</plural>
 	</entry>
 	<entry>
 		<chapter>37</chapter>

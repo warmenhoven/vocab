@@ -7,7 +7,8 @@
 		<english>conspirators</english>
 		<gender>m</gender>
 		<declension>2</declension>
-		<notes>plural</notes>
+		<notes>always plural</notes>
+		<plural>always</plural>
 	</entry>
 	<entry>
 		<chapter>20</chapter>

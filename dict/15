@@ -95,6 +95,7 @@
 		<latin>duo, duae, duo</latin>
 		<english>two</english>
 		<notes>always plural</notes>
+		<plural>always</plural>
 	</entry>
 	<entry>
 		<chapter>15</chapter>
