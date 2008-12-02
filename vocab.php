@@ -26,9 +26,9 @@
     function checkLatin(correct, guess) {
       var answers = correct.replace(/;/, ",").split(",");
       if (answers[0] == "-") {
-        return (guess == answers[1]);
+        return (guess.toLowerCase() == answers[1].toLowerCase());
       } else {
-        return (guess == answers[0]);
+        return (guess.toLowerCase() == answers[0].toLowerCase());
       }
     }
 
