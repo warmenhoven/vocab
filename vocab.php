@@ -12,10 +12,10 @@
     <script type="text/javascript">
 
     function checkEnglish(correct, guess) {
-      var answers = correct.toLowerCase().replace(/ ?\([^\)]*\) ?/, "").replace(/;/, ",").split(",");
-      var minguess = guess.toLowerCase().replace(/^(a|an|the|to) /, "").replace(/ ?\([^\)]*\) ?/, "").replace(/!/, "");
+      var answers = correct.toLowerCase().replace(/ ?\([^\)]*\) ?/g, "").replace(/;/g, ",").split(",");
+      var minguess = guess.toLowerCase().replace(/^(a|an|the|to) /, "").replace(/ ?\([^\)]*\) ?/g, "").replace(/!/g, "");
       for (i = 0; i < answers.length; i++) {
-        var a = answers[i].replace(/!/, "").replace(/^ */, "").replace(/ *$/, "").replace(/^(a|an|the|to) /, "");
+        var a = answers[i].replace(/!/g, "").replace(/^ */, "").replace(/ *$/, "").replace(/^(a|an|the|to) /, "");
         if (a == minguess) {
           return true;
         }
@@ -24,7 +24,7 @@
     }
 
     function checkLatin(correct, guess) {
-      var answers = correct.replace(/ ?\([^\)]*\) ?/, "").replace(/;/, ",").split(",");
+      var answers = correct.replace(/ ?\([^\)]*\) ?/g, "").replace(/;/g, ",").split(",");
       if (answers[0] == "-") {
         return (guess.toLowerCase() == answers[1].toLowerCase());
       } else {
