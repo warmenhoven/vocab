@@ -15,7 +15,7 @@
       var answers = correct.toLowerCase().replace(/ ?\([^\)]*\) ?/, "").replace(/;/, ",").split(",");
       var minguess = guess.toLowerCase().replace(/^(a|an|the|to) /, "").replace(/ ?\([^\)]*\) ?/, "").replace(/!/, "");
       for (i = 0; i < answers.length; i++) {
-        var a = answers[i].replace(/^(a|an|the|to) /, "").replace(/!/, "").replace(/^ */, "").replace(/ *$/, "");
+        var a = answers[i].replace(/!/, "").replace(/^ */, "").replace(/ *$/, "").replace(/^(a|an|the|to) /, "");
         if (a == minguess) {
           return true;
         }
@@ -69,28 +69,6 @@
   if (!$end) $end = 40;
   if ($end < $start) $end = $start;
 ?>
-    <form action="vocab.php" method="post">
-      Quiz vocab from Chapter
-      <select name="start">
-<? for ($i = 1; $i <= 40; $i++): ?>
-        <option value="<? echo $i; if ($i == $start) echo "\" selected=\"selected" ?>"><? echo $i ?></option>
-<? endfor ?>
-      </select>
-      to Chapter
-      <select name="end">
-<? for ($i = 1; $i <= 40; $i++): ?>
-        <option value="<? echo $i; if ($i == $end) echo "\" selected=\"selected" ?>"><? echo $i ?></option>
-<? endfor ?>
-      </select>
-      from
-      <select name="english">
-        <option value="yes">Latin to English</option>
-        <option value="no">English to Latin</option>
-      </select>
-      <input type="submit" value="Quiz" />
-    </form>
-
-    <p><a href="index.php">Return to Main Page</a></p>
 
     <hr />
 
@@ -157,5 +135,28 @@
 ?>
     </table>
 
+    <hr />
+    <form action="vocab.php" method="post">
+      Quiz vocab from Chapter
+      <select name="start">
+<? for ($i = 1; $i <= 40; $i++): ?>
+        <option value="<? echo $i; if ($i == $start) echo "\" selected=\"selected" ?>"><? echo $i ?></option>
+<? endfor ?>
+      </select>
+      to Chapter
+      <select name="end">
+<? for ($i = 1; $i <= 40; $i++): ?>
+        <option value="<? echo $i; if ($i == $end) echo "\" selected=\"selected" ?>"><? echo $i ?></option>
+<? endfor ?>
+      </select>
+      from
+      <select name="english">
+        <option value="yes">Latin to English</option>
+        <option value="no"<? if (!strcasecmp($english, "no")) { print " selected=\"selected\""; } ?>>English to Latin</option>
+      </select>
+      <input type="submit" value="Quiz" />
+    </form>
+
+    <p><a href="index.php">Return to Main Page</a></p>
   </body>
 </html>

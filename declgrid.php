@@ -13,33 +13,6 @@
   </head>
   <body>
     <p><b>Please input your answers and press "Enter" to check them.</b></p>
-    <p><form action="declgrid.php" method="post">
-      Quiz
-      <select name="decl">
-        <option value="0">all</option>
-        <option value="1">first</option>
-        <option value="2">second</option>
-        <option value="3">third</option>
-        <option value="3i">third, i-stem</option>
-        <option value="4">fourth</option>
-        <option value="5">fifth</option>
-      </select>
-      declensions for nouns (as grids) from Chapter
-      <select name="start">
-<? for ($i = 1; $i <= 40; $i++): ?>
-        <option value="<? echo $i; if ($i == $start) echo "\" selected=\"selected" ?>"><? echo $i ?></option>
-<? endfor ?>
-      </select>
-      to Chapter
-      <select name="end">
-<? for ($i = 1; $i <= 40; $i++): ?>
-        <option value="<? echo $i; if ($i == $end) echo "\" selected=\"selected" ?>"><? echo $i ?></option>
-<? endfor ?>
-      </select>
-      <input type="submit" value="Quiz" />
-    </form></p>
-
-    <p><a href="index.php">Return to Main Page</a></p>
     <p><hr /></p>
       <table>
 
@@ -91,7 +64,8 @@
                                               1,
                                               '<? print $list[$i][1] ?>',
                                               '<? print $list[$i][2] ?>',
-                                              '<? print $list[$i][3] ?>')">
+                                              '<? print $list[$i][3] ?>',
+                                              false)">
               <input id="1<? print $type . $count ?>" />
             </form>
 <? endif ?>
@@ -103,7 +77,8 @@
                                               2,
                                               '<? print $list[$i][1] ?>',
                                               '<? print $list[$i][2] ?>',
-                                              '<? print $list[$i][3] ?>')">
+                                              '<? print $list[$i][3] ?>',
+                                              false)">
               <input id="2<? print $type . $count ?>" />
             </form>
           </td>
@@ -120,5 +95,34 @@
   }
 ?>
     </table>
+    <hr />
+    <p><form action="declgrid.php" method="post">
+      Quiz
+      <select name="decl">
+        <option value="0">all</option>
+        <option value="1">first</option>
+        <option value="2">second</option>
+        <option value="3">third</option>
+        <option value="3i">third, i-stem</option>
+        <option value="4">fourth</option>
+        <option value="5">fifth</option>
+      </select>
+      declensions for nouns (as grids) from Chapter
+      <select name="start">
+<? for ($i = 1; $i <= 40; $i++): ?>
+        <option value="<? echo $i; if ($i == $start) echo "\" selected=\"selected" ?>"><? echo $i ?></option>
+<? endfor ?>
+      </select>
+      to Chapter
+      <select name="end">
+<? for ($i = 1; $i <= 40; $i++): ?>
+        <option value="<? echo $i; if ($i == $end) echo "\" selected=\"selected" ?>"><? echo $i ?></option>
+<? endfor ?>
+      </select>
+      <input type="submit" value="Quiz" />
+    </form></p>
+
+    <p><a href="index.php">Return to Main Page</a></p>
+
   </body>
 </html>

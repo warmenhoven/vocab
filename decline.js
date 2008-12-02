@@ -225,7 +225,7 @@ function decline5(words, ncase, ct) {
   return stem + suffix;
 }
 
-function checkAnswer(num, ncase, ct, words, decl, gender) {
+function checkAnswer(num, ncase, ct, words, decl, gender, show) {
   var id = "" + ct + ncase + num;
   var input = document.getElementById(id);
   var result = document.getElementById("result" + id);
@@ -247,9 +247,9 @@ function checkAnswer(num, ncase, ct, words, decl, gender) {
   }
 
   if (answer == input.value) {
-    result.innerHTML = "<font color=\"green\">Correct!</font>";
+    result.innerHTML = "<font color=\"green\">Correct!</font> " + (show ? answer : "");
   } else {
-    result.innerHTML = "<font color=\"red\">Incorrect!</font>";
+    result.innerHTML = "<font color=\"red\">Incorrect!</font> " + (show ? answer : "");
   }
   return false;
 }
