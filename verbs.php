@@ -87,11 +87,11 @@
     <p><form action="verbs.php" method="post">
       Quiz
       <select name="part">
-        <option value="0">all</option>
-        <option value="1">first</option>
-        <option value="2">second</option>
-        <option value="3">third</option>
-        <option value="4">fourth</option>
+        <option value="0"<? if ($part == 0) { print " selected=\"selected\""; } ?>>all</option>
+        <option value="1"<? if ($part == 1) { print " selected=\"selected\""; } ?>>first</option>
+        <option value="2"<? if ($part == 2) { print " selected=\"selected\""; } ?>>second</option>
+        <option value="3"<? if ($part == 3) { print " selected=\"selected\""; } ?>>third</option>
+        <option value="4"<? if ($part == 4) { print " selected=\"selected\""; } ?>>fourth</option>
       </select>
       principal parts for verbs from Chapter
       <select name="start">
