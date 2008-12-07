@@ -82,13 +82,13 @@
     <p><form action="declquiz.php" method="post">
       Quiz
       <select name="decl">
-        <option value="0">all</option>
-        <option value="1">first</option>
-        <option value="2">second</option>
-        <option value="3">third</option>
-        <option value="3i">third, i-stem</option>
-        <option value="4">fourth</option>
-        <option value="5">fifth</option>
+        <option value="0"<? if ($decl == 0) { print " selected=\"selected\""; } ?>>all</option>
+        <option value="1"<? if ($decl == 1) { print " selected=\"selected\""; } ?>>first</option>
+        <option value="2"<? if ($decl == 2) { print " selected=\"selected\""; } ?>>second</option>
+        <option value="3"<? if ($decl == 3) { print " selected=\"selected\""; } ?>>third</option>
+        <option value="3i"<? if ($decl == "3i") { print " selected=\"selected\""; } ?>>third, i-stem</option>
+        <option value="4"<? if ($decl == 4) { print " selected=\"selected\""; } ?>>fourth</option>
+        <option value="5"<? if ($decl == 5) { print " selected=\"selected\""; } ?>>fifth</option>
       </select>
       declensions for nouns (random cases) from Chapter
       <select name="start">
