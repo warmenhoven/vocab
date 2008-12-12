@@ -154,7 +154,14 @@
 		<type>adjective</type>
 		<latin>stultus, -a, -um</latin>
 		<english>foolish</english>
-		<notes>stultus, -i, m.: a fool</notes>
+	</entry>
+	<entry>
+		<chapter>4</chapter>
+		<type>noun</type>
+		<latin>stultus, -i</latin>
+		<english>a fool</english>
+		<gender>m</gender>
+		<declension>2</declension>
 	</entry>
 	<entry>
 		<chapter>4</chapter>
