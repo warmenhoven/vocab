@@ -160,7 +160,11 @@ function decline3i(gender, words, ncase, ct) {
   } else if (ncase == "Dat" || ncase == "Abl") {
     suffix = (ct == 1 ? "i" : "ibus");
   } else if (ncase == "Acc") {
-    suffix = (ct == 1 ? "e" : "ia");
+    if (ct == 1) {
+      return parts[0];
+    } else {
+      suffix = "ia";
+    }
   }
 
   return stem + suffix;
