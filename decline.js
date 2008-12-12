@@ -132,7 +132,12 @@ function decline3i(gender, words, ncase, ct) {
     return declineVis(ncase, ct);
   }
 
-  var stem = parts[1].replace(/..$/, "");
+  var stem;
+  if (parts[1].match(/ium$/)) {
+      stem = parts[1].replace(/...$/, "");
+  } else {
+      stem = parts[1].replace(/..$/, "");
+  }
 
   if (gender != "n") {
     if (ct == 2 && ncase == "Gen") {
