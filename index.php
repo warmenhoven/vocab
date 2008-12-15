@@ -80,7 +80,11 @@
     </form>
 
     <form action="vocab.php" method="post">
-      Quiz vocab from Chapter
+      <select name="test">
+        <option value="some">Quiz</option>
+        <option value="all">Test</option>
+      </select>
+      vocab from Chapter
       <select name="start">
 <? for ($i = 1; $i <= 40; $i++): ?>
         <option value="<? echo $i ?>"><? echo $i ?></option>

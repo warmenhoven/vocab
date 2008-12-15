@@ -1,5 +1,6 @@
 <? include 'build.php' ?>
 <?
+  $all     = $_POST["test"];
   $start   = $_POST["start"];
   $end     = $_POST["end"];
   $english = $_POST["english"];
@@ -86,7 +87,7 @@
     $list[$num]['GENDER'] = $vocab[$i]['GENDER'];
     $num++;
   }
-  if ($start == $end):
+  if ($start == $end || $all == "all"):
     $count = sizeof($list);
 ?>
     <p>Chapter <? echo $start ?></p>
@@ -137,7 +138,11 @@
 
     <hr />
     <form action="vocab.php" method="post">
-      Quiz vocab from Chapter
+      <select name="test">
+        <option value="some">Quiz</option>
+        <option value="all"<? if ($all == "all") { print "selected=\"selected\""; } ?>>Test</option>
+      </select>
+      vocab from Chapter
       <select name="start">
 <? for ($i = 1; $i <= 40; $i++): ?>
         <option value="<? echo $i; if ($i == $start) echo "\" selected=\"selected" ?>"><? echo $i ?></option>
