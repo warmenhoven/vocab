@@ -1,8 +1,5 @@
 <? include 'build.php' ?>
 <?
-  $all     = $_POST["test"];
-  $start   = $_POST["start"];
-  $end     = $_POST["end"];
   $english = $_POST["english"];
 ?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
@@ -58,30 +55,15 @@
   </head>
   <body>
     <p><b>Please input your answers and press "Enter" to check them.</b></p>
-
-<? if (!strcasecmp($english, "no")): ?>
-    <p><b>For verbs, please give the first principal part (or second for
-    defective verbs with no first principal part); for nouns, give the singlar
-    nominative; for adjectives, give the masculine singular nominative.</b></p>
-<? endif ?>
-
-<?
-  if (!$start) $start = 1;
-  if (!$end) $end = 40;
-  if ($end < $start) $end = $start;
-?>
-
     <hr />
 
 <?
   $num = 0;
   for ($i = 0; $i < sizeof($vocab); $i++) {
-    if ($vocab[$i]['CHAPTER'] < $start)
+    if ($vocab[$i]['CHAPTER'] != 15)
       continue;
-    if ($vocab[$i]['CHAPTER'] > $end)
-      continue;
-    if ($vocab[$i]['TYPE'] == "adjective, ordinal" ||
-        $vocab[$i]['TYPE'] == "adjective, cardinal")
+    if ($vocab[$i]['TYPE'] != "adjective, cardinal" &&
+        $vocab[$i]['TYPE'] != "adjective, ordinal")
       continue;
 
     $list[$num]['LATIN'] = $vocab[$i]['LATIN'];
@@ -90,17 +72,7 @@
     $list[$num]['GENDER'] = $vocab[$i]['GENDER'];
     $num++;
   }
-  if ($start == $end || $all == "all"):
-    $count = sizeof($list);
-?>
-    <p>Chapter <? echo $start ?></p>
-<?
-  else:
-    $count = 10;
-?>
-    <p>Chapters <? echo $start ?> through <? echo $end ?></p>
-<?
-  endif;
+  $count = sizeof($list);
 ?>
     <table>
 <?
@@ -117,11 +89,6 @@
       print $list[$i]['LATIN'];
       $ans = $list[$i]['ENGLISH'];
     }
-
-    if ($list[$i]['GENDER'])
-      print " (" . $list[$i]['GENDER'] . ".)";
-    else if (strcasecmp($list[$i]['TYPE'], "verb"))
-      print " (" . $list[$i]['TYPE'] . ")";
 
     array_splice($list, $i, 1);
     $count--;
@@ -140,24 +107,8 @@
     </table>
 
     <hr />
-    <form action="vocab.php" method="post">
-      <select name="test">
-        <option value="some">Quiz</option>
-        <option value="all"<? if ($all == "all") { print "selected=\"selected\""; } ?>>Test</option>
-      </select>
-      vocab from Chapter
-      <select name="start">
-<? for ($i = 1; $i <= 40; $i++): ?>
-        <option value="<? echo $i; if ($i == $start) echo "\" selected=\"selected" ?>"><? echo $i ?></option>
-<? endfor ?>
-      </select>
-      to Chapter
-      <select name="end">
-<? for ($i = 1; $i <= 40; $i++): ?>
-        <option value="<? echo $i; if ($i == $end) echo "\" selected=\"selected" ?>"><? echo $i ?></option>
-<? endfor ?>
-      </select>
-      from
+    <form action="numbers.php" method="post">
+      Quiz numbers from
       <select name="english">
         <option value="yes">Latin to English</option>
         <option value="no"<? if (!strcasecmp($english, "no")) { print " selected=\"selected\""; } ?>>English to Latin</option>

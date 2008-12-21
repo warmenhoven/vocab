@@ -104,6 +104,15 @@
       <input type="submit" value="Quiz" />
     </form>
 
+    <form action="numbers.php" method="post">
+      Quiz numbers from
+      <select name="english">
+        <option value="yes">Latin to English</option>
+	<option value="no">English to Latin</option>
+      </select>
+      <input type="submit" value="Quiz" />
+    </form>
+
     <form action="declquiz.php" method="post">
       Quiz
       <select name="decl">
