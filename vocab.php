@@ -27,7 +27,7 @@
     function checkLatin(correct, guess) {
       var answers = correct.replace(/ ?\([^\)]*\) ?/g, "").replace(/;/g, ",").split(",");
       if (answers[0] == "-") {
-        return (guess.toLowerCase() == answers[1].toLowerCase());
+        return (guess.toLowerCase() == answers[1].replace(/^ +/, "").toLowerCase());
       } else {
         return (guess.toLowerCase() == answers[0].toLowerCase());
       }
