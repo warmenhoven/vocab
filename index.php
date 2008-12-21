@@ -263,8 +263,7 @@
       wrong with any of these pages, please <a
       href="mailto:eric@warmenhoven.org">e-mail me</a>
       (eric@warmenhoven.org). I'll try to respond to email I get about
-      this site in a timely manner. (Please don't email me in Latin;
-      I'm still just a beginner.)
+      this site in a timely manner.
     </p>
 
     <p align="center">
