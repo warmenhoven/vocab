@@ -1,0 +1,64 @@
+Mon Dec 22 06:16:03 2008 UTC
+
+	* Improve the numbers quiz by testing either in order or randomly
+	* Dict fix: "exspecto"
+
+Sun Dec 21 06:33:32 2008 UTC
+
+	* Fix a bug in the vocab quiz; no longer requires a space before
+	the second principle part of defective verbs (e.g. coepisse)
+
+Sun Dec 21 05:53:03 2008 UTC
+
+	* Break out numbers from Chapter 15 vocab into their own quiz
+
+Mon Dec 15 19:29:29 2008 UTC
+
+	* Add option to test all vocab, not just ten items at a time
+
+Fri Dec 12 00:10:48 2008 UTC
+
+	* Dict fix: add "stultus" as a noun
+
+Wed Dec 3 06:54:39 2008 UTC
+
+	* Dict fix: "cupere" is 2pp of cupio
+
+Tue Dec 2 20:47:10 2008 UTC
+
+	* Fix a bug in the vocab quiz; "he" is now a correct translation
+	of "ille"
+
+Tue Dec 2 20:15:20 2008 UTC
+
+	* Dict fix: make it easier to distinguish "in" from "in" ("in"
+	from "toward")
+
+Tue Dec 2 01:37:37 2008 UTC
+
+	* Move the prompt to rebuild the current quiz to the bottom of the
+	page, to make it easier to tab through the quiz and then start a
+	new one
+	* Have the declension quiz print the correct answers
+	* Fix a bug in the vocab quiz; "please" is now a correct
+	translation of "iuvo"
+
+Mon Dec 1 07:06:04 2008 UTC
+
+	* Add declension quizzes
+	* Add "<plural>" XML tag to dictionary to indicate which nouns are
+	always plural
+
+Mon Dec 1 07:04:41 2008 UTC
+
+	* Dict fix: "myself" is a valid translation of "me"
+	* Dict fix: add notes about "vale" meaning "goodbye"
+
+Fri Nov 28 10:52:15 2008 UTC
+
+	* Dict fix: 'casurum' is the 4pp of cado, but casum is also right
+
+Sun Nov 9 01:16:07 2008 UTC
+
+	* Move to a new server
+	* Upgrade to PHP5

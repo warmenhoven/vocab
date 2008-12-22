@@ -184,22 +184,14 @@
       <input type="submit" value="Create" />
     </form>
 
-    <h3>Site Updated, Again! (November 30, 2008)</h3>
+    <h3>Site Updated, Again!</h3>
 
     <p>
-      I've been thinking about updating this site for a short time
-      now, and I finally got around to adding a declension quiz. I've
-      actually added two quizzes, one that has you fill in the entire
-      grid, and another that just asks for one piece of the grid for
-      various nouns.
-    </p>
-
-    <p>
-      I think I've gotten all of the words right (including vis!), but
-      I'm sure there's probably a problem here or there. If you have
-      any problems with the new quizzes, please <a
-      href="mailto:eric@warmenhoven.org">email me</a>
-      (eric@warmenhoven.org).
+      After a long period of not making many updates to this site,
+      I've started making time (in part because I'm going back and
+      refreshing my memory). I'm now keeping a <a
+      href="ChangeLog">changelog</a>, so you'll be able to see what's
+      changing. Hopefully I'll be making some more improvements soon.
     </p>
 
     <h3>Frequently Asked Questions</h3>
@@ -217,6 +209,12 @@
       and "as...as possible". If you put in either of these, it should say it's
       correct. If you put spaces between the periods of the ellipsis, it will
       tell you that your answer is incorrect.
+    </p>
+    <p>
+      If I was able to explain that clearly enough, and you still
+      think it's incorrectly telling you that you're wrong, please <a
+      href="mailto:eric@warmenhoven.org">e-mail me</a>
+      (eric@warmenhoven.org).
     </p>
     <p>
       The only reason why you should care if the script thinks you're correct
