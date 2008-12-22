@@ -107,8 +107,9 @@
     <form action="numbers.php" method="post">
       Quiz numbers from
       <select name="english">
-        <option value="yes">Latin to English</option>
-	<option value="no">English to Latin</option>
+        <option value="latin">Latin to English</option>
+	<option value="ordered">English to Latin, in order</option>
+	<option value="random">English to Latin, randomized</option>
       </select>
       <input type="submit" value="Quiz" />
     </form>

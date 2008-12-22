@@ -77,12 +77,16 @@
     <table>
 <?
   while ($count && sizeof($list)):
-    $i = rand(0, sizeof($list) - 1);
+    if ($english == "ordered") {
+      $i = 0;
+    } else {
+      $i = rand(0, sizeof($list) - 1);
+    }
 
 ?>
       <tr>
         <td valign="top"><?
-    if (!strcasecmp($english, "no")) {
+    if (strcasecmp($english, "latin")) {
       print $list[$i]['ENGLISH'];
       $ans = $list[$i]['LATIN'];
     } else {
@@ -110,8 +114,9 @@
     <form action="numbers.php" method="post">
       Quiz numbers from
       <select name="english">
-        <option value="yes">Latin to English</option>
-        <option value="no"<? if (!strcasecmp($english, "no")) { print " selected=\"selected\""; } ?>>English to Latin</option>
+        <option value="latin">Latin to English</option>
+        <option value="ordered"<? if (!strcasecmp($english, "ordered")) { print " selected=\"selected\""; } ?>>English to Latin, in order</option>
+        <option value="random"<? if (!strcasecmp($english, "random")) { print " selected=\"selected\""; } ?>>English to Latin, randomized</option>
       </select>
       <input type="submit" value="Quiz" />
     </form>
