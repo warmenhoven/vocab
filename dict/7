@@ -19,6 +19,14 @@
 	<entry>
 		<chapter>7</chapter>
 		<type>noun</type>
+		<latin>civitas, civitatis</latin>
+		<english>state, citizenship</english>
+		<gender>f</gender>
+		<declension>3</declension>
+	</entry>
+	<entry>
+		<chapter>7</chapter>
+		<type>noun</type>
 		<latin>corpus, corporis</latin>
 		<english>body</english>
 		<gender>n</gender>

@@ -36,6 +36,12 @@
 	<entry>
 		<chapter>17</chapter>
 		<type>adverb</type>
+		<latin>cito</latin>
+		<english>quickly</english>
+	</entry>
+	<entry>
+		<chapter>17</chapter>
+		<type>adverb</type>
 		<latin>quoque</latin>
 		<english>also, too</english>
 	</entry>
