@@ -87,7 +87,8 @@
     $list[$num]['LATIN'] = $vocab[$i]['LATIN'];
     $list[$num]['ENGLISH'] = $vocab[$i]['ENGLISH'];
     $list[$num]['TYPE'] = $vocab[$i]['TYPE'];
-    $list[$num]['GENDER'] = $vocab[$i]['GENDER'];
+    if (isset($vocab[$i]['GENDER']))
+      $list[$num]['GENDER'] = $vocab[$i]['GENDER'];
     $num++;
   }
   if ($start == $end || $all == "all"):
@@ -118,7 +119,7 @@
       $ans = $list[$i]['ENGLISH'];
     }
 
-    if ($list[$i]['GENDER'])
+    if (isset($list[$i]['GENDER']))
       print " (" . $list[$i]['GENDER'] . ".)";
     else if (strcasecmp($list[$i]['TYPE'], "verb"))
       print " (" . $list[$i]['TYPE'] . ")";

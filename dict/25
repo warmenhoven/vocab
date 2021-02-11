@@ -32,7 +32,7 @@
 		<type>adjective</type>
 		<latin>sapiens</latin>
 		<english>wise, judicious; (as a noun) a wise man, philosopher</english>
-		<notes>genitive spientis</notes>
+		<notes>genitive sapientis</notes>
 	</entry>
 	<entry>
 		<chapter>25</chapter>
@@ -121,6 +121,6 @@
 		<type>verb</type>
 		<latin>suscipio, suscipere, suscepi, susceptum</latin>
 		<english>to undertake</english>
-		<conjugation>1</conjugation>
+		<conjugation>3i</conjugation>
 	</entry>
 </vocab>

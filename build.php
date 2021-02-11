@@ -31,7 +31,7 @@ function GetXMLTree($file)
 	$data = implode('', file($file));
 	$p = xml_parser_create();
 	xml_parser_set_option($p, XML_OPTION_SKIP_WHITE, 0);
-	xml_parse_into_struct($p, $data, &$vals, &$index);
+	xml_parse_into_struct($p, $data, $vals);
 	xml_parser_free($p);
 
 	$tree = array();
@@ -47,13 +47,16 @@ function GetVocab() {
 		$xmldict = GetXMLTree("dict/$file");
 
 		for ($i = 0; $i < sizeof($xmldict[0]['children']); $i++) {
-			if (strcasecmp($xmldict[0]['children'][$i]['tag'], "ENTRY"))
+            $childi = $xmldict[0]['children'][$i];
+   			if (!isset($childi['tag']) || strcasecmp($childi['tag'], "ENTRY"))
 				continue;
-			for ($j = 0; $j < sizeof($xmldict[0]['children'][$i]['children']); $j++) {
-				$tag = $xmldict[0]['children'][$i]['children'][$j]['tag'];
+			for ($j = 0; $j < sizeof($childi['children']); $j++) {
+                if (!isset($childi['children'][$j]['tag']))
+                    continue;
+				$tag = $childi['children'][$j]['tag'];
 				if (strlen($tag) == 1)
 					continue;
-				$value = $xmldict[0]['children'][$i]['children'][$j]['value'];
+				$value = $childi['children'][$j]['value'];
 				$vocab[$num][$tag] = $value;
 			}
 			$num++;

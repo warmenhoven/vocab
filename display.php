@@ -71,12 +71,12 @@
 		echo $vocab[$i]['TYPE'];
 		foreach ($types as $t) {
 			if (!strcasecmp($t, "verb")) {
-				if (!$vocab[$i]['CONJUGATION'])
+				if (!isset($vocab[$i]['CONJUGATION']))
 					print " (irregular)";
 				else
 					print " (" . $vocab[$i]['CONJUGATION'] . ")";
 			} else if (!strcasecmp($t, "noun")) {
-				if (!$vocab[$i]['DECLENSION'])
+				if (!isset($vocab[$i]['DECLENSION']))
 					print " (indeclinable)";
 				else
 					print " (" . $vocab[$i]['DECLENSION'] . ")";
@@ -93,7 +93,7 @@
 		?></td>
 	<td><?
 		echo $vocab[$i]['ENGLISH'];
-		if ($vocab[$i]['NOTES'])
+        if (isset($vocab[$i]['NOTES']))
 			print " (" . $vocab[$i]['NOTES'] . ")";
 		?></td>
       </tr>

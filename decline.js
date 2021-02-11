@@ -9,11 +9,19 @@ function decline1(words, ncase, ct) {
   } else if (ncase == "Gen") {
     suffix = (ct == 1 ? "ae" : "arum");
   } else if (ncase == "Dat") {
-    suffix = (ct == 1 ? "ae" : "is");
+    if (parts[0] == "filia" && ct != 1) {
+      suffix = "abus";
+    } else {
+      suffix = (ct == 1 ? "ae" : "is");
+    }
   } else if (ncase == "Acc") {
     suffix = (ct == 1 ? "am" : "as");
   } else if (ncase == "Abl") {
-    suffix = (ct == 1 ? "a" : "is");
+    if (parts[0] == "filia" && ct != 1) {
+      suffix = "abus";
+    } else {
+      suffix = (ct == 1 ? "a" : "is");
+    }
   }
 
   return stem + suffix;

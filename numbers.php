@@ -69,7 +69,8 @@
     $list[$num]['LATIN'] = $vocab[$i]['LATIN'];
     $list[$num]['ENGLISH'] = $vocab[$i]['ENGLISH'];
     $list[$num]['TYPE'] = $vocab[$i]['TYPE'];
-    $list[$num]['GENDER'] = $vocab[$i]['GENDER'];
+    if (isset($vocab[$i]['GENDER']))
+      $list[$num]['GENDER'] = $vocab[$i]['GENDER'];
     $num++;
   }
   $count = sizeof($list);

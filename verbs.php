@@ -11,14 +11,15 @@
     <title>Latin Vocab</title>
     <script type="text/javascript">
 
-    function checkAnswer(num) {
+    function checkAnswer(num, conj) {
       var check = document.getElementById(num);
       var result = document.getElementById("result" + num);
+      var conjstr = conj.length ? " (" + conj + ")" : '';
 
       if (check.name == check.value) {
-        result.innerHTML = "<font color=\"green\">Correct!</font> " + check.name;
+        result.innerHTML = "<font color=\"green\">Correct!</font> " + check.name + conjstr;
       } else {
-        result.innerHTML = "<font color=\"red\">Incorrect!</font> " + check.name;
+        result.innerHTML = "<font color=\"red\">Incorrect!</font> " + check.name + conjstr;
       }
       return false;
     }
@@ -45,6 +46,10 @@
     if (strcasecmp($vocab[$i]['TYPE'], "verb"))
       continue;
 
+    if (isset($vocab[$i]['CONJUGATION']))
+      $conj[$num]   = $vocab[$i]['CONJUGATION'];
+    else
+      $conj[$num]   = '';
     $list[$num++] = preg_split("/, /", $vocab[$i]['LATIN']);
   }
   if ($start == $end)
@@ -64,7 +69,7 @@
     }
 
     if (strcasecmp($list[$i][$j], "-")) {
-      print "<form onsubmit=\"return checkAnswer($count)\"><tr><td>";
+      print "<form onsubmit=\"return checkAnswer($count, '$conj[$i]')\"><tr><td>";
       for ($k = 0; $k < 4; $k++) {
         if ($j == $k) {
           $answer = $list[$i][$j];
