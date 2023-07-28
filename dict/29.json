@@ -1,0 +1,150 @@
+[
+  {
+    "chapter": 29,
+    "type": "noun",
+    "latin": "fatum, -i",
+    "english": "fate, death",
+    "gender": "n",
+    "declension": 2
+  },
+  {
+    "chapter": 29,
+    "type": "noun",
+    "latin": "ingenium, -ii",
+    "english": "nature, innate talent",
+    "gender": "n",
+    "declension": 2
+  },
+  {
+    "chapter": 29,
+    "type": "noun",
+    "latin": "moenia, moenium",
+    "english": "walls of a city",
+    "gender": "n",
+    "declension": "3i",
+    "notes": "always plural",
+    "plural": true
+  },
+  {
+    "chapter": 29,
+    "type": "noun",
+    "latin": "nata, -ae",
+    "english": "daughter",
+    "gender": "f",
+    "declension": 1
+  },
+  {
+    "chapter": 29,
+    "type": "noun",
+    "latin": "osculum, -i",
+    "english": "kiss",
+    "gender": "n",
+    "declension": 2
+  },
+  {
+    "chapter": 29,
+    "type": "noun",
+    "latin": "sidus, sideris",
+    "english": "constellation, star",
+    "gender": "n",
+    "declension": 3
+  },
+  {
+    "chapter": 29,
+    "type": "adjective",
+    "latin": "dignus, -a, -um",
+    "english": "worthy, worthy of"
+  },
+  {
+    "chapter": 29,
+    "type": "adjective",
+    "latin": "durus, -a, -um",
+    "english": "hard, harsh, rough, stern, unfeeling, hardy, difficult"
+  },
+  {
+    "chapter": 29,
+    "type": "adjective",
+    "latin": "tantus, -a, -um",
+    "english": "so large, so great, of such a size"
+  },
+  {
+    "chapter": 29,
+    "type": "adverb",
+    "latin": "denique",
+    "english": "at last, finally, lastly"
+  },
+  {
+    "chapter": 29,
+    "type": "adverb",
+    "latin": "ita",
+    "english": "so, thus"
+  },
+  {
+    "chapter": 29,
+    "type": "adverb",
+    "latin": "quidem",
+    "english": "indeed, certainly, at least, even",
+    "notes": "ne...quidem: not...even"
+  },
+  {
+    "chapter": 29,
+    "type": "adverb",
+    "latin": "sic",
+    "english": "so, thus"
+  },
+  {
+    "chapter": 29,
+    "type": "adverb",
+    "latin": "tam",
+    "english": "so, to such a degree",
+    "notes": "tam...quam: so...as"
+  },
+  {
+    "chapter": 29,
+    "type": "adverb",
+    "latin": "vero",
+    "english": "in truth, indeed, to be sure, however"
+  },
+  {
+    "chapter": 29,
+    "type": "verb",
+    "latin": "condo, condere, condidi, conditum",
+    "english": "to put together, put into, store; found, establish",
+    "conjugation": 3
+  },
+  {
+    "chapter": 29,
+    "type": "verb",
+    "latin": "contendo, contendere, contendi, contentum",
+    "english": "to strive, struggle, contend; hasten",
+    "conjugation": 3
+  },
+  {
+    "chapter": 29,
+    "type": "verb",
+    "latin": "mollio, mollire, mollivi, mollitum",
+    "english": "to soften; make calm, make less hostile",
+    "conjugation": 4
+  },
+  {
+    "chapter": 29,
+    "type": "verb",
+    "latin": "pugno, pugnare, pugnavi, pugnatum",
+    "english": "to fight",
+    "conjugation": 1
+  },
+  {
+    "chapter": 29,
+    "type": "verb",
+    "latin": "respondeo, respondere, respondi, responsum",
+    "english": "to answer",
+    "conjugation": 2
+  },
+  {
+    "chapter": 29,
+    "type": "verb",
+    "latin": "surgo, surgere, surrexi, surrectum",
+    "english": "to get up, arise",
+    "conjugation": 3
+  }
+]

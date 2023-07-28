@@ -1,0 +1,487 @@
+[
+  {
+    "chapter": 15,
+    "type": "noun",
+    "latin": "Italia, -ae",
+    "english": "Italy",
+    "gender": "f",
+    "declension": 1
+  },
+  {
+    "chapter": 15,
+    "type": "noun",
+    "latin": "memoria, -ae",
+    "english": "memory, recollection",
+    "gender": "f",
+    "declension": 1
+  },
+  {
+    "chapter": 15,
+    "type": "noun",
+    "latin": "tempestas, tempestatis",
+    "english": "period of time, season; weather, storm",
+    "gender": "f",
+    "declension": 3
+  },
+  {
+    "chapter": 15,
+    "type": "adjective",
+    "latin": "centum",
+    "english": "a hundred"
+  },
+  {
+    "chapter": 15,
+    "type": "adjective",
+    "latin": "mille",
+    "english": "thousand; (plural) thousands"
+  },
+  {
+    "chapter": 15,
+    "type": "adjective",
+    "latin": "miser, misera, miserum",
+    "english": "wretched, miserable, unfortunate"
+  },
+  {
+    "chapter": 15,
+    "type": "preposition",
+    "latin": "inter",
+    "english": "between, among",
+    "notes": "takes accusative"
+  },
+  {
+    "chapter": 15,
+    "type": "adverb",
+    "latin": "itaque",
+    "english": "and so, therefore"
+  },
+  {
+    "chapter": 15,
+    "type": "verb",
+    "latin": "committo, committere, commisi, commissum",
+    "english": "to entrust, commit",
+    "conjugation": 3
+  },
+  {
+    "chapter": 15,
+    "type": "verb",
+    "latin": "exspecto, exspectare, exspectavi, exspectatum",
+    "english": "to look for, expect, await",
+    "conjugation": 1
+  },
+  {
+    "chapter": 15,
+    "type": "verb",
+    "latin": "iacio, iacere, ieci, iactum",
+    "english": "to throw, hurl",
+    "conjugation": "3i"
+  },
+  {
+    "chapter": 15,
+    "type": "verb",
+    "latin": "eicio, eicere, eieci, eiectum",
+    "english": "to throw out, drive out",
+    "conjugation": "3i"
+  },
+  {
+    "chapter": 15,
+    "type": "verb",
+    "latin": "timeo, timere, timui, -",
+    "english": "to fear, be afraid of, be afraid",
+    "conjugation": 2
+  },
+  {
+    "chapter": 15,
+    "type": "adjective, cardinal",
+    "latin": "unus, -a, -um",
+    "english": "one"
+  },
+  {
+    "chapter": 15,
+    "type": "adjective, cardinal",
+    "latin": "duo, duae, duo",
+    "english": "two",
+    "notes": "always plural",
+    "plural": true
+  },
+  {
+    "chapter": 15,
+    "type": "adjective, cardinal",
+    "latin": "tres, tria",
+    "english": "three"
+  },
+  {
+    "chapter": 15,
+    "type": "adjective, cardinal",
+    "latin": "quattuor",
+    "english": "four"
+  },
+  {
+    "chapter": 15,
+    "type": "adjective, cardinal",
+    "latin": "quinque",
+    "english": "five"
+  },
+  {
+    "chapter": 15,
+    "type": "adjective, cardinal",
+    "latin": "sex",
+    "english": "six"
+  },
+  {
+    "chapter": 15,
+    "type": "adjective, cardinal",
+    "latin": "septem",
+    "english": "seven"
+  },
+  {
+    "chapter": 15,
+    "type": "adjective, cardinal",
+    "latin": "octo",
+    "english": "eight"
+  },
+  {
+    "chapter": 15,
+    "type": "adjective, cardinal",
+    "latin": "novem",
+    "english": "nine"
+  },
+  {
+    "chapter": 15,
+    "type": "adjective, cardinal",
+    "latin": "decem",
+    "english": "ten"
+  },
+  {
+    "chapter": 15,
+    "type": "adjective, cardinal",
+    "latin": "undecim",
+    "english": "eleven"
+  },
+  {
+    "chapter": 15,
+    "type": "adjective, cardinal",
+    "latin": "duodecim",
+    "english": "twelve"
+  },
+  {
+    "chapter": 15,
+    "type": "adjective, cardinal",
+    "latin": "tredecim",
+    "english": "thirteen"
+  },
+  {
+    "chapter": 15,
+    "type": "adjective, cardinal",
+    "latin": "quattuordecim",
+    "english": "fourteen"
+  },
+  {
+    "chapter": 15,
+    "type": "adjective, cardinal",
+    "latin": "quindecim",
+    "english": "fifteen"
+  },
+  {
+    "chapter": 15,
+    "type": "adjective, cardinal",
+    "latin": "sedecim",
+    "english": "sixteen"
+  },
+  {
+    "chapter": 15,
+    "type": "adjective, cardinal",
+    "latin": "septendecim",
+    "english": "seventeen"
+  },
+  {
+    "chapter": 15,
+    "type": "adjective, cardinal",
+    "latin": "duodeviginti",
+    "english": "eighteen",
+    "notes": "literally two from twenty"
+  },
+  {
+    "chapter": 15,
+    "type": "adjective, cardinal",
+    "latin": "undeviginti",
+    "english": "nineteen",
+    "notes": "literally one from twenty"
+  },
+  {
+    "chapter": 15,
+    "type": "adjective, cardinal",
+    "latin": "viginti",
+    "english": "twenty"
+  },
+  {
+    "chapter": 15,
+    "type": "adjective, cardinal",
+    "latin": "viginti unus",
+    "english": "twenty-one",
+    "notes": "also unus et viginti"
+  },
+  {
+    "chapter": 15,
+    "type": "adjective, cardinal",
+    "latin": "viginti duo",
+    "english": "twenty-two",
+    "notes": "also duo et viginti"
+  },
+  {
+    "chapter": 15,
+    "type": "adjective, cardinal",
+    "latin": "viginti tres",
+    "english": "twenty-three",
+    "notes": "also tres et viginti"
+  },
+  {
+    "chapter": 15,
+    "type": "adjective, cardinal",
+    "latin": "viginti quattuor",
+    "english": "twenty-four",
+    "notes": "also quattuor et viginti"
+  },
+  {
+    "chapter": 15,
+    "type": "adjective, cardinal",
+    "latin": "viginti quinque",
+    "english": "twenty-five",
+    "notes": "also quinque et viginti"
+  },
+  {
+    "chapter": 15,
+    "type": "adjective, cardinal",
+    "latin": "triginta",
+    "english": "thirty"
+  },
+  {
+    "chapter": 15,
+    "type": "adjective, cardinal",
+    "latin": "quadraginta",
+    "english": "forty"
+  },
+  {
+    "chapter": 15,
+    "type": "adjective, cardinal",
+    "latin": "quinquaginta",
+    "english": "fifty"
+  },
+  {
+    "chapter": 15,
+    "type": "adjective, cardinal",
+    "latin": "sexaginta",
+    "english": "sixty"
+  },
+  {
+    "chapter": 15,
+    "type": "adjective, cardinal",
+    "latin": "septuaginta",
+    "english": "seventy"
+  },
+  {
+    "chapter": 15,
+    "type": "adjective, cardinal",
+    "latin": "octoginta",
+    "english": "eighty"
+  },
+  {
+    "chapter": 15,
+    "type": "adjective, cardinal",
+    "latin": "nonaginta",
+    "english": "ninety"
+  },
+  {
+    "chapter": 15,
+    "type": "adjective, ordinal",
+    "latin": "primus, -a, -um",
+    "english": "first"
+  },
+  {
+    "chapter": 15,
+    "type": "adjective, ordinal",
+    "latin": "secundus, -a, -um",
+    "english": "second"
+  },
+  {
+    "chapter": 15,
+    "type": "adjective, ordinal",
+    "latin": "tertius, -a, -um",
+    "english": "third"
+  },
+  {
+    "chapter": 15,
+    "type": "adjective, ordinal",
+    "latin": "quartus, -a, -um",
+    "english": "fourth"
+  },
+  {
+    "chapter": 15,
+    "type": "adjective, ordinal",
+    "latin": "quintus, -a, -um",
+    "english": "fifth"
+  },
+  {
+    "chapter": 15,
+    "type": "adjective, ordinal",
+    "latin": "sextus, -a, -um",
+    "english": "sixth"
+  },
+  {
+    "chapter": 15,
+    "type": "adjective, ordinal",
+    "latin": "septimus, -a, -um",
+    "english": "seventh"
+  },
+  {
+    "chapter": 15,
+    "type": "adjective, ordinal",
+    "latin": "octavus, -a, -um",
+    "english": "eighth"
+  },
+  {
+    "chapter": 15,
+    "type": "adjective, ordinal",
+    "latin": "nonus, -a, -um",
+    "english": "ninth"
+  },
+  {
+    "chapter": 15,
+    "type": "adjective, ordinal",
+    "latin": "decimus, -a, -um",
+    "english": "tenth"
+  },
+  {
+    "chapter": 15,
+    "type": "adjective, ordinal",
+    "latin": "undecimus, -a, -um",
+    "english": "eleventh"
+  },
+  {
+    "chapter": 15,
+    "type": "adjective, ordinal",
+    "latin": "duodecimus, -a, -um",
+    "english": "twelfth"
+  },
+  {
+    "chapter": 15,
+    "type": "adjective, ordinal",
+    "latin": "tertius decimus, -a, -um",
+    "english": "thirteenth"
+  },
+  {
+    "chapter": 15,
+    "type": "adjective, ordinal",
+    "latin": "quartus decimus, -a, -um",
+    "english": "fourteenth"
+  },
+  {
+    "chapter": 15,
+    "type": "adjective, ordinal",
+    "latin": "quintus decimus, -a, -um",
+    "english": "fifteenth"
+  },
+  {
+    "chapter": 15,
+    "type": "adjective, ordinal",
+    "latin": "sextus decimus, -a, -um",
+    "english": "sixteenth"
+  },
+  {
+    "chapter": 15,
+    "type": "adjective, ordinal",
+    "latin": "septimus decimus, -a, -um",
+    "english": "seventeenth"
+  },
+  {
+    "chapter": 15,
+    "type": "adjective, ordinal",
+    "latin": "duodevicesimus, -a, -um",
+    "english": "eighteenth",
+    "notes": "literally two from twenty"
+  },
+  {
+    "chapter": 15,
+    "type": "adjective, ordinal",
+    "latin": "undevicesimus, -a, -um",
+    "english": "nineteenth",
+    "notes": "literally one from twenty"
+  },
+  {
+    "chapter": 15,
+    "type": "adjective, ordinal",
+    "latin": "vicesimus, -a, -um",
+    "english": "twentieth"
+  },
+  {
+    "chapter": 15,
+    "type": "adjective, ordinal",
+    "latin": "vicesimus primus, -a, -um",
+    "english": "twenty-first"
+  },
+  {
+    "chapter": 15,
+    "type": "adjective, ordinal",
+    "latin": "vicesimus secundus, -a, -um",
+    "english": "twenty-second"
+  },
+  {
+    "chapter": 15,
+    "type": "adjective, ordinal",
+    "latin": "vicesimus tertius, -a, -um",
+    "english": "twenty-third"
+  },
+  {
+    "chapter": 15,
+    "type": "adjective, ordinal",
+    "latin": "vicesimus quartus, -a, -um",
+    "english": "twenty-fourth"
+  },
+  {
+    "chapter": 15,
+    "type": "adjective, ordinal",
+    "latin": "vicesimus quintus, -a, -um",
+    "english": "twenty-fifth"
+  },
+  {
+    "chapter": 15,
+    "type": "adjective, ordinal",
+    "latin": "tricesimus",
+    "english": "thirtieth"
+  },
+  {
+    "chapter": 15,
+    "type": "adjective, ordinal",
+    "latin": "quadragesimus",
+    "english": "fortieth"
+  },
+  {
+    "chapter": 15,
+    "type": "adjective, ordinal",
+    "latin": "quinquagesimus",
+    "english": "fiftieth"
+  },
+  {
+    "chapter": 15,
+    "type": "adjective, ordinal",
+    "latin": "sexagesimus",
+    "english": "sixtieth"
+  },
+  {
+    "chapter": 15,
+    "type": "adjective, ordinal",
+    "latin": "septuagesimus",
+    "english": "seventieth"
+  },
+  {
+    "chapter": 15,
+    "type": "adjective, ordinal",
+    "latin": "octogesimus",
+    "english": "eightieth"
+  },
+  {
+    "chapter": 15,
+    "type": "adjective, ordinal",
+    "latin": "nonagesimus",
+    "english": "ninetieth"
+  }
+]

@@ -1,0 +1,129 @@
+[
+  {
+    "chapter": 26,
+    "type": "noun",
+    "latin": "cena, -ae",
+    "english": "dinner",
+    "gender": "f",
+    "declension": 1
+  },
+  {
+    "chapter": 26,
+    "type": "noun",
+    "latin": "forum, -i",
+    "english": "marketplace, forum",
+    "gender": "n",
+    "declension": 2
+  },
+  {
+    "chapter": 26,
+    "type": "noun",
+    "latin": "lex, legis",
+    "english": "law, statute",
+    "gender": "f",
+    "declension": 3
+  },
+  {
+    "chapter": 26,
+    "type": "noun",
+    "latin": "limen, liminis",
+    "english": "threshold",
+    "gender": "n",
+    "declension": 3
+  },
+  {
+    "chapter": 26,
+    "type": "noun",
+    "latin": "lux, lucis",
+    "english": "light",
+    "gender": "f",
+    "declension": 3
+  },
+  {
+    "chapter": 26,
+    "type": "noun",
+    "latin": "mensa, -ae",
+    "english": "table, dining, dish, course",
+    "gender": "f",
+    "declension": 1,
+    "notes": "mensa secunda: dessert"
+  },
+  {
+    "chapter": 26,
+    "type": "noun",
+    "latin": "nox, noctis",
+    "english": "night",
+    "gender": "f",
+    "declension": "3i"
+  },
+  {
+    "chapter": 26,
+    "type": "noun",
+    "latin": "somnus, -i",
+    "english": "sleep",
+    "gender": "m",
+    "declension": 2
+  },
+  {
+    "chapter": 26,
+    "type": "pronoun, adjective",
+    "latin": "quidam, quaedam, quiddam",
+    "english": "(pron.) a certain one, certain thing, someone, something; (adj.) a certain, some"
+  },
+  {
+    "chapter": 26,
+    "type": "adjective",
+    "latin": "pudicus, -a, -um",
+    "english": "modest, chaste"
+  },
+  {
+    "chapter": 26,
+    "type": "adjective",
+    "latin": "superbus, -a, -um",
+    "english": "arrogant, overbearing, haughty, proud"
+  },
+  {
+    "chapter": 26,
+    "type": "adjective",
+    "latin": "tristis, triste",
+    "english": "sad, sorrowful; joyless, grim, severe"
+  },
+  {
+    "chapter": 26,
+    "type": "adjective",
+    "latin": "turpis, turpe",
+    "english": "ugly, shameful, base, disgraceful"
+  },
+  {
+    "chapter": 26,
+    "type": "adjective",
+    "latin": "urbanus, -a, -um",
+    "english": "of the city, urban, urbane, elegant"
+  },
+  {
+    "chapter": 26,
+    "type": "preposition",
+    "latin": "prae",
+    "english": "in front of, before",
+    "notes": "takes ablative"
+  },
+  {
+    "chapter": 26,
+    "type": "adverb, conjunction",
+    "latin": "quam",
+    "english": "(after comparatives) than; (with superlatives) as...as possible (e.g. quam fortissimus, as great as possible)"
+  },
+  {
+    "chapter": 26,
+    "type": "adverb",
+    "latin": "tantum",
+    "english": "only"
+  },
+  {
+    "chapter": 26,
+    "type": "verb",
+    "latin": "invito, invitare, invitavi, invitatum",
+    "english": "to entertain, invite, summon",
+    "conjugation": 1
+  }
+]

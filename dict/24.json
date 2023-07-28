@@ -1,0 +1,149 @@
+[
+  {
+    "chapter": 24,
+    "type": "noun",
+    "latin": "Carthago, Carthaginis",
+    "english": "Carthage",
+    "gender": "f",
+    "declension": 3,
+    "notes": "a city in North Africa"
+  },
+  {
+    "chapter": 24,
+    "type": "noun",
+    "latin": "fabula, -ae",
+    "english": "story, tale; play",
+    "gender": "f",
+    "declension": 1
+  },
+  {
+    "chapter": 24,
+    "type": "noun",
+    "latin": "imperator, imperatoris",
+    "english": "general, commander-in-chief, emperor",
+    "gender": "m",
+    "declension": 3
+  },
+  {
+    "chapter": 24,
+    "type": "noun",
+    "latin": "imperium, -ii",
+    "english": "power to command, supreme power, authority, command, control",
+    "gender": "n",
+    "declension": 2
+  },
+  {
+    "chapter": 24,
+    "type": "noun",
+    "latin": "perfugium, -ii",
+    "english": "refuge, shelter",
+    "gender": "n",
+    "declension": 2
+  },
+  {
+    "chapter": 24,
+    "type": "noun",
+    "latin": "servus, -i",
+    "english": "slave",
+    "gender": "m",
+    "declension": 2
+  },
+  {
+    "chapter": 24,
+    "type": "noun",
+    "latin": "serva, -ae",
+    "english": "slave",
+    "gender": "f",
+    "declension": 1
+  },
+  {
+    "chapter": 24,
+    "type": "noun",
+    "latin": "solacium, -ii",
+    "english": "comfort, relief",
+    "gender": "n",
+    "declension": 2
+  },
+  {
+    "chapter": 24,
+    "type": "noun",
+    "latin": "vulnus, vulneris",
+    "english": "wound",
+    "gender": "n",
+    "declension": 3
+  },
+  {
+    "chapter": 24,
+    "type": "prefix",
+    "latin": "re-, red-",
+    "english": "again, back"
+  },
+  {
+    "chapter": 24,
+    "type": "conjunction",
+    "latin": "ut (+ indic.)",
+    "english": "just as, when"
+  },
+  {
+    "chapter": 24,
+    "type": "adverb",
+    "latin": "postea",
+    "english": "afterwards"
+  },
+  {
+    "chapter": 24,
+    "type": "verb",
+    "latin": "accipio, accipere, accepi, acceptum",
+    "english": "to take (to one's self), receive, accept",
+    "conjugation": "3i"
+  },
+  {
+    "chapter": 24,
+    "type": "verb",
+    "latin": "excipio, excipere, excepi, exceptum",
+    "english": "to take out, except; take, receive, capture",
+    "conjugation": "3i"
+  },
+  {
+    "chapter": 24,
+    "type": "verb",
+    "latin": "recipio, recipere, recepi, receptum",
+    "english": "to take back, regain, admit, receive",
+    "conjugation": "3i"
+  },
+  {
+    "chapter": 24,
+    "type": "verb",
+    "latin": "pello, pellere, pepuli, pulsum",
+    "english": "to strike, push, drive out, banish",
+    "conjugation": 3
+  },
+  {
+    "chapter": 24,
+    "type": "verb",
+    "latin": "expello, expellere, expuli, expulsum",
+    "english": "to drive out, expel, banish",
+    "conjugation": 3
+  },
+  {
+    "chapter": 24,
+    "type": "verb",
+    "latin": "narro, narrare, narravi, narratum",
+    "english": "to tell, report, narrate",
+    "conjugation": 1
+  },
+  {
+    "chapter": 24,
+    "type": "verb",
+    "latin": "quaero, quaerere, quaesivi, quaesitum",
+    "english": "to seek, look for, strive for; ask, inquire, inquire into",
+    "conjugation": 3
+  },
+  {
+    "chapter": 24,
+    "type": "verb",
+    "latin": "rideo, ridere, risi, risum",
+    "english": "to laugh, laugh at",
+    "conjugation": 2
+  }
+]

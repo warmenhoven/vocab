@@ -1,0 +1,162 @@
+[
+  {
+    "chapter": 6,
+    "type": "noun",
+    "latin": "dea, -ae",
+    "english": "goddess",
+    "gender": "f",
+    "declension": 1
+  },
+  {
+    "chapter": 6,
+    "type": "noun",
+    "latin": "deus, -i",
+    "english": "god",
+    "gender": "m",
+    "declension": 2
+  },
+  {
+    "chapter": 6,
+    "type": "noun",
+    "latin": "discipula, -ae",
+    "english": "learner, pupil, student",
+    "gender": "f",
+    "declension": 1
+  },
+  {
+    "chapter": 6,
+    "type": "noun",
+    "latin": "discipulus, -i",
+    "english": "learner, pupil, student",
+    "gender": "m",
+    "declension": 2
+  },
+  {
+    "chapter": 6,
+    "type": "noun",
+    "latin": "insidiae, -arum",
+    "english": "ambush, plot, treachery",
+    "gender": "f",
+    "declension": 1,
+    "notes": "always plural",
+    "plural": true
+  },
+  {
+    "chapter": 6,
+    "type": "noun",
+    "latin": "liber, libri",
+    "english": "book",
+    "gender": "m",
+    "declension": 2
+  },
+  {
+    "chapter": 6,
+    "type": "noun",
+    "latin": "tyrannus, -i",
+    "english": "absolute ruler, tyrant",
+    "gender": "m",
+    "declension": 2
+  },
+  {
+    "chapter": 6,
+    "type": "noun",
+    "latin": "vitium, -ii",
+    "english": "fault, crime, vice",
+    "gender": "n",
+    "declension": 2
+  },
+  {
+    "chapter": 6,
+    "type": "adjective",
+    "latin": "Graecus, -a, -um",
+    "english": "Greek"
+  },
+  {
+    "chapter": 6,
+    "type": "noun",
+    "latin": "Graecus, -i",
+    "english": "a Greek",
+    "gender": "m",
+    "declension": 2
+  },
+  {
+    "chapter": 6,
+    "type": "adjective",
+    "latin": "perpetuus, -a, -um",
+    "english": "perpetual, lasting, uninterrupted, continuous"
+  },
+  {
+    "chapter": 6,
+    "type": "adjective",
+    "latin": "plenus, -a, -um",
+    "english": "full, abundant, generous"
+  },
+  {
+    "chapter": 6,
+    "type": "adjective",
+    "latin": "salvus, -a, -um",
+    "english": "safe, sound"
+  },
+  {
+    "chapter": 6,
+    "type": "adjective",
+    "latin": "secundus, -a, -um",
+    "english": "second; favorable"
+  },
+  {
+    "chapter": 6,
+    "type": "adjective",
+    "latin": "vester, vestra, vestrum",
+    "english": "your, yours (plural)"
+  },
+  {
+    "chapter": 6,
+    "type": "conjunction, enclitic",
+    "latin": "-que",
+    "english": "and (enclitic)",
+    "notes": "appended to the second of two words to be joined"
+  },
+  {
+    "chapter": 6,
+    "type": "conjunction",
+    "latin": "sed",
+    "english": "but"
+  },
+  {
+    "chapter": 6,
+    "type": "adverb, conjunction",
+    "latin": "ubi",
+    "english": "where, when"
+  },
+  {
+    "chapter": 6,
+    "type": "adverb",
+    "latin": "ibi",
+    "english": "there"
+  },
+  {
+    "chapter": 6,
+    "type": "adverb",
+    "latin": "nunc",
+    "english": "now, today, at present"
+  },
+  {
+    "chapter": 6,
+    "type": "adverb",
+    "latin": "quare",
+    "english": "because of which thing, therefore, wherefore, why"
+  },
+  {
+    "chapter": 6,
+    "type": "verb",
+    "latin": "possum, posse, potui, -",
+    "english": "to be able, can, could, have power"
+  },
+  {
+    "chapter": 6,
+    "type": "verb",
+    "latin": "tolero, tolerare, toleravi, toleratum",
+    "english": "to bear, endure",
+    "conjugation": 1
+  }
+]

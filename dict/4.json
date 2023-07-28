@@ -1,0 +1,184 @@
+[
+  {
+    "chapter": 4,
+    "type": "noun",
+    "latin": "basium, -ii",
+    "english": "kiss",
+    "gender": "n",
+    "declension": 2
+  },
+  {
+    "chapter": 4,
+    "type": "noun",
+    "latin": "bellum, -i",
+    "english": "war",
+    "gender": "n",
+    "declension": 2
+  },
+  {
+    "chapter": 4,
+    "type": "noun",
+    "latin": "consilium, -ii",
+    "english": "plan, purpose, counsel, advice, judgement, wisdom",
+    "gender": "n",
+    "declension": 2
+  },
+  {
+    "chapter": 4,
+    "type": "noun",
+    "latin": "cura, -ae",
+    "english": "care, attention, caution, anxiety",
+    "gender": "f",
+    "declension": 1
+  },
+  {
+    "chapter": 4,
+    "type": "noun",
+    "latin": "donum, -i",
+    "english": "gift, present",
+    "gender": "n",
+    "declension": 2
+  },
+  {
+    "chapter": 4,
+    "type": "noun",
+    "latin": "exitium, -ii",
+    "english": "destruction, ruin",
+    "gender": "n",
+    "declension": 2
+  },
+  {
+    "chapter": 4,
+    "type": "noun",
+    "latin": "magister, magistri",
+    "english": "schoolmaster, teacher, master",
+    "gender": "m",
+    "declension": 2
+  },
+  {
+    "chapter": 4,
+    "type": "noun",
+    "latin": "magistra, -ae",
+    "english": "school mistress, teacher, mistress",
+    "gender": "f",
+    "declension": 1
+  },
+  {
+    "chapter": 4,
+    "type": "noun",
+    "latin": "mora, -ae",
+    "english": "delay",
+    "gender": "f",
+    "declension": 1
+  },
+  {
+    "chapter": 4,
+    "type": "noun",
+    "latin": "nihil",
+    "english": "nothing",
+    "gender": "n"
+  },
+  {
+    "chapter": 4,
+    "type": "noun",
+    "latin": "oculus, -i",
+    "english": "eye",
+    "gender": "m",
+    "declension": 2
+  },
+  {
+    "chapter": 4,
+    "type": "noun",
+    "latin": "officium, -ii",
+    "english": "duty, service",
+    "gender": "n",
+    "declension": 2
+  },
+  {
+    "chapter": 4,
+    "type": "noun",
+    "latin": "otium, -ii",
+    "english": "leisure, peace",
+    "gender": "n",
+    "declension": 2
+  },
+  {
+    "chapter": 4,
+    "type": "noun",
+    "latin": "periculum, -i",
+    "english": "danger, risk",
+    "gender": "n",
+    "declension": 2
+  },
+  {
+    "chapter": 4,
+    "type": "noun",
+    "latin": "remedium, -ii",
+    "english": "cure, remedy",
+    "gender": "n",
+    "declension": 2
+  },
+  {
+    "chapter": 4,
+    "type": "adjective",
+    "latin": "bellus, -a, -um",
+    "english": "pretty, handsome, charming"
+  },
+  {
+    "chapter": 4,
+    "type": "adjective",
+    "latin": "bonus, -a, -um",
+    "english": "good, kind"
+  },
+  {
+    "chapter": 4,
+    "type": "adjective",
+    "latin": "humanus, -a, -um",
+    "english": "pertaining to man, human, humane, kind, refined, cultivated"
+  },
+  {
+    "chapter": 4,
+    "type": "adjective",
+    "latin": "malus, -a, -um",
+    "english": "bad, wicked, evil"
+  },
+  {
+    "chapter": 4,
+    "type": "adjective",
+    "latin": "parvus, -a, -um",
+    "english": "small, little"
+  },
+  {
+    "chapter": 4,
+    "type": "adjective",
+    "latin": "stultus, -a, -um",
+    "english": "foolish"
+  },
+  {
+    "chapter": 4,
+    "type": "noun",
+    "latin": "stultus, -i",
+    "english": "a fool",
+    "gender": "m",
+    "declension": 2
+  },
+  {
+    "chapter": 4,
+    "type": "adjective",
+    "latin": "verus, -a, -um",
+    "english": "true, real, proper"
+  },
+  {
+    "chapter": 4,
+    "type": "verb",
+    "latin": "iuvo, iuvare, iuvi, iutum",
+    "english": "to help, aid, assist; to please",
+    "conjugation": 1
+  },
+  {
+    "chapter": 4,
+    "type": "verb",
+    "latin": "sum, esse, fui, futurum",
+    "english": "to be, exist"
+  }
+]

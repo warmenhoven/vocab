@@ -1,0 +1,171 @@
+[
+  {
+    "chapter": 14,
+    "type": "noun",
+    "latin": "animal, animalis",
+    "english": "a living creature, animal",
+    "gender": "n",
+    "declension": "3i"
+  },
+  {
+    "chapter": 14,
+    "type": "noun",
+    "latin": "aqua, -ae",
+    "english": "water",
+    "gender": "f",
+    "declension": 1
+  },
+  {
+    "chapter": 14,
+    "type": "noun",
+    "latin": "ars, artis",
+    "english": "art, skill",
+    "gender": "f",
+    "declension": "3i"
+  },
+  {
+    "chapter": 14,
+    "type": "noun",
+    "latin": "auris, auris",
+    "english": "ear",
+    "gender": "f",
+    "declension": "3i"
+  },
+  {
+    "chapter": 14,
+    "type": "noun",
+    "latin": "civis, civis",
+    "english": "citizen",
+    "gender": "m. and f",
+    "declension": "3i"
+  },
+  {
+    "chapter": 14,
+    "type": "noun",
+    "latin": "ius, iuris",
+    "english": "right, justice",
+    "gender": "n",
+    "declension": 3
+  },
+  {
+    "chapter": 14,
+    "type": "noun",
+    "latin": "mare, maris",
+    "english": "sea",
+    "gender": "n",
+    "declension": "3i"
+  },
+  {
+    "chapter": 14,
+    "type": "noun",
+    "latin": "mors, mortis",
+    "english": "death",
+    "gender": "f",
+    "declension": "3i"
+  },
+  {
+    "chapter": 14,
+    "type": "noun",
+    "latin": "nubes, nubis",
+    "english": "cloud",
+    "gender": "f",
+    "declension": "3i"
+  },
+  {
+    "chapter": 14,
+    "type": "noun",
+    "latin": "os, oris",
+    "english": "mouth, face",
+    "gender": "n",
+    "declension": 3
+  },
+  {
+    "chapter": 14,
+    "type": "noun",
+    "latin": "pars, partis",
+    "english": "part, share",
+    "gender": "f",
+    "declension": "3i"
+  },
+  {
+    "chapter": 14,
+    "type": "noun",
+    "latin": "Roma, -ae",
+    "english": "Rome",
+    "gender": "f",
+    "declension": 1
+  },
+  {
+    "chapter": 14,
+    "type": "noun",
+    "latin": "turba, -ae",
+    "english": "uproar, disturbance, mob, crowd, multitude",
+    "gender": "f",
+    "declension": 1
+  },
+  {
+    "chapter": 14,
+    "type": "noun",
+    "latin": "urbs, urbis",
+    "english": "city",
+    "gender": "f",
+    "declension": "3i"
+  },
+  {
+    "chapter": 14,
+    "type": "noun",
+    "latin": "vis, vis",
+    "english": "force, power, violence",
+    "gender": "f",
+    "declension": "3i"
+  },
+  {
+    "chapter": 13,
+    "type": "preposition",
+    "latin": "ab, a",
+    "english": "away from, from; by",
+    "notes": "takes ablative"
+  },
+  {
+    "chapter": 14,
+    "type": "preposition",
+    "latin": "trans",
+    "english": "across",
+    "notes": "takes accusative"
+  },
+  {
+    "chapter": 14,
+    "type": "verb",
+    "latin": "appello, appellare, appellavi, appellatum",
+    "english": "to speak to, address (as), call, name",
+    "conjugation": 1
+  },
+  {
+    "chapter": 14,
+    "type": "verb",
+    "latin": "curro, currere, cucurri, cursum",
+    "english": "to run, rush, move quickly",
+    "conjugation": 3
+  },
+  {
+    "chapter": 14,
+    "type": "verb",
+    "latin": "muto, mutare, mutavi, mutatum",
+    "english": "to change, alter; exchange",
+    "conjugation": 1
+  },
+  {
+    "chapter": 14,
+    "type": "verb",
+    "latin": "teneo, tenere, tenui, tentum",
+    "english": "to hold, keep, possess; restrain",
+    "conjugation": 2
+  },
+  {
+    "chapter": 14,
+    "type": "verb",
+    "latin": "vito, vitare, vitavi, vitatum",
+    "english": "to avoid, shun",
+    "conjugation": 1
+  }
+]

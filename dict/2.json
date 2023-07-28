@@ -1,0 +1,182 @@
+[
+  {
+    "chapter": 2,
+    "type": "noun",
+    "latin": "fama, -ae",
+    "english": "rumour, report; fame, reputation",
+    "gender": "f",
+    "declension": 1
+  },
+  {
+    "chapter": 2,
+    "type": "noun",
+    "latin": "forma, -ae",
+    "english": "form, shape; beauty",
+    "gender": "f",
+    "declension": 1
+  },
+  {
+    "chapter": 2,
+    "type": "noun",
+    "latin": "fortuna, -ae",
+    "english": "fortune, luck",
+    "gender": "f",
+    "declension": 1
+  },
+  {
+    "chapter": 2,
+    "type": "noun",
+    "latin": "ira, -ae",
+    "english": "ire, anger",
+    "gender": "f",
+    "declension": 1
+  },
+  {
+    "chapter": 2,
+    "type": "noun",
+    "latin": "nauta, -ae",
+    "english": "sailor",
+    "gender": "m",
+    "declension": 1
+  },
+  {
+    "chapter": 2,
+    "type": "noun",
+    "latin": "patria, -ae",
+    "english": "fatherland, native land, (one's) country",
+    "gender": "f",
+    "declension": 1
+  },
+  {
+    "chapter": 2,
+    "type": "noun",
+    "latin": "pecunia, -ae",
+    "english": "money",
+    "gender": "f",
+    "declension": 1
+  },
+  {
+    "chapter": 2,
+    "type": "noun",
+    "latin": "philosophia, -ae",
+    "english": "philosophy",
+    "gender": "f",
+    "declension": 1,
+    "notes": "Greek philosophia: love of wisdom"
+  },
+  {
+    "chapter": 2,
+    "type": "noun",
+    "latin": "poena, -ae",
+    "english": "penalty, punishment",
+    "gender": "f",
+    "declension": 1,
+    "notes": "idiom, poenas dare: to pay the penalty"
+  },
+  {
+    "chapter": 2,
+    "type": "noun",
+    "latin": "poeta, -ae",
+    "english": "poet",
+    "gender": "m",
+    "declension": 1
+  },
+  {
+    "chapter": 2,
+    "type": "noun",
+    "latin": "porta, -ae",
+    "english": "gate, entrance",
+    "gender": "f",
+    "declension": 1
+  },
+  {
+    "chapter": 2,
+    "type": "noun",
+    "latin": "puella, -ae",
+    "english": "girl",
+    "gender": "f",
+    "declension": 1
+  },
+  {
+    "chapter": 2,
+    "type": "noun",
+    "latin": "rosa, -ae",
+    "english": "rose",
+    "gender": "f",
+    "declension": 1
+  },
+  {
+    "chapter": 2,
+    "type": "noun",
+    "latin": "sententia, -ae",
+    "english": "feeling, thought, opinion, vote, sentence",
+    "gender": "f",
+    "declension": 1
+  },
+  {
+    "chapter": 2,
+    "type": "noun",
+    "latin": "vita, -ae",
+    "english": "life; mode of life",
+    "gender": "f",
+    "declension": 1
+  },
+  {
+    "chapter": 2,
+    "type": "adjective",
+    "latin": "antiquus, -a, -um",
+    "english": "ancient, old-time"
+  },
+  {
+    "chapter": 2,
+    "type": "adjective",
+    "latin": "magnus, -a, -um",
+    "english": "large, great, important"
+  },
+  {
+    "chapter": 2,
+    "type": "adjective",
+    "latin": "meus, -a, -um",
+    "english": "my"
+  },
+  {
+    "chapter": 2,
+    "type": "adjective",
+    "latin": "multus, -a, -um",
+    "english": "much, many"
+  },
+  {
+    "chapter": 2,
+    "type": "adjective",
+    "latin": "tuus, -a, -um",
+    "english": "your",
+    "notes": "used when speaking to one person"
+  },
+  {
+    "chapter": 2,
+    "type": "conjunction",
+    "latin": "et",
+    "english": "and",
+    "notes": "et...et: both...and"
+  },
+  {
+    "chapter": 2,
+    "type": "conjunction",
+    "latin": "sed",
+    "english": "but"
+  },
+  {
+    "chapter": 2,
+    "type": "interjection",
+    "latin": "O",
+    "english": "O!, Oh!",
+    "notes": "commonly used with the vocative"
+  },
+  {
+    "chapter": 2,
+    "type": "preposition",
+    "latin": "sine",
+    "english": "without",
+    "notes": "takes ablative"
+  }
+]

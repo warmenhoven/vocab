@@ -1,0 +1,149 @@
+[
+  {
+    "chapter": 10,
+    "type": "noun",
+    "latin": "amicitia, -ae",
+    "english": "friendship",
+    "gender": "f",
+    "declension": 1
+  },
+  {
+    "chapter": 10,
+    "type": "noun",
+    "latin": "cupiditas, cupiditatis",
+    "english": "desire, longing, passion, cupidity, avarice",
+    "gender": "f",
+    "declension": 3
+  },
+  {
+    "chapter": 10,
+    "type": "noun",
+    "latin": "hora, -ae",
+    "english": "hour, time",
+    "gender": "f",
+    "declension": 1
+  },
+  {
+    "chapter": 10,
+    "type": "noun",
+    "latin": "natura, -ae",
+    "english": "nature",
+    "gender": "f",
+    "declension": 1
+  },
+  {
+    "chapter": 10,
+    "type": "noun",
+    "latin": "senectus, senectutis",
+    "english": "old age",
+    "gender": "f",
+    "declension": 3
+  },
+  {
+    "chapter": 10,
+    "type": "noun",
+    "latin": "timor, timoris",
+    "english": "fear",
+    "gender": "m",
+    "declension": 3
+  },
+  {
+    "chapter": 10,
+    "type": "noun",
+    "latin": "veritas, veritatis",
+    "english": "truth",
+    "gender": "f",
+    "declension": 3
+  },
+  {
+    "chapter": 10,
+    "type": "noun",
+    "latin": "via, -ae",
+    "english": "way, road, street",
+    "gender": "f",
+    "declension": 1
+  },
+  {
+    "chapter": 10,
+    "type": "noun",
+    "latin": "voluptas, voluptatis",
+    "english": "pleasure",
+    "gender": "f",
+    "declension": 3
+  },
+  {
+    "chapter": 10,
+    "type": "adjective",
+    "latin": "beatus, -a, -um",
+    "english": "happy, fortunate, blessed"
+  },
+  {
+    "chapter": 10,
+    "type": "conjunction",
+    "latin": "quoniam",
+    "english": "since, inasmuch as"
+  },
+  {
+    "chapter": 10,
+    "type": "preposition",
+    "latin": "cum",
+    "english": "with",
+    "notes": "takes ablative"
+  },
+  {
+    "chapter": 10,
+    "type": "verb",
+    "latin": "audio, audire, audivi, auditum",
+    "english": "to hear, listen to",
+    "conjugation": 4
+  },
+  {
+    "chapter": 10,
+    "type": "verb",
+    "latin": "capio, capere, cepi, captum",
+    "english": "to take, capture, seize, get",
+    "conjugation": "3i"
+  },
+  {
+    "chapter": 10,
+    "type": "verb",
+    "latin": "dico, dicere, dixi, dictum",
+    "english": "to say, tell, speak; name, call",
+    "conjugation": 3
+  },
+  {
+    "chapter": 10,
+    "type": "verb",
+    "latin": "facio, facere, feci, factum",
+    "english": "to make, do, accomplish",
+    "conjugation": "3i"
+  },
+  {
+    "chapter": 10,
+    "type": "verb",
+    "latin": "fugio, fugere, fugi, fugiturum",
+    "english": "to flee, hurry away; go into exile; avoid, shun",
+    "conjugation": "3i"
+  },
+  {
+    "chapter": 10,
+    "type": "verb",
+    "latin": "venio, venire, veni, ventum",
+    "english": "to come",
+    "conjugation": 4
+  },
+  {
+    "chapter": 10,
+    "type": "verb",
+    "latin": "invenio, invenire, inveni, inventum",
+    "english": "to come upon, find",
+    "conjugation": 4
+  },
+  {
+    "chapter": 10,
+    "type": "verb",
+    "latin": "vivo, vivere, vixi, victum",
+    "english": "to live",
+    "conjugation": 3
+  }
+]

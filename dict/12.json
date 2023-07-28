@@ -1,0 +1,129 @@
+[
+  {
+    "chapter": 12,
+    "type": "noun",
+    "latin": "adulescens, adulescentis",
+    "english": "young man",
+    "gender": "m",
+    "declension": 3
+  },
+  {
+    "chapter": 12,
+    "type": "noun",
+    "latin": "annus, -i",
+    "english": "year",
+    "gender": "m",
+    "declension": 2
+  },
+  {
+    "chapter": 12,
+    "type": "noun",
+    "latin": "Asia, -ae",
+    "english": "Asia",
+    "gender": "f",
+    "declension": 1
+  },
+  {
+    "chapter": 12,
+    "type": "noun",
+    "latin": "Caesar, Caesaris",
+    "english": "Caesar",
+    "gender": "m",
+    "declension": 3
+  },
+  {
+    "chapter": 12,
+    "type": "noun",
+    "latin": "mater, matris",
+    "english": "mother",
+    "gender": "f",
+    "declension": 3
+  },
+  {
+    "chapter": 12,
+    "type": "noun",
+    "latin": "medicus, -i",
+    "english": "doctor, physician",
+    "gender": "m",
+    "declension": 2
+  },
+  {
+    "chapter": 12,
+    "type": "noun",
+    "latin": "medica, -ae",
+    "english": "doctor, physician",
+    "gender": "f",
+    "declension": 1
+  },
+  {
+    "chapter": 12,
+    "type": "noun",
+    "latin": "pater, patris",
+    "english": "father",
+    "gender": "m",
+    "declension": 3
+  },
+  {
+    "chapter": 12,
+    "type": "noun",
+    "latin": "patientia, -ae",
+    "english": "suffering, patience, endurance",
+    "gender": "f",
+    "declension": 1
+  },
+  {
+    "chapter": 12,
+    "type": "noun",
+    "latin": "principium, -ii",
+    "english": "beginning",
+    "gender": "n",
+    "declension": 2
+  },
+  {
+    "chapter": 12,
+    "type": "adjective",
+    "latin": "acerbus, -a, -um",
+    "english": "harsh, bitter, grievous"
+  },
+  {
+    "chapter": 12,
+    "type": "preposition",
+    "latin": "pro",
+    "english": "in front of, before, on behalf of, for the sake of, in return for, instead of, for, as",
+    "notes": "takes ablative"
+  },
+  {
+    "chapter": 12,
+    "type": "adverb",
+    "latin": "diu",
+    "english": "for a long time"
+  },
+  {
+    "chapter": 12,
+    "type": "adverb",
+    "latin": "nuper",
+    "english": "recently"
+  },
+  {
+    "chapter": 12,
+    "type": "verb",
+    "latin": "amitto, amittere, amisi, amissum",
+    "english": "to lose, let go",
+    "conjugation": 3
+  },
+  {
+    "chapter": 12,
+    "type": "verb",
+    "latin": "cado, cadere, cecidi, casurum",
+    "english": "to fall",
+    "conjugation": 3,
+    "notes": "'casum' is an alternative fourth principal part"
+  },
+  {
+    "chapter": 12,
+    "type": "verb",
+    "latin": "creo, creare, creavi, creatum",
+    "english": "to create",
+    "conjugation": 1
+  }
+]

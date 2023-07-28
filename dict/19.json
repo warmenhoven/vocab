@@ -1,0 +1,142 @@
+[
+  {
+    "chapter": 19,
+    "type": "noun",
+    "latin": "argumentum, -i",
+    "english": "proof, evidence, argument",
+    "gender": "n",
+    "declension": 2
+  },
+  {
+    "chapter": 19,
+    "type": "noun",
+    "latin": "auctor, auctoris",
+    "english": "increaser, author, originator",
+    "gender": "m",
+    "declension": 3
+  },
+  {
+    "chapter": 19,
+    "type": "noun",
+    "latin": "beneficium, -ii",
+    "english": "benefit, kindness; favor",
+    "gender": "n",
+    "declension": 2
+  },
+  {
+    "chapter": 19,
+    "type": "noun",
+    "latin": "familia, -ae",
+    "english": "household, family",
+    "gender": "f",
+    "declension": 1
+  },
+  {
+    "chapter": 19,
+    "type": "noun",
+    "latin": "Graecia, -ae",
+    "english": "Greece",
+    "gender": "f",
+    "declension": 1
+  },
+  {
+    "chapter": 19,
+    "type": "noun",
+    "latin": "iudex, iudicis",
+    "english": "judge, juror",
+    "gender": "m",
+    "declension": 3
+  },
+  {
+    "chapter": 19,
+    "type": "noun",
+    "latin": "iudicium, -ii",
+    "english": "judgement, decision, opinion; trial",
+    "gender": "n",
+    "declension": 2
+  },
+  {
+    "chapter": 19,
+    "type": "noun",
+    "latin": "scelus, sceleris",
+    "english": "evil deed, crime, sin, wickedness",
+    "gender": "n",
+    "declension": 3
+  },
+  {
+    "chapter": 19,
+    "type": "pronoun",
+    "latin": "quis?, quid?",
+    "english": "who?, whose?, whom?, what?, which?"
+  },
+  {
+    "chapter": 19,
+    "type": "adjective",
+    "latin": "qui?, quae?, quod?",
+    "english": "what?, which?, what kind of?"
+  },
+  {
+    "chapter": 19,
+    "type": "adjective",
+    "latin": "certus, -a, -um",
+    "english": "definite, sure, certain, reliable"
+  },
+  {
+    "chapter": 19,
+    "type": "adjective",
+    "latin": "gravis, grave",
+    "english": "heavy, weighty, serious, important, severe, grievous"
+  },
+  {
+    "chapter": 19,
+    "type": "adjective",
+    "latin": "immortalis, immortale",
+    "english": "not subject to death, immortal"
+  },
+  {
+    "chapter": 19,
+    "type": "conjunction",
+    "latin": "at",
+    "english": "but; but, mind you; but, you say"
+  },
+  {
+    "chapter": 19,
+    "type": "conjunction",
+    "latin": "nisi",
+    "english": "if...not, unless; except"
+  },
+  {
+    "chapter": 19,
+    "type": "preposition",
+    "latin": "contra",
+    "english": "against",
+    "notes": "takes accusative"
+  },
+  {
+    "chapter": 19,
+    "type": "adverb",
+    "latin": "iam",
+    "english": "now; already, soon"
+  },
+  {
+    "chapter": 19,
+    "type": "verb",
+    "latin": "delecto, delectare, delectavi, delectatum",
+    "english": "to delight, charm, please",
+    "conjugation": 1
+  },
+  {
+    "chapter": 19,
+    "type": "verb",
+    "latin": "libero, liberare, liberavi, liberatum",
+    "english": "to free, liberate",
+    "conjugation": 1
+  },
+  {
+    "chapter": 19,
+    "type": "verb",
+    "latin": "paro, parare, paravi, paratum",
+    "english": "to prepare, provide, get, obtain",
+    "conjugation": 1
+  }
+]

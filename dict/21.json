@@ -1,0 +1,165 @@
+[
+  {
+    "chapter": 21,
+    "type": "noun",
+    "latin": "casa, -ae",
+    "english": "house, cottage, hut",
+    "gender": "f",
+    "declension": 1
+  },
+  {
+    "chapter": 21,
+    "type": "noun",
+    "latin": "causa, -ae",
+    "english": "cause, reason; case, situation; (abl. causa plus a preceding gen.) for the sake of, on account of",
+    "gender": "f",
+    "declension": 1
+  },
+  {
+    "chapter": 21,
+    "type": "noun",
+    "latin": "fenestra, -ae",
+    "english": "window",
+    "gender": "f",
+    "declension": 1
+  },
+  {
+    "chapter": 21,
+    "type": "noun",
+    "latin": "finis, finis",
+    "english": "end, limit, boundary, purpose; (plural) boundaries, territory",
+    "gender": "m",
+    "declension": "3i"
+  },
+  {
+    "chapter": 21,
+    "type": "noun",
+    "latin": "gens, gentis",
+    "english": "clan, race, nation, people",
+    "gender": "f",
+    "declension": "3i"
+  },
+  {
+    "chapter": 21,
+    "type": "noun",
+    "latin": "mundus, -i",
+    "english": "world, universe",
+    "gender": "m",
+    "declension": 2
+  },
+  {
+    "chapter": 21,
+    "type": "noun",
+    "latin": "navis, navis",
+    "english": "ship, boat",
+    "gender": "f",
+    "declension": "3i"
+  },
+  {
+    "chapter": 21,
+    "type": "noun",
+    "latin": "salus, salutis",
+    "english": "health, safety; greeting",
+    "gender": "f",
+    "declension": 3
+  },
+  {
+    "chapter": 21,
+    "type": "noun",
+    "latin": "Troia, -ae",
+    "english": "Troy",
+    "gender": "f",
+    "declension": 1
+  },
+  {
+    "chapter": 21,
+    "type": "noun",
+    "latin": "vicinus, -i",
+    "english": "neighbor",
+    "gender": "m",
+    "declension": 2
+  },
+  {
+    "chapter": 21,
+    "type": "noun",
+    "latin": "vicina, -ae",
+    "english": "neighbor",
+    "gender": "f",
+    "declension": 1
+  },
+  {
+    "chapter": 21,
+    "type": "noun",
+    "latin": "vulgus, -i",
+    "english": "the common people, mob, rabble",
+    "gender": "m",
+    "declension": 2
+  },
+  {
+    "chapter": 21,
+    "type": "adjective",
+    "latin": "asper, aspera, asperum",
+    "english": "rough, harsh"
+  },
+  {
+    "chapter": 21,
+    "type": "conjunction",
+    "latin": "atque, ac",
+    "english": "and, and also, and even"
+  },
+  {
+    "chapter": 21,
+    "type": "adverb",
+    "latin": "iterum",
+    "english": "again, a second time"
+  },
+  {
+    "chapter": 21,
+    "type": "verb",
+    "latin": "contineo, continere, continui, contentum",
+    "english": "to hold together, contain, keep, enclose, restrain",
+    "conjugation": 2
+  },
+  {
+    "chapter": 21,
+    "type": "verb",
+    "latin": "iubeo, iubere, iussi, iussum",
+    "english": "to bid, order, command",
+    "conjugation": 2
+  },
+  {
+    "chapter": 21,
+    "type": "verb",
+    "latin": "laboro, laborare, laboravi, laboratum",
+    "english": "to labor, be in distress",
+    "conjugation": 1
+  },
+  {
+    "chapter": 21,
+    "type": "verb",
+    "latin": "rapio, rapere, rapui, raptum",
+    "english": "to seize, snatch, carry away",
+    "conjugation": "3i"
+  },
+  {
+    "chapter": 21,
+    "type": "verb",
+    "latin": "relinquo, relinquere, reliqui, relictum",
+    "english": "to leave behind, leave, abandon, desert",
+    "conjugation": 3
+  },
+  {
+    "chapter": 21,
+    "type": "verb",
+    "latin": "scio, scire, scivi, scitum",
+    "english": "to know",
+    "conjugation": 4
+  },
+  {
+    "chapter": 21,
+    "type": "verb",
+    "latin": "tango, tangere, tetigi, tactum",
+    "english": "to touch",
+    "conjugation": 3
+  }
+]

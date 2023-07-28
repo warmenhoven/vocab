@@ -1,0 +1,128 @@
+[
+  {
+    "chapter": 30,
+    "type": "noun",
+    "latin": "honor, honoris",
+    "english": "honor, esteem; public office",
+    "gender": "m",
+    "declension": 3
+  },
+  {
+    "chapter": 30,
+    "type": "adjective",
+    "latin": "ceteri, -ae, -a",
+    "english": "the remaining, the rest, the other, all the others",
+    "notes": "always plural",
+    "plural": true
+  },
+  {
+    "chapter": 30,
+    "type": "adjective",
+    "latin": "quantus, -a, -um",
+    "english": "how large, how great, how much"
+  },
+  {
+    "chapter": 30,
+    "type": "adjective",
+    "latin": "ridiculus, -a, -um",
+    "english": "laughable, ridiculous"
+  },
+  {
+    "chapter": 30,
+    "type": "adjective",
+    "latin": "vivus, -a, -um",
+    "english": "alive, living"
+  },
+  {
+    "chapter": 30,
+    "type": "adverb",
+    "latin": "furtim",
+    "english": "stealthily, secretly"
+  },
+  {
+    "chapter": 30,
+    "type": "adverb",
+    "latin": "mox",
+    "english": "soon"
+  },
+  {
+    "chapter": 30,
+    "type": "adverb",
+    "latin": "primo",
+    "english": "at first, at the beginning"
+  },
+  {
+    "chapter": 30,
+    "type": "adverb",
+    "latin": "repente",
+    "english": "suddenly"
+  },
+  {
+    "chapter": 30,
+    "type": "adverb",
+    "latin": "unde",
+    "english": "whence, from what, from which place, from which, from whom"
+  },
+  {
+    "chapter": 30,
+    "type": "adverb, conjunction",
+    "latin": "utrum...an",
+    "english": "whether...or"
+  },
+  {
+    "chapter": 30,
+    "type": "verb",
+    "latin": "bibo, bibere, bibi, -",
+    "english": "to drink",
+    "conjugation": 3
+  },
+  {
+    "chapter": 30,
+    "type": "verb",
+    "latin": "cognosco, cognoscere, cognovi, cognitum",
+    "english": "to become acquainted with, learn, recognize; (in perf.) know",
+    "conjugation": 3
+  },
+  {
+    "chapter": 30,
+    "type": "verb",
+    "latin": "comprehendo, comprehendere, comprehendi, comprehensum",
+    "english": "to grasp, seize, arrest; comprehend, understand",
+    "conjugation": 3
+  },
+  {
+    "chapter": 30,
+    "type": "verb",
+    "latin": "consumo, consumere, consumpsi, consumptum",
+    "english": "to consume, use up",
+    "conjugation": 3
+  },
+  {
+    "chapter": 30,
+    "type": "verb",
+    "latin": "dubito, dubitare, dubitavi, dubitatum",
+    "english": "to doubt, hesitate",
+    "conjugation": 1
+  },
+  {
+    "chapter": 30,
+    "type": "verb",
+    "latin": "expono, exponere, exposui, expositum",
+    "english": "to set forth, explain, expose",
+    "conjugation": 3
+  },
+  {
+    "chapter": 30,
+    "type": "verb",
+    "latin": "minuo, minuere, minui, minutum",
+    "english": "to lessen, diminish",
+    "conjugation": 3
+  },
+  {
+    "chapter": 30,
+    "type": "verb",
+    "latin": "rogo, rogare, rogavi, rogatum",
+    "english": "to ask",
+    "conjugation": 1
+  }
+]

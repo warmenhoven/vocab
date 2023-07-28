@@ -1,0 +1,46 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Latin Vocab</title>
+    <script type="text/javascript" src="build.js"></script>
+    <script type="text/javascript" src="vocab.js"></script>
+    </script>
+  </head>
+  <body>
+    <p><b>Please input your answers and press "Enter" to check them.</b></p>
+
+    <p id="instr"><b>For verbs, please give the first principal part (or second for
+    defective verbs with no first principal part); for nouns, give the singlar
+    nominative; for adjectives, give the masculine singular nominative.</b></p>
+
+    <hr />
+
+    <p id="chapters"></p>
+
+    <table id="vocabtable">
+    </table>
+
+    <hr />
+    <form action="vocab.html" method="get">
+      <select name="test">
+        <option value="some">Quiz</option>
+        <option value="all">Test</option>
+      </select>
+      vocab from Chapter
+      <select name="start" id="verbsstart">
+      </select>
+      to Chapter
+      <select name="end" id="verbsend">
+      </select>
+      from
+      <select name="english">
+        <option value="yes">Latin to English</option>
+        <option value="no">English to Latin</option>
+      </select>
+      <input type="submit" value="Quiz" />
+    </form>
+
+    <p><a href="index.html">Return to Main Page</a></p>
+  </body>
+</html>

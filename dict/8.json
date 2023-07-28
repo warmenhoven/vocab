@@ -1,0 +1,170 @@
+[
+  {
+    "chapter": 8,
+    "type": "noun",
+    "latin": "Cicero, Ciceronis",
+    "english": "Cicero",
+    "gender": "m",
+    "declension": 3
+  },
+  {
+    "chapter": 8,
+    "type": "noun",
+    "latin": "copia, -ae",
+    "english": "abundance, supply; (plural) supplies, troops, forces",
+    "gender": "f",
+    "declension": 1
+  },
+  {
+    "chapter": 8,
+    "type": "noun",
+    "latin": "frater, fratris",
+    "english": "brother",
+    "gender": "m",
+    "declension": 3
+  },
+  {
+    "chapter": 8,
+    "type": "noun",
+    "latin": "laus, laudis",
+    "english": "praise, glory, fame",
+    "gender": "f",
+    "declension": 3
+  },
+  {
+    "chapter": 8,
+    "type": "noun",
+    "latin": "libertas, libertatis",
+    "english": "liberty",
+    "gender": "f",
+    "declension": 3
+  },
+  {
+    "chapter": 8,
+    "type": "noun",
+    "latin": "ratio, rationis",
+    "english": "reckoning, account; reason, judgement, consideration; system; manner, method",
+    "gender": "f",
+    "declension": 3
+  },
+  {
+    "chapter": 8,
+    "type": "noun",
+    "latin": "scriptor, scriptoris",
+    "english": "writer, author",
+    "gender": "m",
+    "declension": 3
+  },
+  {
+    "chapter": 8,
+    "type": "noun",
+    "latin": "soror, sororis",
+    "english": "sister",
+    "gender": "f",
+    "declension": 3
+  },
+  {
+    "chapter": 8,
+    "type": "noun",
+    "latin": "victoria, -ae",
+    "english": "victory",
+    "gender": "f",
+    "declension": 1
+  },
+  {
+    "chapter": 8,
+    "type": "conjunction",
+    "latin": "dum",
+    "english": "while"
+  },
+  {
+    "chapter": 8,
+    "type": "preposition",
+    "latin": "ad",
+    "english": "to, up to, near to",
+    "notes": "takes accusative"
+  },
+  {
+    "chapter": 8,
+    "type": "preposition",
+    "latin": "ex, e",
+    "english": "out of, from, from within; by reason of, on account of",
+    "notes": "takes ablative"
+  },
+  {
+    "chapter": 8,
+    "type": "adverb",
+    "latin": "numquam",
+    "english": "never"
+  },
+  {
+    "chapter": 8,
+    "type": "adverb",
+    "latin": "tamen",
+    "english": "nevertheless, still"
+  },
+  {
+    "chapter": 8,
+    "type": "verb",
+    "latin": "ago, agere, egi, actum",
+    "english": "to drive, lead, do, act; pass, spend",
+    "conjugation": 3,
+    "notes": "gratias agere: to give thanks"
+  },
+  {
+    "chapter": 8,
+    "type": "verb",
+    "latin": "demonstro, demonstrare, demonstravi, demonstratum",
+    "english": "to point out, show, demonstrate",
+    "conjugation": 1
+  },
+  {
+    "chapter": 8,
+    "type": "verb",
+    "latin": "disco, discere, didici, -",
+    "english": "to learn",
+    "conjugation": 3
+  },
+  {
+    "chapter": 8,
+    "type": "verb",
+    "latin": "doceo, docere, docui, doctum",
+    "english": "to teach",
+    "conjugation": 2
+  },
+  {
+    "chapter": 8,
+    "type": "verb",
+    "latin": "duco, ducere, duxi, ductum",
+    "english": "to lead; consider, regard; prolong",
+    "conjugation": 3
+  },
+  {
+    "chapter": 8,
+    "type": "verb",
+    "latin": "gero, gerere, gessi, gestum",
+    "english": "to carry, carry on, manage, conduct, accomplish, perform",
+    "conjugation": 3
+  },
+  {
+    "chapter": 8,
+    "type": "verb",
+    "latin": "scribo, scribere, scripsi, scriptum",
+    "english": "to write, compose",
+    "conjugation": 3
+  },
+  {
+    "chapter": 8,
+    "type": "verb",
+    "latin": "traho, trahere, traxi, tractum",
+    "english": "to draw, drag, derive",
+    "conjugation": 3
+  },
+  {
+    "chapter": 8,
+    "type": "verb",
+    "latin": "vinco, vincere, vici, victum",
+    "english": "to conquer, overcome",
+    "conjugation": 3
+  }
+]

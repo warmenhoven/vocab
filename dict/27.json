@@ -1,0 +1,181 @@
+[
+  {
+    "chapter": 27,
+    "type": "noun",
+    "latin": "delectatio, delectationis",
+    "english": "delight, pleasure, enjoyment",
+    "gender": "f",
+    "declension": 3
+  },
+  {
+    "chapter": 27,
+    "type": "noun",
+    "latin": "nepos, nepotis",
+    "english": "grandson, descendant",
+    "gender": "m",
+    "declension": 3
+  },
+  {
+    "chapter": 27,
+    "type": "noun",
+    "latin": "sol, solis",
+    "english": "sun",
+    "gender": "m",
+    "declension": 3
+  },
+  {
+    "chapter": 27,
+    "type": "adjective",
+    "latin": "diligens",
+    "english": "diligent, careful",
+    "notes": "genitive diligentis"
+  },
+  {
+    "chapter": 27,
+    "type": "adjective",
+    "latin": "dissimilis, dissimile",
+    "english": "unlike, different"
+  },
+  {
+    "chapter": 27,
+    "type": "adjective",
+    "latin": "gracilis, gracile",
+    "english": "slender, thin"
+  },
+  {
+    "chapter": 27,
+    "type": "adjective",
+    "latin": "humilis, humile",
+    "english": "lowly, humble"
+  },
+  {
+    "chapter": 27,
+    "type": "adjective",
+    "latin": "maior, -ius",
+    "english": "greater, older; (plural) ancestors"
+  },
+  {
+    "chapter": 27,
+    "type": "adjective",
+    "latin": "primus, -a, -um",
+    "english": "first, foremost, chief, principal"
+  },
+  {
+    "chapter": 27,
+    "type": "adjective",
+    "latin": "quot",
+    "english": "how many, as many as",
+    "notes": "indeclinable"
+  },
+  {
+    "chapter": 27,
+    "type": "adjective",
+    "latin": "similis, simile",
+    "english": "similar (to), like, resembling"
+  },
+  {
+    "chapter": 27,
+    "type": "adjective",
+    "latin": "superus, -a, -um",
+    "english": "above, upper"
+  },
+  {
+    "chapter": 27,
+    "type": "adjective",
+    "latin": "utilis, utile",
+    "english": "useful, advantageous"
+  },
+  {
+    "chapter": 27,
+    "type": "adjective",
+    "latin": "melior, -ius",
+    "english": "better"
+  },
+  {
+    "chapter": 27,
+    "type": "adjective",
+    "latin": "peior, -ius",
+    "english": "worse"
+  },
+  {
+    "chapter": 27,
+    "type": "adjective",
+    "latin": "plus",
+    "english": "more",
+    "notes": "NB no masc. and fem. or dat. sing; abl. sing. plure, gen. plur. plurium, neut. pl. plura"
+  },
+  {
+    "chapter": 27,
+    "type": "adjective",
+    "latin": "minor, minus",
+    "english": "smaller"
+  },
+  {
+    "chapter": 27,
+    "type": "adjective",
+    "latin": "prior, -ius",
+    "english": "former"
+  },
+  {
+    "chapter": 27,
+    "type": "adjective",
+    "latin": "superior, -ius",
+    "english": "higher"
+  },
+  {
+    "chapter": 27,
+    "type": "adjective",
+    "latin": "optimus, -a, -um",
+    "english": "best"
+  },
+  {
+    "chapter": 27,
+    "type": "adjective",
+    "latin": "maximus, -a, -um",
+    "english": "greatest"
+  },
+  {
+    "chapter": 27,
+    "type": "adjective",
+    "latin": "pessimus, -a, -um",
+    "english": "worst"
+  },
+  {
+    "chapter": 27,
+    "type": "adjective",
+    "latin": "plurimus, -a, -um",
+    "english": "most"
+  },
+  {
+    "chapter": 27,
+    "type": "adjective",
+    "latin": "minimus, -a, -um",
+    "english": "smallest"
+  },
+  {
+    "chapter": 27,
+    "type": "adjective",
+    "latin": "summus, -a, -um",
+    "english": "highest, furthest"
+  },
+  {
+    "chapter": 27,
+    "type": "adjective",
+    "latin": "supremus, -a, -um",
+    "english": "highest, last"
+  },
+  {
+    "chapter": 27,
+    "type": "verb",
+    "latin": "pono, ponere, posui, positum",
+    "english": "to put, place, set",
+    "conjugation": 3
+  },
+  {
+    "chapter": 27,
+    "type": "verb",
+    "latin": "probo, probare, probavi, probatum",
+    "english": "to test, approve, recommend",
+    "conjugation": 1
+  }
+]

@@ -1,0 +1,141 @@
+[
+  {
+    "chapter": 1,
+    "type": "pronoun",
+    "latin": "me",
+    "english": "me, myself"
+  },
+  {
+    "chapter": 1,
+    "type": "pronoun",
+    "latin": "quid",
+    "english": "what"
+  },
+  {
+    "chapter": 1,
+    "type": "noun",
+    "latin": "nihil",
+    "english": "nothing",
+    "gender": "n"
+  },
+  {
+    "chapter": 1,
+    "type": "adverb",
+    "latin": "non",
+    "english": "not"
+  },
+  {
+    "chapter": 1,
+    "type": "adverb",
+    "latin": "saepe",
+    "english": "often"
+  },
+  {
+    "chapter": 1,
+    "type": "conjunction",
+    "latin": "si",
+    "english": "if"
+  },
+  {
+    "chapter": 1,
+    "type": "verb",
+    "latin": "amo, amare, amavi, amatum",
+    "english": "to love, like",
+    "conjugation": 1,
+    "notes": "amabo te: please (I will love you)"
+  },
+  {
+    "chapter": 1,
+    "type": "verb",
+    "latin": "cogito, cogitare, cogitavi, cogitatum",
+    "english": "to think, ponder, consider, plan",
+    "conjugation": 1
+  },
+  {
+    "chapter": 1,
+    "type": "verb",
+    "latin": "debeo, debere, debui, debitum",
+    "english": "to owe; ought, must",
+    "conjugation": 2
+  },
+  {
+    "chapter": 1,
+    "type": "verb",
+    "latin": "do, dare, dedi, datum",
+    "english": "to give, offer",
+    "conjugation": 1
+  },
+  {
+    "chapter": 1,
+    "type": "verb",
+    "latin": "erro, errare, erravi, erratum",
+    "english": "to wander, err, go astray, be mistaken",
+    "conjugation": 1
+  },
+  {
+    "chapter": 1,
+    "type": "verb",
+    "latin": "laudo, laudare, laudavi, laudatum",
+    "english": "to praise",
+    "conjugation": 1
+  },
+  {
+    "chapter": 1,
+    "type": "verb",
+    "latin": "moneo, monere, monui, monitum",
+    "english": "to remind, advise, warn",
+    "conjugation": 2
+  },
+  {
+    "chapter": 1,
+    "type": "verb",
+    "latin": "salveo, salvere, -, -",
+    "english": "to be well, be in good health",
+    "notes": "salve and salvete: hello",
+    "conjugation": 2
+  },
+  {
+    "chapter": 1,
+    "type": "verb",
+    "latin": "servo, servare, servavi, servatum",
+    "english": "to preserve, save, keep, guard",
+    "conjugation": 1
+  },
+  {
+    "chapter": 1,
+    "type": "verb",
+    "latin": "conservo, conservare, conservavi, conservatum",
+    "english": "to preserve, conserve, maintain",
+    "notes": "stronger than servo",
+    "conjugation": 1
+  },
+  {
+    "chapter": 1,
+    "type": "verb",
+    "latin": "terreo, terrere, terrui, territum",
+    "english": "to frighten, terrify",
+    "conjugation": 2
+  },
+  {
+    "chapter": 1,
+    "type": "verb",
+    "latin": "valeo, valere, valui, valiturum",
+    "english": "to be strong, have power; be well",
+    "notes": "vale and valete: good-bye, farewell",
+    "conjugation": 2
+  },
+  {
+    "chapter": 1,
+    "type": "verb",
+    "latin": "video, videre, vidi, visum",
+    "english": "to see; observe, understand",
+    "conjugation": 2
+  },
+  {
+    "chapter": 1,
+    "type": "verb",
+    "latin": "voco, vocare, vocavi, vocatum",
+    "english": "to call, summon",
+    "conjugation": 1
+  }
+]

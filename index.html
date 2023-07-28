@@ -1,0 +1,244 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Latin Vocab</title>
+    <script src="index.js"></script>
+  </head>
+  <body>
+
+    <h3>Wheelock's Latin Vocabulary Tools</h3>
+
+    <form action="display.html" method="get">
+      Build a vocab list from Chapter
+      <select name="start" id="displaystart">
+      </select>
+      to Chapter
+      <select name="end" id="displayend">
+      </select>
+      containing
+      <select name="type">
+        <option value="0">All Words</option>
+        <option disabled="disabled">-----------</option>
+        <option value="noun">All Nouns</option>
+        <option value="noun 1">First Declension Nouns</option>
+        <option value="noun 2">Second Declension Nouns</option>
+        <option value="noun 3">Third Declension Nouns</option>
+        <option value="noun 3i">Third Declension I-Stem Nouns</option>
+        <option value="noun 4">Fourth Declension Nouns</option>
+        <option value="noun 5">Fifth Declension Nouns</option>
+        <option value="noun 0">Irregular Nouns</option>
+        <option disabled="disabled">-----------</option>
+        <option value="verb">All Verbs</option>
+        <option value="verb 1">First Conjugation Verbs</option>
+        <option value="verb 2">Second Conjugation Verbs</option>
+        <option value="verb 3">Third Conjugation Verbs</option>
+        <option value="verb 3i">Third Conjugation -io Verbs</option>
+        <option value="verb 4">Fourth Conjugation Verbs</option>
+        <option value="verb 0">Irregular Verbs</option>
+        <option disabled="disabled">-----------</option>
+        <option value="adjective">Adjectives</option>
+        <option value="adverb">Adverbs</option>
+        <option value="cardinal">Cardinals</option>
+        <option value="conjunction">Conjunctions</option>
+        <option value="enclitic">Enclitics</option>
+        <option value="interjection">Interjections</option>
+        <option value="ordinal">Ordinals</option>
+        <option value="preposition">Prepositions</option>
+        <option value="pronoun">Pronouns</option>
+      </select>
+      <input type="submit" value="Build" />
+    </form>
+
+    <form action="verbs.html" method="get">
+      Quiz
+      <select name="part">
+        <option value="0">all</option>
+        <option value="1">first</option>
+        <option value="2">second</option>
+        <option value="3">third</option>
+        <option value="4">fourth</option>
+      </select>
+      principal parts for verbs from Chapter
+      <select name="start" id="verbsstart">
+      </select>
+      to Chapter
+      <select name="end" id="verbsend">
+      </select>
+      <input type="submit" value="Quiz" />
+    </form>
+
+    <form action="vocab.html" method="get">
+      <select name="test">
+        <option value="some">Quiz</option>
+        <option value="all">Test</option>
+      </select>
+      vocab from Chapter
+      <select name="start" id="vocabstart">
+      </select>
+      to Chapter
+      <select name="end" id="vocabend">
+      </select>
+      from
+      <select name="english">
+        <option value="yes">Latin to English</option>
+	<option value="no">English to Latin</option>
+      </select>
+      <input type="submit" value="Quiz" />
+    </form>
+
+    <form action="numbers.html" method="get">
+      Quiz numbers from
+      <select name="english">
+        <option value="latin">Latin to English</option>
+	<option value="ordered">English to Latin, in order</option>
+	<option value="random">English to Latin, randomized</option>
+      </select>
+      <input type="submit" value="Quiz" />
+    </form>
+
+    <form action="declquiz.html" method="get">
+      Quiz
+      <select name="decl">
+        <option value="0">all</option>
+        <option value="1">first</option>
+        <option value="2">second</option>
+        <option value="3">third</option>
+        <option value="3i">third, i-stem</option>
+        <option value="4">fourth</option>
+        <option value="5">fifth</option>
+      </select>
+      declensions for nouns (random cases) from Chapter
+      <select name="start" id="declstart">
+      </select>
+      to Chapter
+      <select name="end" id="declend">
+      </select>
+      <input type="submit" value="Quiz" />
+    </form>
+
+    <form action="declgrid.html" method="get">
+      Quiz
+      <select name="decl">
+        <option value="0">all</option>
+        <option value="1">first</option>
+        <option value="2">second</option>
+        <option value="3">third</option>
+        <option value="3i">third, i-stem</option>
+        <option value="4">fourth</option>
+        <option value="5">fifth</option>
+      </select>
+      declensions for nouns (as grids) from Chapter
+      <select name="start" id="gridstart">
+      </select>
+      to Chapter
+      <select name="end" id="gridend">
+      </select>
+      <input type="submit" value="Quiz" />
+    </form>
+
+    <form action="calendar.html" method="get">
+    Create a calendar for
+      <select name="month" id="calmonth">
+      </select>
+      <select name="year" id="calyear">
+      </select>
+      <input type="submit" value="Create" />
+    </form>
+
+    <!--
+    <h3>Site Updated, Again!</h3>
+
+    <p>
+      After a long period of not making many updates to this site,
+      I've started making time (in part because I'm going back and
+      refreshing my memory). I'm now keeping a <a
+      href="ChangeLog">changelog</a>, so you'll be able to see what's
+      changing. Hopefully I'll be making some more improvements soon.
+    </p>
+    -->
+
+    <h3>Frequently Asked Questions</h3>
+
+    <p>
+      <b>It's telling me my translation is wrong, but it's not.</b><br />
+      The script is really rather stupid, and very pedantic. It splits the
+      correct answers on commas, and ignores everything inside parentheses.
+      Then it strips out various articles (as well as the infinitves' "to").
+      Finally it checks to see if your answer matches one of the correct
+      answers exactly. For example, it thinks the definition of 'quam' is
+      "(after comparatives) than; (with superlatives) as...as possible (e.g.
+      quam fortissimus, as great as possible)". It will split on the semicolon
+      and remove the parenthetical comments, so the correct answers are "than"
+      and "as...as possible". If you put in either of these, it should say it's
+      correct. If you put spaces between the periods of the ellipsis, it will
+      tell you that your answer is incorrect.
+    </p>
+    <p>
+      If I was able to explain that clearly enough, and you still
+      think it's incorrectly telling you that you're wrong, please <a
+      href="mailto:eric@warmenhoven.org">e-mail me</a>
+      (eric@warmenhoven.org).
+    </p>
+    <p>
+      The only reason why you should care if the script thinks you're correct
+      is to save yourself time checking your answers. If it thinks it's wrong,
+      your answer may very well be correct, but you'll need to then compare
+      your answer to what it thinks the correct answer is and see why it says
+      you're wrong. Don't forget, spelling is important.
+    </p>
+
+    <p>
+      <b>Are you going to add a verb form/conjugation drill or flash
+      cards?</b><br />
+      Hopefully soon!
+    </p>
+
+    <p>
+      <b>Are you going to add the words used in Wheelock's but not in the
+      Chapters' vocabulary lists?</b><br />
+      If I have the time. If you have the time, send them to me and I'll be
+      happy to add them.
+    </p>
+
+    <p>
+      <b>This page is really ugly; you should fix that.</b><br />
+      I know.
+    </p>
+
+    <h3>About This Page</h3>
+
+    <p>
+      Originally I had been using <!--<a
+      href="http://cheiron.humanities.mcmaster.ca/~barrette/latin/">this</a>-->
+      another Latin vocab site, which was very useful. However, there
+      were enough things wrong with it, and the author seemed to be
+      absent for long enough, that I decided to create my own based on
+      it. I downloaded the vocabulary database and converted it to
+      XML, and wrote several PHP scripts. All the PHP and XML files
+      are available for download (<a href="site.tgz">tgz</a>, <a
+      href="site.zip">zip</a>).
+    </p>
+
+    <p>
+      I've tried to correct a lot of little errors with the dictionary
+      (e.g. 'cecidi' instead of 'cecedi'). If you notice anything
+      wrong with any of these pages, please <a
+      href="mailto:eric@warmenhoven.org">e-mail me</a>
+      (eric@warmenhoven.org). I'll try to respond to email I get about
+      this site in a timely manner.
+    </p>
+
+    <p align="center">
+      <script type="text/javascript"><!--
+      google_ad_client = "pub-7643919961248886";
+      google_ad_width = 728;
+      google_ad_height = 90;
+      google_ad_format = "728x90_as";
+      google_ad_type = "text";
+      google_ad_channel ="";
+      //--></script>
+      <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+    </p>
+  </body>
+</html>

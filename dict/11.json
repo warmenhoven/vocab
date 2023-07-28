@@ -1,0 +1,117 @@
+[
+  {
+    "chapter": 11,
+    "type": "noun",
+    "latin": "caput, capitis",
+    "english": "head; leader; beginning; life; heading; chapter",
+    "gender": "n",
+    "declension": 3
+  },
+  {
+    "chapter": 11,
+    "type": "noun",
+    "latin": "consul, consulis",
+    "english": "consul",
+    "gender": "m",
+    "declension": 3
+  },
+  {
+    "chapter": 11,
+    "type": "noun",
+    "latin": "nemo, neminis",
+    "english": "no one, nobody",
+    "gender": "m. or f",
+    "declension": 3
+  },
+  {
+    "chapter": 11,
+    "type": "pronoun",
+    "latin": "ego, mei",
+    "english": "I"
+  },
+  {
+    "chapter": 11,
+    "type": "pronoun",
+    "latin": "tu, tui",
+    "english": "you"
+  },
+  {
+    "chapter": 11,
+    "type": "pronoun",
+    "latin": "is, ea, id",
+    "english": "this, that; he, she, it",
+    "notes": "demonstrative"
+  },
+  {
+    "chapter": 11,
+    "type": "pronoun",
+    "latin": "idem, eadem, idem",
+    "english": "the same",
+    "notes": "demonstrative"
+  },
+  {
+    "chapter": 11,
+    "type": "adjective",
+    "latin": "amicus, -a, -um",
+    "english": "friendly"
+  },
+  {
+    "chapter": 11,
+    "type": "adjective",
+    "latin": "carus, -a, -um",
+    "english": "dear"
+  },
+  {
+    "chapter": 11,
+    "type": "conjunction",
+    "latin": "quod",
+    "english": "because"
+  },
+  {
+    "chapter": 11,
+    "type": "conjunction",
+    "latin": "neque, nec",
+    "english": "and not, nor",
+    "notes": "neque...neque (or nec...nec): neither...nor"
+  },
+  {
+    "chapter": 11,
+    "type": "conjunction",
+    "latin": "autem",
+    "english": "however; moreover",
+    "notes": "postpositive"
+  },
+  {
+    "chapter": 11,
+    "type": "adverb",
+    "latin": "bene",
+    "english": "well, satisfactorily, quite"
+  },
+  {
+    "chapter": 11,
+    "type": "adverb",
+    "latin": "etiam",
+    "english": "even"
+  },
+  {
+    "chapter": 11,
+    "type": "verb",
+    "latin": "intellego, intellegere, intellexi, intellectum",
+    "english": "to understand",
+    "conjugation": 3
+  },
+  {
+    "chapter": 11,
+    "type": "verb",
+    "latin": "mitto, mittere, misi, missum",
+    "english": "to send, let go",
+    "conjugation": 3
+  },
+  {
+    "chapter": 11,
+    "type": "verb",
+    "latin": "sentio, sentire, sensi, sensum",
+    "english": "to feel, perceive, think, experience",
+    "conjugation": 4
+  }
+]

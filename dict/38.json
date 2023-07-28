@@ -1,0 +1,157 @@
+[
+  {
+    "chapter": 38,
+    "type": "noun",
+    "latin": "arbor, arboris",
+    "english": "tree",
+    "gender": "f",
+    "declension": 3
+  },
+  {
+    "chapter": 38,
+    "type": "noun",
+    "latin": "dignitas, dignitatis",
+    "english": "merit, prestige, dignity",
+    "gender": "f",
+    "declension": 3
+  },
+  {
+    "chapter": 38,
+    "type": "noun",
+    "latin": "dolor, doloris",
+    "english": "pain, grief",
+    "gender": "m",
+    "declension": 3
+  },
+  {
+    "chapter": 38,
+    "type": "noun",
+    "latin": "odium, -ii",
+    "english": "hatred",
+    "gender": "n",
+    "declension": 2
+  },
+  {
+    "chapter": 38,
+    "type": "noun",
+    "latin": "opus, operis",
+    "english": "a work, task; deed, accomplishment",
+    "gender": "n",
+    "declension": 3
+  },
+  {
+    "chapter": 38,
+    "type": "noun",
+    "latin": "oratio, orationis",
+    "english": "speech",
+    "gender": "f",
+    "declension": 3
+  },
+  {
+    "chapter": 38,
+    "type": "noun",
+    "latin": "pes, pedis",
+    "english": "lower leg, foot",
+    "gender": "m",
+    "declension": 3
+  },
+  {
+    "chapter": 38,
+    "type": "noun",
+    "latin": "sator, satoris",
+    "english": "sower, planter; begetter, father; founder",
+    "gender": "m",
+    "declension": 3
+  },
+  {
+    "chapter": 38,
+    "type": "adjective",
+    "latin": "firmus, -a, -um",
+    "english": "firm, strong, reliable"
+  },
+  {
+    "chapter": 38,
+    "type": "adjective",
+    "latin": "infirmus, -a, -um",
+    "english": "not strong, weak, feeble"
+  },
+  {
+    "chapter": 38,
+    "type": "adjective",
+    "latin": "mirabilis, mirabile",
+    "english": "amazing, wondrous, remarkable"
+  },
+  {
+    "chapter": 38,
+    "type": "adjective",
+    "latin": "pristinus, -a, -um",
+    "english": "ancient; former, previous"
+  },
+  {
+    "chapter": 38,
+    "type": "adjective",
+    "latin": "sublimis, sublime",
+    "english": "elevated, lofty; heroic, noble"
+  },
+  {
+    "chapter": 38,
+    "type": "conjunction",
+    "latin": "etsi",
+    "english": "even if, although"
+  },
+  {
+    "chapter": 38,
+    "type": "preposition",
+    "latin": "erga",
+    "english": "toward",
+    "notes": "takes accusative"
+  },
+  {
+    "chapter": 38,
+    "type": "adverb",
+    "latin": "libenter",
+    "english": "with pleasure, gladly"
+  },
+  {
+    "chapter": 38,
+    "type": "verb",
+    "latin": "impedio, impedire, impedivi, impeditum",
+    "english": "to impede, hinder, prevent",
+    "conjugation": 4
+  },
+  {
+    "chapter": 38,
+    "type": "verb",
+    "latin": "metuo, metuere, metui, -",
+    "english": "to fear, dread",
+    "conjugation": 3
+  },
+  {
+    "chapter": 38,
+    "type": "verb",
+    "latin": "queror, queri, questus sum, -",
+    "english": "to complain, lament",
+    "conjugation": 3
+  },
+  {
+    "chapter": 38,
+    "type": "verb",
+    "latin": "recognosco, recognoscere, recognovi, recognitum",
+    "english": "to recognize, recollect",
+    "conjugation": 3
+  },
+  {
+    "chapter": 38,
+    "type": "verb",
+    "latin": "suspendo, suspendere, suspendi, suspensum",
+    "english": "to hang up, suspend; interrupt",
+    "conjugation": 3
+  },
+  {
+    "chapter": 38,
+    "type": "verb",
+    "latin": "vendo, vendere, vendidi, venditum",
+    "english": "to sell",
+    "conjugation": 3
+  }
+]

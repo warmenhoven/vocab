@@ -1,0 +1,125 @@
+[
+  {
+    "chapter": 25,
+    "type": "noun",
+    "latin": "lingua, -ae",
+    "english": "tongue; language",
+    "gender": "f",
+    "declension": 1
+  },
+  {
+    "chapter": 25,
+    "type": "adjective",
+    "latin": "ferox",
+    "english": "fierce, savage",
+    "notes": "genitive ferocis"
+  },
+  {
+    "chapter": 25,
+    "type": "adjective",
+    "latin": "fidelis, fidele",
+    "english": "faithful, loyal"
+  },
+  {
+    "chapter": 25,
+    "type": "adjective",
+    "latin": "geminus, -a, -um",
+    "english": "twin"
+  },
+  {
+    "chapter": 25,
+    "type": "adjective",
+    "latin": "sapiens",
+    "english": "wise, judicious; (as a noun) a wise man, philosopher",
+    "notes": "genitive sapientis"
+  },
+  {
+    "chapter": 25,
+    "type": "adjective",
+    "latin": "ultimus, -a, -um",
+    "english": "farthest, extreme; last, final"
+  },
+  {
+    "chapter": 25,
+    "type": "adverb",
+    "latin": "dehinc",
+    "english": "then"
+  },
+  {
+    "chapter": 25,
+    "type": "adverb",
+    "latin": "hic",
+    "english": "here"
+  },
+  {
+    "chapter": 25,
+    "type": "verb",
+    "latin": "ait, -, -, -",
+    "english": "he says, they say, assert",
+    "conjugation": 0,
+    "notes": "or aiunt"
+  },
+  {
+    "chapter": 25,
+    "type": "verb",
+    "latin": "credo, credere, credidi, creditum",
+    "english": "to believe, trust",
+    "conjugation": 3
+  },
+  {
+    "chapter": 25,
+    "type": "verb",
+    "latin": "iaceo, iacere, iacui, -",
+    "english": "to lie, lie prostrate, lie dead",
+    "conjugation": 2
+  },
+  {
+    "chapter": 25,
+    "type": "verb",
+    "latin": "nego, negare, negavi, negatum",
+    "english": "to deny, say that...not",
+    "conjugation": 1
+  },
+  {
+    "chapter": 25,
+    "type": "verb",
+    "latin": "nescio, nescire, nescivi, nescitum",
+    "english": "not to know, be ignorant",
+    "conjugation": 4
+  },
+  {
+    "chapter": 25,
+    "type": "verb",
+    "latin": "nuntio, nuntiare, nuntiavi, nuntiatum",
+    "english": "to announce, report, relate",
+    "conjugation": 1
+  },
+  {
+    "chapter": 25,
+    "type": "verb",
+    "latin": "patefacio, patefacere, patefeci, patefactum",
+    "english": "to make open, open; disclose, expose",
+    "conjugation": "3i"
+  },
+  {
+    "chapter": 25,
+    "type": "verb",
+    "latin": "puto, putare, putavi, putatum",
+    "english": "to clean, trim; reckon, suppose, judge, think, imagine",
+    "conjugation": 1
+  },
+  {
+    "chapter": 25,
+    "type": "verb",
+    "latin": "spero, sperare, speravi, speratum",
+    "english": "to hope for, hope",
+    "conjugation": 1
+  },
+  {
+    "chapter": 25,
+    "type": "verb",
+    "latin": "suscipio, suscipere, suscepi, susceptum",
+    "english": "to undertake",
+    "conjugation": "3i"
+  }
+]

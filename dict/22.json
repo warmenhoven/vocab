@@ -1,0 +1,136 @@
+[
+  {
+    "chapter": 22,
+    "type": "noun",
+    "latin": "dies, diei",
+    "english": "day",
+    "gender": "m",
+    "declension": 5
+  },
+  {
+    "chapter": 22,
+    "type": "noun",
+    "latin": "ferrum, -i",
+    "english": "iron; sword",
+    "gender": "n",
+    "declension": 2
+  },
+  {
+    "chapter": 22,
+    "type": "noun",
+    "latin": "fides, fidei",
+    "english": "faith, trust, trustworthiness, fidelity, promise, guarantee, protection",
+    "gender": "f",
+    "declension": 5
+  },
+  {
+    "chapter": 22,
+    "type": "noun",
+    "latin": "ignis, ignis",
+    "english": "fire",
+    "gender": "m",
+    "declension": "3i"
+  },
+  {
+    "chapter": 22,
+    "type": "noun",
+    "latin": "modus, -i",
+    "english": "measure, bound, limit; manner, method, mode, way",
+    "gender": "m",
+    "declension": 2
+  },
+  {
+    "chapter": 22,
+    "type": "noun",
+    "latin": "res, rei",
+    "english": "thing, matter, business, affair",
+    "gender": "f",
+    "declension": 5
+  },
+  {
+    "chapter": 22,
+    "type": "noun",
+    "latin": "spes, spei",
+    "english": "hope",
+    "gender": "f",
+    "declension": 5
+  },
+  {
+    "chapter": 22,
+    "type": "adjective",
+    "latin": "aequus, -a, -um",
+    "english": "level, even; calm; equal, just; favorable"
+  },
+  {
+    "chapter": 22,
+    "type": "adjective",
+    "latin": "felix, felicis",
+    "english": "lucky, fortunate, happy"
+  },
+  {
+    "chapter": 22,
+    "type": "adjective",
+    "latin": "incertus, -a, -um",
+    "english": "uncertain, unsure, doubtful"
+  },
+  {
+    "chapter": 22,
+    "type": "adjective",
+    "latin": "Latinus, -a, -um",
+    "english": "Latin"
+  },
+  {
+    "chapter": 22,
+    "type": "adjective",
+    "latin": "medius, -a, -um",
+    "english": "middle"
+  },
+  {
+    "chapter": 22,
+    "type": "adverb",
+    "latin": "quondam",
+    "english": "formerly, once"
+  },
+  {
+    "chapter": 22,
+    "type": "adverb, preposition",
+    "latin": "ultra",
+    "english": "on the other side, beyond",
+    "notes": "takes accusative"
+  },
+  {
+    "chapter": 22,
+    "type": "adverb",
+    "latin": "protinus",
+    "english": "immediately"
+  },
+  {
+    "chapter": 22,
+    "type": "verb",
+    "latin": "cerno, cernere, crevi, cretum",
+    "english": "to distinguish, discern, perceive",
+    "conjugation": 3
+  },
+  {
+    "chapter": 22,
+    "type": "verb",
+    "latin": "eripio, eripere, eripui, ereptum",
+    "english": "to snatch away, take away; rescue",
+    "conjugation": "3i"
+  },
+  {
+    "chapter": 22,
+    "type": "verb",
+    "latin": "inquit, -, -, -",
+    "english": "he says, he said",
+    "conjugation": 0,
+    "notes": "defective verb placed after one or more words of direct quotation"
+  },
+  {
+    "chapter": 22,
+    "type": "verb",
+    "latin": "tollo, tollere, sustuli, sublatum",
+    "english": "to raise, lift up; take away, remove, destroy",
+    "conjugation": 3
+  }
+]

@@ -1,0 +1,130 @@
+[
+  {
+    "chapter": 39,
+    "type": "noun",
+    "latin": "aedificium, -ii",
+    "english": "building, structure",
+    "gender": "n",
+    "declension": 2
+  },
+  {
+    "chapter": 39,
+    "type": "noun",
+    "latin": "iniuria, -ae",
+    "english": "injustice, injury, wrong",
+    "gender": "f",
+    "declension": 1
+  },
+  {
+    "chapter": 39,
+    "type": "noun",
+    "latin": "mulier, mulieris",
+    "english": "woman",
+    "gender": "f",
+    "declension": 3
+  },
+  {
+    "chapter": 39,
+    "type": "noun",
+    "latin": "transitus, -us",
+    "english": "passing over, transit, transition",
+    "gender": "m",
+    "declension": 4
+  },
+  {
+    "chapter": 39,
+    "type": "noun",
+    "latin": "ventus, -i",
+    "english": "wind",
+    "gender": "m",
+    "declension": 2
+  },
+  {
+    "chapter": 39,
+    "type": "adjective",
+    "latin": "cupidus, -a, -um",
+    "english": "desirous, eager, fond; (with gen.) desirous of, eager for"
+  },
+  {
+    "chapter": 39,
+    "type": "adjective",
+    "latin": "liberalis, liberale",
+    "english": "of or relating to a free person; worthy of a free man, decent, liberal; generous"
+  },
+  {
+    "chapter": 39,
+    "type": "adjective",
+    "latin": "necesse",
+    "english": "necessary, inevitable",
+    "notes": "indeclinable"
+  },
+  {
+    "chapter": 39,
+    "type": "adjective",
+    "latin": "vetus",
+    "english": "old",
+    "notes": "genitive veteris"
+  },
+  {
+    "chapter": 39,
+    "type": "adverb, conjunction",
+    "latin": "quasi",
+    "english": "as if, as it were"
+  },
+  {
+    "chapter": 39,
+    "type": "verb",
+    "latin": "ambulo, ambulare, ambulavi, ambulatum",
+    "english": "to walk",
+    "conjugation": 1
+  },
+  {
+    "chapter": 39,
+    "type": "verb",
+    "latin": "experior, experiri, expertus sum, -",
+    "english": "to try, test, experience",
+    "conjugation": 4
+  },
+  {
+    "chapter": 39,
+    "type": "verb",
+    "latin": "libo, libare, libavi, libatum",
+    "english": "to pour a libation of, pour a libation on; to pour ritually; to sip, touch gently",
+    "conjugation": 1
+  },
+  {
+    "chapter": 39,
+    "type": "verb",
+    "latin": "oportet, oportere, oportuit, -",
+    "english": "it is proper, right, necessary",
+    "conjugation": 0
+  },
+  {
+    "chapter": 39,
+    "type": "verb",
+    "latin": "oppugno, oppugnare, oppugnavi, oppugnatum",
+    "english": "to fight against, attack, assault, assail",
+    "conjugation": 1
+  },
+  {
+    "chapter": 39,
+    "type": "verb",
+    "latin": "orno, ornare, ornavi, ornatum",
+    "english": "to equip, furnish, adorn",
+    "conjugation": 1
+  },
+  {
+    "chapter": 39,
+    "type": "verb",
+    "latin": "pernocto, pernoctare, pernoctavi, pernoctatum",
+    "english": "to spend the night, occupy the night",
+    "conjugation": 1
+  },
+  {
+    "chapter": 39,
+    "type": "verb",
+    "latin": "transeo, transire, transii, transitum",
+    "english": "to go across, cross; pass over, ignore",
+    "conjugation": 0
+  }
+]

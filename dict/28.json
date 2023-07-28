@@ -1,0 +1,128 @@
+[
+  {
+    "chapter": 28,
+    "type": "noun",
+    "latin": "arma, -orum",
+    "english": "arms, weapons",
+    "gender": "n",
+    "declension": 2,
+    "notes": "always plural",
+    "plural": true
+  },
+  {
+    "chapter": 28,
+    "type": "noun",
+    "latin": "cursus, -us",
+    "english": "running, race; course",
+    "gender": "m",
+    "declension": 4
+  },
+  {
+    "chapter": 28,
+    "type": "noun",
+    "latin": "luna, -ae",
+    "english": "moon",
+    "gender": "f",
+    "declension": 1
+  },
+  {
+    "chapter": 28,
+    "type": "noun",
+    "latin": "occasio, occasionis",
+    "english": "occasion, opportunity",
+    "gender": "f",
+    "declension": 3
+  },
+  {
+    "chapter": 28,
+    "type": "noun",
+    "latin": "parens, parentis",
+    "english": "parent",
+    "gender": "m. or f",
+    "declension": 3
+  },
+  {
+    "chapter": 28,
+    "type": "noun",
+    "latin": "stella, -ae",
+    "english": "star, planet",
+    "gender": "f",
+    "declension": 1
+  },
+  {
+    "chapter": 28,
+    "type": "noun",
+    "latin": "vesper, vesperis",
+    "english": "evening",
+    "gender": "m",
+    "declension": 3,
+    "notes": "genitive singular may also be vesperi"
+  },
+  {
+    "chapter": 28,
+    "type": "adjective",
+    "latin": "mortuus, -a, -um",
+    "english": "dead"
+  },
+  {
+    "chapter": 28,
+    "type": "adjective",
+    "latin": "princeps",
+    "english": "chief, foremost; (m. or f. noun) leader, emperor",
+    "notes": "genitive principis"
+  },
+  {
+    "chapter": 28,
+    "type": "conjunction",
+    "latin": "ut (+ subj.)",
+    "english": "in order that, so that, that, in order to, so as to, to; (with indicative) as, when"
+  },
+  {
+    "chapter": 28,
+    "type": "adverb, conjunction",
+    "latin": "ne",
+    "english": "not; in order that...not, that...not, in order not to"
+  },
+  {
+    "chapter": 28,
+    "type": "verb",
+    "latin": "cedo, cedere, cessi, cessum",
+    "english": "to go, withdraw; yield to, grant, submit",
+    "conjugation": 3
+  },
+  {
+    "chapter": 28,
+    "type": "verb",
+    "latin": "dedico, dedicare, dedicavi, dedicatum",
+    "english": "to dedicate",
+    "conjugation": 1
+  },
+  {
+    "chapter": 28,
+    "type": "verb",
+    "latin": "egeo, egere, egui, -",
+    "english": "to need, lack, want",
+    "conjugation": 2
+  },
+  {
+    "chapter": 28,
+    "type": "verb",
+    "latin": "expleo, explere, explevi, expletum",
+    "english": "to fill, fill up, complete",
+    "conjugation": 2
+  },
+  {
+    "chapter": 28,
+    "type": "verb",
+    "latin": "praesto, praestare, praestiti, praestitum",
+    "english": "to excel; exhibit, show, offer, supply, furnish",
+    "conjugation": 1
+  },
+  {
+    "chapter": 28,
+    "type": "verb",
+    "latin": "taceo, tacere, tacui, tacitum",
+    "english": "to be silent, leave unmentioned",
+    "conjugation": 2
+  }
+]

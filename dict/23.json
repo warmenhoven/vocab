@@ -1,0 +1,147 @@
+[
+  {
+    "chapter": 23,
+    "type": "noun",
+    "latin": "arx, arcis",
+    "english": "citadel, stronghold",
+    "gender": "f",
+    "declension": "3i"
+  },
+  {
+    "chapter": 23,
+    "type": "noun",
+    "latin": "dux, ducis",
+    "english": "leader, guide; commander, general",
+    "gender": "m",
+    "declension": 3
+  },
+  {
+    "chapter": 23,
+    "type": "noun",
+    "latin": "equus, -i",
+    "english": "horse",
+    "gender": "m",
+    "declension": 2
+  },
+  {
+    "chapter": 23,
+    "type": "noun",
+    "latin": "hasta, -ae",
+    "english": "spear",
+    "gender": "f",
+    "declension": 1
+  },
+  {
+    "chapter": 23,
+    "type": "noun",
+    "latin": "insula, -ae",
+    "english": "island",
+    "gender": "f",
+    "declension": 1
+  },
+  {
+    "chapter": 23,
+    "type": "noun",
+    "latin": "litus, litoris",
+    "english": "shore, coast",
+    "gender": "n",
+    "declension": 3
+  },
+  {
+    "chapter": 23,
+    "type": "noun",
+    "latin": "miles, militis",
+    "english": "soldier",
+    "gender": "m",
+    "declension": 3
+  },
+  {
+    "chapter": 23,
+    "type": "noun",
+    "latin": "orator, oratoris",
+    "english": "orator, speaker",
+    "gender": "m",
+    "declension": 3
+  },
+  {
+    "chapter": 23,
+    "type": "noun",
+    "latin": "sacerdos, sacerdotis",
+    "english": "priest",
+    "gender": "m",
+    "declension": 3
+  },
+  {
+    "chapter": 23,
+    "type": "pronoun",
+    "latin": "aliquis, aliquid",
+    "english": "someone, somebody, something"
+  },
+  {
+    "chapter": 23,
+    "type": "pronoun",
+    "latin": "quisquis, quidquid",
+    "english": "whoever, whatever"
+  },
+  {
+    "chapter": 23,
+    "type": "adjective",
+    "latin": "magnanimus, -a, -um",
+    "english": "great-hearted, brave, magnanimous"
+  },
+  {
+    "chapter": 23,
+    "type": "adverb",
+    "latin": "umquam",
+    "english": "ever, at any time"
+  },
+  {
+    "chapter": 23,
+    "type": "verb",
+    "latin": "educo, educare, educavi, educatum",
+    "english": "to bring up, educate",
+    "conjugation": 1
+  },
+  {
+    "chapter": 23,
+    "type": "verb",
+    "latin": "gaudeo, gaudere, gavisus sum, -",
+    "english": "to be glad, rejoice",
+    "conjugation": 2
+  },
+  {
+    "chapter": 23,
+    "type": "verb",
+    "latin": "ostendo, ostendere, ostendi, ostentum",
+    "english": "to exhibit, show, display",
+    "conjugation": 3
+  },
+  {
+    "chapter": 23,
+    "type": "verb",
+    "latin": "peto, petere, petivi, petitum",
+    "english": "to seek, aim at, beg, beseech",
+    "conjugation": 3
+  },
+  {
+    "chapter": 23,
+    "type": "verb",
+    "latin": "premo, premere, pressi, pressum",
+    "english": "to press, press hard, pursue",
+    "conjugation": 3
+  },
+  {
+    "chapter": 23,
+    "type": "verb",
+    "latin": "opprimo, opprimere, oppressi, oppressum",
+    "english": "to suppress, overwhelm, overpower, check",
+    "conjugation": 3
+  },
+  {
+    "chapter": 23,
+    "type": "verb",
+    "latin": "verto, vertere, verti, versum",
+    "english": "to turn; change",
+    "conjugation": 3
+  }
+]

@@ -1,0 +1,144 @@
+[
+  {
+    "chapter": 36,
+    "type": "noun",
+    "latin": "cupido, cupidinis",
+    "english": "desire, passion",
+    "gender": "f",
+    "declension": 3
+  },
+  {
+    "chapter": 36,
+    "type": "noun",
+    "latin": "lector, lectoris",
+    "english": "reader",
+    "gender": "m",
+    "declension": 3
+  },
+  {
+    "chapter": 36,
+    "type": "noun",
+    "latin": "lectrix, lectricis",
+    "english": "reader",
+    "gender": "f",
+    "declension": 3
+  },
+  {
+    "chapter": 36,
+    "type": "noun",
+    "latin": "vinculum, -i",
+    "english": "bond, chain, fetter",
+    "gender": "n",
+    "declension": 2
+  },
+  {
+    "chapter": 36,
+    "type": "adverb",
+    "latin": "cotidie",
+    "english": "daily, every day"
+  },
+  {
+    "chapter": 36,
+    "type": "adverb",
+    "latin": "fortasse",
+    "english": "perhaps"
+  },
+  {
+    "chapter": 36,
+    "type": "verb",
+    "latin": "accedo, accedere, accessi, accessum",
+    "english": "to come (to), approach",
+    "conjugation": 3
+  },
+  {
+    "chapter": 36,
+    "type": "verb",
+    "latin": "carpo, carpere, carpsi, carptum",
+    "english": "to harvest, pluck, seize",
+    "conjugation": 3
+  },
+  {
+    "chapter": 36,
+    "type": "verb",
+    "latin": "cogo, cogere, coegi, coactum",
+    "english": "to drive together, bring together, force, compel",
+    "conjugation": 3
+  },
+  {
+    "chapter": 36,
+    "type": "verb",
+    "latin": "contemno, contemnere, contempsi, contemptum",
+    "english": "to despise, scorn",
+    "conjugation": 3
+  },
+  {
+    "chapter": 36,
+    "type": "verb",
+    "latin": "contundo, contundere, contudi, contusum",
+    "english": "to beat, crush, bruise, destroy",
+    "conjugation": 3
+  },
+  {
+    "chapter": 36,
+    "type": "verb",
+    "latin": "curo, curare, curavi, curatum",
+    "english": "to care for, attend to; heal, cure; take care",
+    "conjugation": 1
+  },
+  {
+    "chapter": 36,
+    "type": "verb",
+    "latin": "decerno, decernere, decrevi, decretum",
+    "english": "to decide, settle, decree",
+    "conjugation": 3
+  },
+  {
+    "chapter": 36,
+    "type": "verb",
+    "latin": "exigo, exigere, exegi, exactum",
+    "english": "to drive out, force out, exact; drive through, complete, perfect",
+    "conjugation": 3
+  },
+  {
+    "chapter": 36,
+    "type": "verb",
+    "latin": "fio, fieri, factus sum, -",
+    "english": "to occur, happen, become; be made, be done",
+    "conjugation": 0
+  },
+  {
+    "chapter": 36,
+    "type": "verb",
+    "latin": "oblecto, oblectare, oblectavi, oblectatum",
+    "english": "to please, amuse, delight; pass time pleasantly",
+    "conjugation": 1
+  },
+  {
+    "chapter": 36,
+    "type": "verb",
+    "latin": "oro, orare, oravi, oratum",
+    "english": "to speak, plead; beg, beseech, entreat",
+    "conjugation": 1
+  },
+  {
+    "chapter": 36,
+    "type": "verb",
+    "latin": "recreo, recreare, recreavi, recreatum",
+    "english": "to restore, revive; refresh, cheer",
+    "conjugation": 1
+  },
+  {
+    "chapter": 36,
+    "type": "verb",
+    "latin": "requiro, requirere, requisivi, requisitum",
+    "english": "to seek, ask for, miss, need, require",
+    "conjugation": 3
+  },
+  {
+    "chapter": 36,
+    "type": "verb",
+    "latin": "sereno, serenare, serenavi, serenatum",
+    "english": "to make clear, brighten; cheer up, soothe",
+    "conjugation": 1
+  }
+]

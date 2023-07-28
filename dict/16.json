@@ -1,0 +1,137 @@
+[
+  {
+    "chapter": 16,
+    "type": "noun",
+    "latin": "aetas, aetatis",
+    "english": "period of life, life, age, an age, time",
+    "gender": "f",
+    "declension": 3
+  },
+  {
+    "chapter": 16,
+    "type": "noun",
+    "latin": "auditor, auditoris",
+    "english": "hearer, listener, member of an audience",
+    "gender": "m",
+    "declension": 3
+  },
+  {
+    "chapter": 16,
+    "type": "noun",
+    "latin": "clementia, -ae",
+    "english": "mildness, gentleness, mercy",
+    "gender": "f",
+    "declension": 1
+  },
+  {
+    "chapter": 16,
+    "type": "noun",
+    "latin": "mens, mentis",
+    "english": "mind, thought, intention",
+    "gender": "f",
+    "declension": "3i"
+  },
+  {
+    "chapter": 16,
+    "type": "noun",
+    "latin": "satura, -ae",
+    "english": "satire",
+    "gender": "f",
+    "declension": 1
+  },
+  {
+    "chapter": 16,
+    "type": "adjective",
+    "latin": "acer, acris, acre",
+    "english": "sharp, keen, eager; severe, fierce"
+  },
+  {
+    "chapter": 16,
+    "type": "adjective",
+    "latin": "brevis, breve",
+    "english": "short, small, brief"
+  },
+  {
+    "chapter": 16,
+    "type": "adjective",
+    "latin": "celer, celeris, celere",
+    "english": "swift, quick, rapid"
+  },
+  {
+    "chapter": 16,
+    "type": "adjective",
+    "latin": "difficilis, difficile",
+    "english": "hard, difficult, troublesome"
+  },
+  {
+    "chapter": 16,
+    "type": "adjective",
+    "latin": "dulcis, dulce",
+    "english": "sweet; pleasant, agreeable"
+  },
+  {
+    "chapter": 16,
+    "type": "adjective",
+    "latin": "facilis, facile",
+    "english": "easy, agreeable"
+  },
+  {
+    "chapter": 16,
+    "type": "adjective",
+    "latin": "fortis, forte",
+    "english": "strong, brave"
+  },
+  {
+    "chapter": 16,
+    "type": "adjective",
+    "latin": "ingens",
+    "english": "huge",
+    "notes": "genitive ingentis"
+  },
+  {
+    "chapter": 16,
+    "type": "adjective",
+    "latin": "iucundus, -a, -um",
+    "english": "pleasant, delightful, agreeable, pleasing"
+  },
+  {
+    "chapter": 16,
+    "type": "adjective",
+    "latin": "longus, -a, -um",
+    "english": "long"
+  },
+  {
+    "chapter": 16,
+    "type": "adjective",
+    "latin": "omnis, omne",
+    "english": "every, all"
+  },
+  {
+    "chapter": 16,
+    "type": "adjective",
+    "latin": "potens",
+    "english": "able, powerful, mighty, strong",
+    "notes": "genitive potentis"
+  },
+  {
+    "chapter": 16,
+    "type": "adjective, noun",
+    "latin": "senex, senis",
+    "english": "old, aged; old man",
+    "gender": "m",
+    "declension": 3
+  },
+  {
+    "chapter": 16,
+    "type": "adverb",
+    "latin": "quam",
+    "english": "how"
+  },
+  {
+    "chapter": 16,
+    "type": "verb",
+    "latin": "rego, regere, rexi, rectum",
+    "english": "to rule, guide, direct",
+    "conjugation": 3
+  }
+]

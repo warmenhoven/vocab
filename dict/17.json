@@ -1,0 +1,111 @@
+[
+  {
+    "chapter": 17,
+    "type": "noun",
+    "latin": "libellus, -i",
+    "english": "little book",
+    "gender": "m",
+    "declension": 2
+  },
+  {
+    "chapter": 17,
+    "type": "pronoun",
+    "latin": "qui, quae, quod",
+    "english": "who, which, what, that"
+  },
+  {
+    "chapter": 17,
+    "type": "adjective",
+    "latin": "caecus, -a, -um",
+    "english": "blind"
+  },
+  {
+    "chapter": 17,
+    "type": "adjective",
+    "latin": "levis, leve",
+    "english": "light, slight, easy, trivial"
+  },
+  {
+    "chapter": 17,
+    "type": "conjunction",
+    "latin": "aut",
+    "english": "or",
+    "notes": "aut...aut: either...or"
+  },
+  {
+    "chapter": 17,
+    "type": "adverb",
+    "latin": "cito",
+    "english": "quickly"
+  },
+  {
+    "chapter": 17,
+    "type": "adverb",
+    "latin": "quoque",
+    "english": "also, too"
+  },
+  {
+    "chapter": 17,
+    "type": "verb",
+    "latin": "admitto, admittere, admisi, admissum",
+    "english": "to admit, receive, let in",
+    "conjugation": 3
+  },
+  {
+    "chapter": 17,
+    "type": "verb",
+    "latin": "-, coepisse, coepi, coeptum",
+    "english": "began",
+    "conjugation": 0,
+    "notes": "only used in the perfect system"
+  },
+  {
+    "chapter": 17,
+    "type": "verb",
+    "latin": "cupio, cupere, cupivi, cupitum",
+    "english": "to desire, wish, long for",
+    "conjugation": "3i"
+  },
+  {
+    "chapter": 17,
+    "type": "verb",
+    "latin": "deleo, delere, delevi, deletum",
+    "english": "to destroy, wipe out, erase",
+    "conjugation": 2
+  },
+  {
+    "chapter": 17,
+    "type": "verb",
+    "latin": "desidero, desiderare, desideravi, desideratum",
+    "english": "to desire, long for, miss",
+    "conjugation": 1
+  },
+  {
+    "chapter": 17,
+    "type": "verb",
+    "latin": "incipio, incipere, incepi, inceptum",
+    "english": "to begin",
+    "conjugation": "3i"
+  },
+  {
+    "chapter": 17,
+    "type": "verb",
+    "latin": "navigo, navigare, navigavi, navigatum",
+    "english": "to sail, navigate",
+    "conjugation": 1
+  },
+  {
+    "chapter": 17,
+    "type": "verb",
+    "latin": "neglego, neglegere, neglexi, neglectum",
+    "english": "to neglect, disregard",
+    "conjugation": 3
+  },
+  {
+    "chapter": 17,
+    "type": "verb",
+    "latin": "recito, recitare, recitavi, recitatum",
+    "english": "to read aloud, recite",
+    "conjugation": 1
+  }
+]

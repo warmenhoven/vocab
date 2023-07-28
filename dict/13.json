@@ -1,0 +1,121 @@
+[
+  {
+    "chapter": 13,
+    "type": "noun",
+    "latin": "divitiae, -arum",
+    "english": "riches, wealth",
+    "gender": "f",
+    "declension": 1,
+    "notes": "always plural",
+    "plural": true
+  },
+  {
+    "chapter": 13,
+    "type": "noun",
+    "latin": "factum, -i",
+    "english": "deed, act, achievement",
+    "gender": "n",
+    "declension": 2
+  },
+  {
+    "chapter": 13,
+    "type": "noun",
+    "latin": "signum, -i",
+    "english": "sign, signal, indication, seal",
+    "gender": "n",
+    "declension": 2
+  },
+  {
+    "chapter": 13,
+    "type": "pronoun",
+    "latin": "ipse, ipsa, ipsum",
+    "english": "myself, yourself, himself, herself, itself (etc.); the very, the actual",
+    "notes": "intensive"
+  },
+  {
+    "chapter": 13,
+    "type": "pronoun",
+    "latin": "quisque, quidque",
+    "english": "each one, each person",
+    "notes": "indefinite"
+  },
+  {
+    "chapter": 13,
+    "type": "pronoun",
+    "latin": "sui",
+    "english": "himself, herself, itself, themselves",
+    "notes": "reflexive"
+  },
+  {
+    "chapter": 13,
+    "type": "adjective",
+    "latin": "doctus, -a, -um",
+    "english": "taught, learned, skilled"
+  },
+  {
+    "chapter": 13,
+    "type": "adjective",
+    "latin": "fortunatus, -a, -um",
+    "english": "lucky, fortunate, happy"
+  },
+  {
+    "chapter": 13,
+    "type": "adjective",
+    "latin": "suus, -a, -um",
+    "english": "his own, her own, its own, their own",
+    "notes": "reflexive possessive"
+  },
+  {
+    "chapter": 13,
+    "type": "conjunction",
+    "latin": "nam",
+    "english": "for"
+  },
+  {
+    "chapter": 13,
+    "type": "adverb",
+    "latin": "ante",
+    "english": "before, in front of; previously"
+  },
+  {
+    "chapter": 13,
+    "type": "preposition",
+    "latin": "per",
+    "english": "through",
+    "notes": "takes accusative"
+  },
+  {
+    "chapter": 13,
+    "type": "adverb",
+    "latin": "olim",
+    "english": "at that time, once, formerly; in the future"
+  },
+  {
+    "chapter": 13,
+    "type": "verb",
+    "latin": "alo, alere, alui, altum",
+    "english": "to nourish, support, sustain, increase, cherish",
+    "conjugation": 3
+  },
+  {
+    "chapter": 13,
+    "type": "verb",
+    "latin": "diligo, diligere, dilexi, dilectum",
+    "english": "to esteem, love",
+    "conjugation": 3
+  },
+  {
+    "chapter": 13,
+    "type": "verb",
+    "latin": "iungo, iungere, iunxi, iunctum",
+    "english": "to join",
+    "conjugation": 3
+  },
+  {
+    "chapter": 13,
+    "type": "verb",
+    "latin": "sto, stare, steti, statum",
+    "english": "to stand, stand still, stand firm",
+    "conjugation": 1
+  }
+]

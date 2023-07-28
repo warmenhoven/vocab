@@ -1,0 +1,158 @@
+[
+  {
+    "chapter": 3,
+    "type": "noun",
+    "latin": "ager, agri",
+    "english": "field, farm",
+    "gender": "m",
+    "declension": 2
+  },
+  {
+    "chapter": 3,
+    "type": "noun",
+    "latin": "agricola, -ae",
+    "english": "farmer",
+    "gender": "m",
+    "declension": 1
+  },
+  {
+    "chapter": 3,
+    "type": "noun",
+    "latin": "amica, -ae",
+    "english": "friend",
+    "gender": "f",
+    "declension": 1
+  },
+  {
+    "chapter": 3,
+    "type": "noun",
+    "latin": "amicus, -i",
+    "english": "friend",
+    "gender": "m",
+    "declension": 2
+  },
+  {
+    "chapter": 3,
+    "type": "noun",
+    "latin": "femina, -ae",
+    "english": "woman",
+    "gender": "f",
+    "declension": 1
+  },
+  {
+    "chapter": 3,
+    "type": "noun",
+    "latin": "filia, -ae",
+    "english": "daughter",
+    "gender": "f",
+    "declension": 1,
+    "notes": "dative and ablative plural, filiabus"
+  },
+  {
+    "chapter": 3,
+    "type": "noun",
+    "latin": "filius, -ii",
+    "english": "son",
+    "gender": "m",
+    "declension": 2
+  },
+  {
+    "chapter": 3,
+    "type": "noun",
+    "latin": "numerus, -i",
+    "english": "number",
+    "gender": "m",
+    "declension": 2
+  },
+  {
+    "chapter": 3,
+    "type": "noun",
+    "latin": "populus, -i",
+    "english": "the people, a people, a nation",
+    "gender": "m",
+    "declension": 2
+  },
+  {
+    "chapter": 3,
+    "type": "noun",
+    "latin": "puer, pueri",
+    "english": "boy; boys, children",
+    "gender": "m",
+    "declension": 2
+  },
+  {
+    "chapter": 3,
+    "type": "noun",
+    "latin": "sapientia, -ae",
+    "english": "wisdom",
+    "gender": "f",
+    "declension": 1
+  },
+  {
+    "chapter": 3,
+    "type": "noun",
+    "latin": "vir, viri",
+    "english": "man, hero",
+    "gender": "m",
+    "declension": 2
+  },
+  {
+    "chapter": 3,
+    "type": "adjective",
+    "latin": "avarus, -a, -um",
+    "english": "greedy, avaricious"
+  },
+  {
+    "chapter": 3,
+    "type": "adjective",
+    "latin": "pauci, -ae, -a",
+    "english": "few, a few",
+    "notes": "usually plural"
+  },
+  {
+    "chapter": 3,
+    "type": "adjective",
+    "latin": "Romanus, -a, -um",
+    "english": "Roman"
+  },
+  {
+    "chapter": 3,
+    "type": "preposition",
+    "latin": "de",
+    "english": "down from, from; concerning, about",
+    "notes": "takes ablative"
+  },
+  {
+    "chapter": 3,
+    "type": "preposition",
+    "latin": "in (+ abl.)",
+    "english": "in, on",
+    "notes": "takes ablative"
+  },
+  {
+    "chapter": 3,
+    "type": "adverb",
+    "latin": "hodie",
+    "english": "today"
+  },
+  {
+    "chapter": 3,
+    "type": "adverb",
+    "latin": "semper",
+    "english": "always"
+  },
+  {
+    "chapter": 3,
+    "type": "verb",
+    "latin": "habeo, habere, habui, habitum",
+    "english": "to have, hold, possess, consider, regard",
+    "conjugation": 2
+  },
+  {
+    "chapter": 3,
+    "type": "verb",
+    "latin": "satio, satiare, satiavi, satiatum",
+    "english": "to satisfy, sate",
+    "conjugation": 1
+  }
+]

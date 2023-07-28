@@ -1,0 +1,161 @@
+[
+  {
+    "chapter": 31,
+    "type": "noun",
+    "latin": "as, assis",
+    "english": "an as (a small copper coin, roughly equivalent to a penny)",
+    "gender": "m",
+    "declension": 3
+  },
+  {
+    "chapter": 31,
+    "type": "noun",
+    "latin": "auxilium, -ii",
+    "english": "aid, help",
+    "gender": "n",
+    "declension": 2
+  },
+  {
+    "chapter": 31,
+    "type": "noun",
+    "latin": "digitus, -i",
+    "english": "finger, toe",
+    "gender": "m",
+    "declension": 2
+  },
+  {
+    "chapter": 31,
+    "type": "noun",
+    "latin": "elephantus, -i",
+    "english": "elephant",
+    "gender": "m",
+    "declension": 2
+  },
+  {
+    "chapter": 31,
+    "type": "noun",
+    "latin": "exsilium, -ii",
+    "english": "exile, banishment",
+    "gender": "n",
+    "declension": 2
+  },
+  {
+    "chapter": 31,
+    "type": "noun",
+    "latin": "invidia, -ae",
+    "english": "envy, jealousy, hatred",
+    "gender": "f",
+    "declension": 1
+  },
+  {
+    "chapter": 31,
+    "type": "noun",
+    "latin": "rumor, rumoris",
+    "english": "rumor, gossip",
+    "gender": "m",
+    "declension": 3
+  },
+  {
+    "chapter": 31,
+    "type": "noun",
+    "latin": "vinum, -i",
+    "english": "wine",
+    "gender": "n",
+    "declension": 2
+  },
+  {
+    "chapter": 31,
+    "type": "adjective",
+    "latin": "mediocris, medicre",
+    "english": "ordinary, moderate, mediocre"
+  },
+  {
+    "chapter": 31,
+    "type": "conjunction",
+    "latin": "cum",
+    "english": "(with subj.) when, since, although; (with indic.) when"
+  },
+  {
+    "chapter": 31,
+    "type": "preposition",
+    "latin": "apud",
+    "english": "among, in the presence of, at the house of",
+    "notes": "takes accusative"
+  },
+  {
+    "chapter": 31,
+    "type": "adverb",
+    "latin": "semel",
+    "english": "a single time, once, once and for all, simultaneously"
+  },
+  {
+    "chapter": 31,
+    "type": "adverb",
+    "latin": "usque",
+    "english": "all the way, up (to), even (to), continuously, always"
+  },
+  {
+    "chapter": 31,
+    "type": "verb",
+    "latin": "doleo, dolere, dolui, doliturum",
+    "english": "to grieve, suffer, hurt, give pain",
+    "conjugation": 2
+  },
+  {
+    "chapter": 31,
+    "type": "verb",
+    "latin": "dormio, dormire, dormivi, dormitum",
+    "english": "to sleep",
+    "conjugation": 4
+  },
+  {
+    "chapter": 31,
+    "type": "verb",
+    "latin": "fero, ferre, tuli, latum",
+    "english": "to bear, carry, bring; suffer, endure, tolerate; say, report",
+    "conjugation": 3
+  },
+  {
+    "chapter": 31,
+    "type": "verb",
+    "latin": "adfero, adferre, attuli, allatum",
+    "english": "to bring to",
+    "conjugation": 3
+  },
+  {
+    "chapter": 31,
+    "type": "verb",
+    "latin": "confero, conferre, contuli, collatum",
+    "english": "to bring together, compare; confer, bestow",
+    "conjugation": 3,
+    "notes": "se conferre: betake onself, go"
+  },
+  {
+    "chapter": 31,
+    "type": "verb",
+    "latin": "offero, offerre, obtuli, oblatum",
+    "english": "to offer",
+    "conjugation": 3
+  },
+  {
+    "chapter": 31,
+    "type": "verb",
+    "latin": "refero, referre, rettuli, relatum",
+    "english": "to carry back, bring back; repeat, answer, report",
+    "conjugation": 3
+  },
+  {
+    "chapter": 31,
+    "type": "verb",
+    "latin": "invideo, invidere, invidi, invisum",
+    "english": "to be envious; to look at with envy, envy, be jealous of",
+    "conjugation": 2
+  },
+  {
+    "chapter": 31,
+    "type": "verb",
+    "latin": "occido, occidere, occidi, occasum",
+    "english": "to fall down; die; set",
+    "conjugation": 3
+  }
+]

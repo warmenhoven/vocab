@@ -1,0 +1,161 @@
+[
+  {
+    "chapter": 20,
+    "type": "noun",
+    "latin": "coniurati, -orum",
+    "english": "conspirators",
+    "gender": "m",
+    "declension": 2,
+    "notes": "always plural",
+    "plural": true
+  },
+  {
+    "chapter": 20,
+    "type": "noun",
+    "latin": "cornu, -us",
+    "english": "horn",
+    "gender": "n",
+    "declension": 4
+  },
+  {
+    "chapter": 20,
+    "type": "noun",
+    "latin": "fructus, -us",
+    "english": "fruit, profit, benefit, enjoyment",
+    "gender": "m",
+    "declension": 4
+  },
+  {
+    "chapter": 20,
+    "type": "noun",
+    "latin": "genu, -us",
+    "english": "knee",
+    "gender": "n",
+    "declension": 4
+  },
+  {
+    "chapter": 20,
+    "type": "noun",
+    "latin": "manus, -us",
+    "english": "hand, band; handwriting",
+    "gender": "f",
+    "declension": 4
+  },
+  {
+    "chapter": 20,
+    "type": "noun",
+    "latin": "metus, -us",
+    "english": "fear, dread, anxiety",
+    "gender": "m",
+    "declension": 4
+  },
+  {
+    "chapter": 20,
+    "type": "noun",
+    "latin": "mons, montis",
+    "english": "mountain",
+    "gender": "m",
+    "declension": "3i"
+  },
+  {
+    "chapter": 20,
+    "type": "noun",
+    "latin": "senatus, -us",
+    "english": "senate",
+    "gender": "m",
+    "declension": 4
+  },
+  {
+    "chapter": 20,
+    "type": "noun",
+    "latin": "sensus, -us",
+    "english": "feeling, sense",
+    "gender": "m",
+    "declension": 4
+  },
+  {
+    "chapter": 20,
+    "type": "noun",
+    "latin": "servitus, servitutis",
+    "english": "servitude, slavery",
+    "gender": "f",
+    "declension": 3
+  },
+  {
+    "chapter": 20,
+    "type": "noun",
+    "latin": "spiritus, -us",
+    "english": "breath, breathing; spirit, soul",
+    "gender": "m",
+    "declension": 4
+  },
+  {
+    "chapter": 20,
+    "type": "noun",
+    "latin": "versus, -us",
+    "english": "line of verse",
+    "gender": "m",
+    "declension": 4
+  },
+  {
+    "chapter": 20,
+    "type": "adjective",
+    "latin": "communis, commune",
+    "english": "common, general, of the community, for the community"
+  },
+  {
+    "chapter": 20,
+    "type": "adjective",
+    "latin": "dexter, dextra, dextrum",
+    "english": "right, right-hand"
+  },
+  {
+    "chapter": 20,
+    "type": "adjective",
+    "latin": "sinister, sinistra, sinistrum",
+    "english": "left, left-hand"
+  },
+  {
+    "chapter": 20,
+    "type": "verb",
+    "latin": "careo, carere, carui, cariturus",
+    "english": "to be without, be deprived of, want, lack; be free from",
+    "conjugation": 2,
+    "notes": "takes ablative of separation"
+  },
+  {
+    "chapter": 20,
+    "type": "verb",
+    "latin": "defendo, defendere, defendi, defensum",
+    "english": "to ward off; defend, protect",
+    "conjugation": 3
+  },
+  {
+    "chapter": 20,
+    "type": "verb",
+    "latin": "discedo, discedere, discessi, discessum",
+    "english": "to go away, depart",
+    "conjugation": 3
+  },
+  {
+    "chapter": 20,
+    "type": "verb",
+    "latin": "-, odisse, odi, osurum",
+    "english": "to hate",
+    "conjugation": 0
+  },
+  {
+    "chapter": 20,
+    "type": "verb",
+    "latin": "prohibeo, prohibere, prohibui, prohibitum",
+    "english": "to keep (back), prevent, hinder, restrain, prohibit",
+    "conjugation": 2
+  },
+  {
+    "chapter": 20,
+    "type": "verb",
+    "latin": "pronuntio, pronuntiare, pronuntiavi, pronuntiatum",
+    "english": "to proclaim, announce; declaim; pronounce",
+    "conjugation": 1
+  }
+]

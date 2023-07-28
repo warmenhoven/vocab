@@ -1,0 +1,121 @@
+[
+  {
+    "chapter": 9,
+    "type": "noun",
+    "latin": "locus, -i",
+    "english": "place; passage in literature",
+    "gender": "m",
+    "declension": 2,
+    "notes": "loca, -orum, n.: places, regions"
+  },
+  {
+    "chapter": 9,
+    "type": "noun",
+    "latin": "morbus, -i",
+    "english": "disease, sickness",
+    "gender": "m",
+    "declension": 2
+  },
+  {
+    "chapter": 9,
+    "type": "noun",
+    "latin": "studium, -ii",
+    "english": "eagerness, zeal, pursuit, study",
+    "gender": "n",
+    "declension": 2
+  },
+  {
+    "chapter": 9,
+    "type": "pronoun",
+    "latin": "hic, haec, hoc",
+    "english": "this; the latter; he, she, it, they"
+  },
+  {
+    "chapter": 9,
+    "type": "pronoun",
+    "latin": "ille, illa, illud",
+    "english": "that; the former; the famous; he, she, it, they"
+  },
+  {
+    "chapter": 9,
+    "type": "pronoun",
+    "latin": "iste, ista, istud",
+    "english": "that of yours, that; such",
+    "notes": "sometimes with contemptuous force"
+  },
+  {
+    "chapter": 9,
+    "type": "adjective",
+    "latin": "alius, alia, aliud",
+    "english": "other, another",
+    "notes": "alii...alii: some...others"
+  },
+  {
+    "chapter": 9,
+    "type": "adjective",
+    "latin": "alter, altera, alterum",
+    "english": "the other (of two), second"
+  },
+  {
+    "chapter": 9,
+    "type": "adjective",
+    "latin": "neuter, neutra, neutrum",
+    "english": "not either, neither"
+  },
+  {
+    "chapter": 9,
+    "type": "adjective",
+    "latin": "nullus, -a, -um",
+    "english": "not any, no, none"
+  },
+  {
+    "chapter": 9,
+    "type": "adjective",
+    "latin": "solus, -a, -um",
+    "english": "alone, only, the only"
+  },
+  {
+    "chapter": 9,
+    "type": "adjective",
+    "latin": "totus, -a, -um",
+    "english": "whole, entire"
+  },
+  {
+    "chapter": 9,
+    "type": "adjective",
+    "latin": "ullus, -a, -um",
+    "english": "any"
+  },
+  {
+    "chapter": 9,
+    "type": "adjective",
+    "latin": "unus, -a, -um",
+    "english": "one, single, alone"
+  },
+  {
+    "chapter": 9,
+    "type": "adjective",
+    "latin": "uter, utra, utrum",
+    "english": "either, which (of two)"
+  },
+  {
+    "chapter": 9,
+    "type": "conjunction",
+    "latin": "enim",
+    "english": "for, in fact, truly",
+    "notes": "postpositive"
+  },
+  {
+    "chapter": 9,
+    "type": "preposition",
+    "latin": "in (+ acc.)",
+    "english": "into, toward; against",
+    "notes": "takes accusative or ablative"
+  },
+  {
+    "chapter": 9,
+    "type": "adverb",
+    "latin": "nimis, nimium",
+    "english": "too, too much, excessively"
+  }
+]

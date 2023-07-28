@@ -1,0 +1,168 @@
+[
+  {
+    "chapter": 5,
+    "type": "noun",
+    "latin": "adulescentia, -ae",
+    "english": "youth, young manhood, youthfulness",
+    "gender": "f",
+    "declension": 1
+  },
+  {
+    "chapter": 5,
+    "type": "noun",
+    "latin": "animus, -i",
+    "english": "soul, spirit, mind; (plural) high spirits, pride, courage",
+    "gender": "m",
+    "declension": 2
+  },
+  {
+    "chapter": 5,
+    "type": "noun",
+    "latin": "caelum, -i",
+    "english": "sky, heaven",
+    "gender": "n",
+    "declension": 2
+  },
+  {
+    "chapter": 5,
+    "type": "noun",
+    "latin": "culpa, -ae",
+    "english": "fault, blame",
+    "gender": "f",
+    "declension": 1
+  },
+  {
+    "chapter": 5,
+    "type": "noun",
+    "latin": "gloria, -ae",
+    "english": "glory, fame",
+    "gender": "f",
+    "declension": 1
+  },
+  {
+    "chapter": 5,
+    "type": "noun",
+    "latin": "verbum, -i",
+    "english": "word",
+    "gender": "n",
+    "declension": 2
+  },
+  {
+    "chapter": 5,
+    "type": "pronoun",
+    "latin": "te",
+    "english": "you, yourself"
+  },
+  {
+    "chapter": 5,
+    "type": "adjective",
+    "latin": "liber, libera, liberum",
+    "english": "free"
+  },
+  {
+    "chapter": 5,
+    "type": "adjective",
+    "latin": "noster, nostra, nostrum",
+    "english": "our, ours"
+  },
+  {
+    "chapter": 5,
+    "type": "adjective",
+    "latin": "pulcher, pulchra, pulchrum",
+    "english": "beautiful, handsome; fine"
+  },
+  {
+    "chapter": 5,
+    "type": "adjective",
+    "latin": "sanus, -a, -um",
+    "english": "sound, healthy, sane"
+  },
+  {
+    "chapter": 5,
+    "type": "conjunction",
+    "latin": "igitur",
+    "english": "therefore, consequently",
+    "notes": "postpositive"
+  },
+  {
+    "chapter": 5,
+    "type": "enclitic",
+    "latin": "-ne",
+    "english": "question",
+    "notes": "introduces questions the answer to which is uncertain"
+  },
+  {
+    "chapter": 5,
+    "type": "preposition",
+    "latin": "propter",
+    "english": "on account of, because of",
+    "notes": "takes accusative"
+  },
+  {
+    "chapter": 5,
+    "type": "adverb",
+    "latin": "cras",
+    "english": "tomorrow"
+  },
+  {
+    "chapter": 5,
+    "type": "adverb",
+    "latin": "heri",
+    "english": "yesterday"
+  },
+  {
+    "chapter": 5,
+    "type": "adverb, conjunction",
+    "latin": "quando",
+    "english": "when",
+    "notes": "si quando: if ever"
+  },
+  {
+    "chapter": 5,
+    "type": "adverb, noun",
+    "latin": "satis",
+    "english": "enough, sufficient (-ly)",
+    "gender": "n"
+  },
+  {
+    "chapter": 5,
+    "type": "adverb",
+    "latin": "tum",
+    "english": "then, at that time; thereupon, in the next place"
+  },
+  {
+    "chapter": 5,
+    "type": "verb",
+    "latin": "ceno, cenare, cenavi, cenatum",
+    "english": "to dine",
+    "conjugation": 1
+  },
+  {
+    "chapter": 5,
+    "type": "verb",
+    "latin": "culpo, culpare, culpavi, culpatum",
+    "english": "to blame, censure",
+    "conjugation": 1
+  },
+  {
+    "chapter": 5,
+    "type": "verb",
+    "latin": "remaneo, remanere, remansi, remansum",
+    "english": "to remain, stay behind, abide, continue",
+    "conjugation": 2
+  },
+  {
+    "chapter": 5,
+    "type": "verb",
+    "latin": "maneo, manere, mansi, mansum",
+    "english": "to remain, stay, abide, continue",
+    "conjugation": 2
+  },
+  {
+    "chapter": 5,
+    "type": "verb",
+    "latin": "supero, superare, superavi, superatum",
+    "english": "to be above, have the upper hand, surpass; overcome, conquer",
+    "conjugation": 1
+  }
+]

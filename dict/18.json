@@ -1,0 +1,109 @@
+[
+  {
+    "chapter": 18,
+    "type": "noun",
+    "latin": "flumen, fluminis",
+    "english": "river",
+    "gender": "n",
+    "declension": 3
+  },
+  {
+    "chapter": 18,
+    "type": "noun",
+    "latin": "genus, generis",
+    "english": "origin, kind, sort, class",
+    "gender": "n",
+    "declension": 3
+  },
+  {
+    "chapter": 18,
+    "type": "noun",
+    "latin": "hostis, hostis",
+    "english": "an enemy; (plural) the enemy",
+    "gender": "m",
+    "declension": "3i"
+  },
+  {
+    "chapter": 18,
+    "type": "noun",
+    "latin": "ludus, -i",
+    "english": "game, sport; school",
+    "gender": "m",
+    "declension": 2
+  },
+  {
+    "chapter": 18,
+    "type": "noun",
+    "latin": "probitas, probitatis",
+    "english": "uprightness, honesty",
+    "gender": "f",
+    "declension": 3
+  },
+  {
+    "chapter": 18,
+    "type": "noun",
+    "latin": "scientia, -ae",
+    "english": "knowledge",
+    "gender": "f",
+    "declension": 1
+  },
+  {
+    "chapter": 18,
+    "type": "adjective",
+    "latin": "clarus, -a, -um",
+    "english": "clear, bright; renowned, famous, illustrious"
+  },
+  {
+    "chapter": 18,
+    "type": "adjective",
+    "latin": "mortalis, mortale",
+    "english": "mortal"
+  },
+  {
+    "chapter": 18,
+    "type": "adverb",
+    "latin": "cur",
+    "english": "why"
+  },
+  {
+    "chapter": 18,
+    "type": "adverb",
+    "latin": "deinde",
+    "english": "thereupon, next, then"
+  },
+  {
+    "chapter": 18,
+    "type": "verb",
+    "latin": "fluo, fluere, fluxi, fluxum",
+    "english": "to flow",
+    "conjugation": 3
+  },
+  {
+    "chapter": 18,
+    "type": "verb",
+    "latin": "lego, legere, legi, lectum",
+    "english": "to pick out, choose; read",
+    "conjugation": 3
+  },
+  {
+    "chapter": 18,
+    "type": "verb",
+    "latin": "misceo, miscere, miscui, mixtum",
+    "english": "to mix, stir up, disturb",
+    "conjugation": 2
+  },
+  {
+    "chapter": 18,
+    "type": "verb",
+    "latin": "moveo, movere, movi, motum",
+    "english": "to move; arouse, affect",
+    "conjugation": 2
+  },
+  {
+    "chapter": 18,
+    "type": "verb",
+    "latin": "videor, videri, visus sum, -",
+    "english": "to be seen, seem, appear",
+    "conjugation": 2
+  }
+]

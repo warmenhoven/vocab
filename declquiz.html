@@ -1,0 +1,37 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Latin Vocab</title>
+    <script type="text/javascript" src="build.js"></script>
+    <script type="text/javascript" src="declquiz.js"></script>
+    <script type="text/javascript" src="decline.js"></script>
+  </head>
+  <body>
+    <p><b>Please input your answers and press "Enter" to check them.</b></p>
+    <p><hr /></p>
+    <table id="decltable">
+    </table>
+    <hr />
+    <p><form action="declquiz.html" method="get">
+      Quiz
+      <select name="decl">
+        <option value="0">all</option>
+        <option value="1">first</option>
+        <option value="2">second</option>
+        <option value="3">third</option>
+        <option value="3i">third, i-stem</option>
+        <option value="4">fourth</option>
+        <option value="5">fifth</option>
+      </select>
+      declensions for nouns (random cases) from Chapter
+      <select name="start" id="declstart"></select>
+      to Chapter
+      <select name="end" id="declend"></select>
+      <input type="submit" value="Quiz" />
+    </form></p>
+
+    <p><a href="index.html">Return to Main Page</a></p>
+
+  </body>
+</html>

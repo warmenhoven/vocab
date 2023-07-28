@@ -1,0 +1,163 @@
+[
+  {
+    "chapter": 34,
+    "type": "noun",
+    "latin": "anima, -ae",
+    "english": "soul, spirit",
+    "gender": "f",
+    "declension": 1
+  },
+  {
+    "chapter": 34,
+    "type": "noun",
+    "latin": "remissio, remissionis",
+    "english": "letting go, release; relaxation",
+    "gender": "f",
+    "declension": 3
+  },
+  {
+    "chapter": 34,
+    "type": "noun",
+    "latin": "vox, vocis",
+    "english": "voice, word",
+    "gender": "f",
+    "declension": 3
+  },
+  {
+    "chapter": 34,
+    "type": "adjective",
+    "latin": "adversus, -a, -um",
+    "english": "opposite, adverse"
+  },
+  {
+    "chapter": 34,
+    "type": "adjective",
+    "latin": "talis, tale",
+    "english": "such, of such a sort"
+  },
+  {
+    "chapter": 34,
+    "type": "interjection",
+    "latin": "vae",
+    "english": "alas, woe to"
+  },
+  {
+    "chapter": 34,
+    "type": "verb",
+    "latin": "arbitror, arbitrari, arbitratus sum, -",
+    "english": "to judge, think",
+    "conjugation": 1
+  },
+  {
+    "chapter": 34,
+    "type": "verb",
+    "latin": "conor, conari, conatus sum, -",
+    "english": "to try, attempt",
+    "conjugation": 1
+  },
+  {
+    "chapter": 34,
+    "type": "verb",
+    "latin": "cresco, crescere, crevi, cretum",
+    "english": "to increase",
+    "conjugation": 3
+  },
+  {
+    "chapter": 34,
+    "type": "verb",
+    "latin": "egredior, egredi, egressus sum, -",
+    "english": "to go out",
+    "conjugation": "3i"
+  },
+  {
+    "chapter": 34,
+    "type": "verb",
+    "latin": "fateor, fateri, fassus sum, -",
+    "english": "to confess, admit",
+    "conjugation": 2
+  },
+  {
+    "chapter": 34,
+    "type": "verb",
+    "latin": "hortor, hortari, hortatus sum, -",
+    "english": "to encourage, urge",
+    "conjugation": 1
+  },
+  {
+    "chapter": 34,
+    "type": "verb",
+    "latin": "loquor, loqui, locutus sum, -",
+    "english": "to say, speak, tell",
+    "conjugation": 3
+  },
+  {
+    "chapter": 34,
+    "type": "verb",
+    "latin": "molior, moliri, molitus sum, -",
+    "english": "to work at, build, undertake, plan",
+    "conjugation": 4
+  },
+  {
+    "chapter": 34,
+    "type": "verb",
+    "latin": "morior, mori, mortuus sum, -",
+    "english": "to die",
+    "conjugation": "3i"
+  },
+  {
+    "chapter": 34,
+    "type": "verb",
+    "latin": "nascor, nasci, natus sum, -",
+    "english": "to be born; spring forth, arise",
+    "conjugation": 3
+  },
+  {
+    "chapter": 34,
+    "type": "verb",
+    "latin": "patior, pati, passus sum, -",
+    "english": "to suffer, endure, permit",
+    "conjugation": "3i"
+  },
+  {
+    "chapter": 34,
+    "type": "verb",
+    "latin": "proficiscor, proficisci, profectus sum, -",
+    "english": "to set out, start",
+    "conjugation": 3
+  },
+  {
+    "chapter": 34,
+    "type": "verb",
+    "latin": "rusticor, rusticari, rusticatus sum, -",
+    "english": "to live in the country",
+    "conjugation": 1
+  },
+  {
+    "chapter": 34,
+    "type": "verb",
+    "latin": "sedeo, sedere, sedi, sessum",
+    "english": "to sit",
+    "conjugation": 2
+  },
+  {
+    "chapter": 34,
+    "type": "verb",
+    "latin": "sequor, sequi, secutus sum, -",
+    "english": "to follow",
+    "conjugation": 3
+  },
+  {
+    "chapter": 34,
+    "type": "verb",
+    "latin": "specto, spectare, spectavi, spectatum",
+    "english": "to look at, see",
+    "conjugation": 1
+  },
+  {
+    "chapter": 34,
+    "type": "verb",
+    "latin": "utor, uti, usus sum, -",
+    "english": "to use; enjoy, experience",
+    "conjugation": 3
+  }
+]

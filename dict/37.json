@@ -1,0 +1,176 @@
+[
+  {
+    "chapter": 37,
+    "type": "noun",
+    "latin": "Athenae, -arum",
+    "english": "Athens",
+    "gender": "f",
+    "declension": 1,
+    "notes": "always plural",
+    "plural": true
+  },
+  {
+    "chapter": 37,
+    "type": "noun",
+    "latin": "domus, -us",
+    "english": "house, home (NB 3 special uses and endings: domi -at home; domo from home; domum - to home)",
+    "gender": "f",
+    "declension": 4
+  },
+  {
+    "chapter": 37,
+    "type": "noun",
+    "latin": "humus, -i",
+    "english": "ground, earth, soil",
+    "gender": "f",
+    "declension": 2
+  },
+  {
+    "chapter": 37,
+    "type": "noun",
+    "latin": "iter, itineris",
+    "english": "road, route, journey",
+    "gender": "n",
+    "declension": 3
+  },
+  {
+    "chapter": 37,
+    "type": "noun",
+    "latin": "rus, ruris",
+    "english": "the country, countryside",
+    "gender": "n",
+    "declension": 3
+  },
+  {
+    "chapter": 37,
+    "type": "noun",
+    "latin": "Syracusae, -arum",
+    "english": "Syracuse",
+    "gender": "f",
+    "declension": 1,
+    "notes": "always plural",
+    "plural": true
+  },
+  {
+    "chapter": 37,
+    "type": "adjective",
+    "latin": "absens",
+    "english": "absent, away",
+    "notes": "gen. absentis"
+  },
+  {
+    "chapter": 37,
+    "type": "adjective",
+    "latin": "gratus, -a, -um",
+    "english": "pleasing, agreeable; grateful"
+  },
+  {
+    "chapter": 37,
+    "type": "adjective",
+    "latin": "idoneus, -a, -um",
+    "english": "suitable, fit, appropriate"
+  },
+  {
+    "chapter": 37,
+    "type": "adjective",
+    "latin": "immotus, -a, -um",
+    "english": "unmoved, unchanged, unrelenting"
+  },
+  {
+    "chapter": 37,
+    "type": "adverb",
+    "latin": "foris",
+    "english": "out of doors, outside"
+  },
+  {
+    "chapter": 37,
+    "type": "verb",
+    "latin": "eo, ire, ii, itum",
+    "english": "to go",
+    "conjugation": 0
+  },
+  {
+    "chapter": 37,
+    "type": "verb",
+    "latin": "abeo, abire, abii, abitum",
+    "english": "to go away, depart",
+    "conjugation": 0
+  },
+  {
+    "chapter": 37,
+    "type": "verb",
+    "latin": "adeo, adire, adii, aditum",
+    "english": "to go to, approach",
+    "conjugation": 0
+  },
+  {
+    "chapter": 37,
+    "type": "verb",
+    "latin": "exeo, exire, exii, exitum",
+    "english": "to go out, exit",
+    "conjugation": 0
+  },
+  {
+    "chapter": 37,
+    "type": "verb",
+    "latin": "ineo, inire, inii, initum",
+    "english": "to go in, enter",
+    "conjugation": 0
+  },
+  {
+    "chapter": 37,
+    "type": "verb",
+    "latin": "obeo, obire, obii, obitum",
+    "english": "to go up against, meet; die",
+    "conjugation": 0
+  },
+  {
+    "chapter": 37,
+    "type": "verb",
+    "latin": "pereo, perire, perii, peritum",
+    "english": "to pass away, be destroyed, perish",
+    "conjugation": 0
+  },
+  {
+    "chapter": 37,
+    "type": "verb",
+    "latin": "redeo, redire, redii, reditum",
+    "english": "to go back, return",
+    "conjugation": 0
+  },
+  {
+    "chapter": 37,
+    "type": "verb",
+    "latin": "interficio, interficere, interfeci, interfectum",
+    "english": "to kill, murder",
+    "conjugation": "3i"
+  },
+  {
+    "chapter": 37,
+    "type": "verb",
+    "latin": "licet, licere, licuit, -",
+    "english": "(impersonal) it is permitted, one may",
+    "conjugation": 0
+  },
+  {
+    "chapter": 37,
+    "type": "verb",
+    "latin": "peregrinor, peregrinari, peregrinatus sum, -",
+    "english": "to travel abroad, wander",
+    "conjugation": 1
+  },
+  {
+    "chapter": 37,
+    "type": "verb",
+    "latin": "requiesco, requiescere, requievi, requietum",
+    "english": "to rest",
+    "conjugation": 3
+  },
+  {
+    "chapter": 37,
+    "type": "verb",
+    "latin": "soleo, solere, solitus sum, -",
+    "english": "to be accustomed",
+    "conjugation": 3
+  }
+]

@@ -1,0 +1,145 @@
+[
+  {
+    "chapter": 35,
+    "type": "noun",
+    "latin": "aestas, aestatis",
+    "english": "summer",
+    "gender": "f",
+    "declension": 3
+  },
+  {
+    "chapter": 35,
+    "type": "noun",
+    "latin": "ianua, -ae",
+    "english": "door",
+    "gender": "f",
+    "declension": 1
+  },
+  {
+    "chapter": 35,
+    "type": "noun",
+    "latin": "pectus, pectoris",
+    "english": "breast, heart",
+    "gender": "n",
+    "declension": 3
+  },
+  {
+    "chapter": 35,
+    "type": "noun",
+    "latin": "praemium, -ii",
+    "english": "reward, prize",
+    "gender": "n",
+    "declension": 2
+  },
+  {
+    "chapter": 35,
+    "type": "adjective",
+    "latin": "iratus, -a, -um",
+    "english": "angry"
+  },
+  {
+    "chapter": 35,
+    "type": "verb",
+    "latin": "antepono, anteponere, anteposui, antepositum",
+    "english": "to put before, prefer",
+    "conjugation": 3
+  },
+  {
+    "chapter": 35,
+    "type": "verb",
+    "latin": "foveo, fovere, fovi, fotum",
+    "english": "to comfort, nurture, cherish",
+    "conjugation": 3
+  },
+  {
+    "chapter": 35,
+    "type": "verb",
+    "latin": "ignosco, ignoscere, ignovi, ignotum",
+    "english": "to grant pardon to, forgive",
+    "conjugation": 3
+  },
+  {
+    "chapter": 35,
+    "type": "verb",
+    "latin": "impero, imperare, imperavi, imperatum",
+    "english": "to give orders to, command",
+    "conjugation": 1
+  },
+  {
+    "chapter": 35,
+    "type": "verb",
+    "latin": "miror, mirari, miratus sum, -",
+    "english": "to marvel at, admire, wonder",
+    "conjugation": 1
+  },
+  {
+    "chapter": 35,
+    "type": "verb",
+    "latin": "noceo, nocere, nocui, nocitum",
+    "english": "to do harm to, harm, injure",
+    "conjugation": 2
+  },
+  {
+    "chapter": 35,
+    "type": "verb",
+    "latin": "nubo, nubere, nupsi, nuptum",
+    "english": "to cover, veil; (with dat.) to be married to, marry",
+    "conjugation": 3
+  },
+  {
+    "chapter": 35,
+    "type": "verb",
+    "latin": "parco, parcere, peperci, parsurum",
+    "english": "to be lenient to, spare",
+    "conjugation": 3
+  },
+  {
+    "chapter": 35,
+    "type": "verb",
+    "latin": "pareo, parere, parui, -",
+    "english": "to be obedient to, obey",
+    "conjugation": 2
+  },
+  {
+    "chapter": 35,
+    "type": "verb",
+    "latin": "persuadeo, persuadere, persuasi, persuasum",
+    "english": "to make sweet to, persuade",
+    "conjugation": 2
+  },
+  {
+    "chapter": 35,
+    "type": "verb",
+    "latin": "placeo, placere, placui, placitum",
+    "english": "to be pleasing to, please",
+    "conjugation": 2
+  },
+  {
+    "chapter": 35,
+    "type": "verb",
+    "latin": "sapio, sapere, sapivi, -",
+    "english": "to have good taste; have good sense, be wise",
+    "conjugation": "3i"
+  },
+  {
+    "chapter": 35,
+    "type": "verb",
+    "latin": "servio, servire, servivi, servitum",
+    "english": "to be a slave to, serve",
+    "conjugation": 4
+  },
+  {
+    "chapter": 35,
+    "type": "verb",
+    "latin": "studeo, studere, studui, -",
+    "english": "to direct one's zeal to, be eager for, study",
+    "conjugation": 2
+  },
+  {
+    "chapter": 35,
+    "type": "verb",
+    "latin": "subrideo, subridere, subrisi, subrisum",
+    "english": "to smile upon, to smile down upon",
+    "conjugation": 2
+  }
+]

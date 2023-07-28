@@ -1,0 +1,168 @@
+[
+  {
+    "chapter": 40,
+    "type": "noun",
+    "latin": "aes, aeris",
+    "english": "bronze",
+    "gender": "n",
+    "declension": 3
+  },
+  {
+    "chapter": 40,
+    "type": "noun",
+    "latin": "dominus, -i",
+    "english": "master (of a household), lord",
+    "gender": "m",
+    "declension": 2
+  },
+  {
+    "chapter": 40,
+    "type": "noun",
+    "latin": "domina, -ae",
+    "english": "mistress, lady",
+    "gender": "f",
+    "declension": 1
+  },
+  {
+    "chapter": 40,
+    "type": "noun",
+    "latin": "lacrima, -ae",
+    "english": "tear",
+    "gender": "f",
+    "declension": 1
+  },
+  {
+    "chapter": 40,
+    "type": "noun",
+    "latin": "meta, -ae",
+    "english": "turning post, goal; limit",
+    "gender": "f",
+    "declension": 1
+  },
+  {
+    "chapter": 40,
+    "type": "noun",
+    "latin": "monumentum, -i",
+    "english": "monument",
+    "gender": "n",
+    "declension": 2
+  },
+  {
+    "chapter": 40,
+    "type": "noun",
+    "latin": "nasus, -i",
+    "english": "nose",
+    "gender": "m",
+    "declension": 2
+  },
+  {
+    "chapter": 40,
+    "type": "noun",
+    "latin": "saxum, -i",
+    "english": "rock, stone",
+    "gender": "n",
+    "declension": 2
+  },
+  {
+    "chapter": 40,
+    "type": "noun",
+    "latin": "vultus, -us",
+    "english": "countenance, face",
+    "gender": "m",
+    "declension": 4
+  },
+  {
+    "chapter": 40,
+    "type": "adjective",
+    "latin": "iustus, -a, -um",
+    "english": "just, right"
+  },
+  {
+    "chapter": 40,
+    "type": "adjective",
+    "latin": "tot",
+    "english": "so many",
+    "notes": "indeclinable"
+  },
+  {
+    "chapter": 40,
+    "type": "preposition",
+    "latin": "praeter",
+    "english": "besides, except; beyond past",
+    "notes": "takes accusative"
+  },
+  {
+    "chapter": 40,
+    "type": "adverb",
+    "latin": "nonne",
+    "english": "yes question",
+    "notes": "introduces questions expecting the answer yes"
+  },
+  {
+    "chapter": 40,
+    "type": "adverb",
+    "latin": "num",
+    "english": "no question; whether",
+    "notes": "introduces questions expecting the answer no; introduces indirect questions and means whether"
+  },
+  {
+    "chapter": 40,
+    "type": "adverb",
+    "latin": "omnino, adv.",
+    "english": "wholly, entirely, altogether"
+  },
+  {
+    "chapter": 40,
+    "type": "adverb",
+    "latin": "postremum",
+    "english": "after all, finally; for the last time"
+  },
+  {
+    "chapter": 40,
+    "type": "adverb",
+    "latin": "quin",
+    "english": "indeed, in fact"
+  },
+  {
+    "chapter": 40,
+    "type": "verb",
+    "latin": "explico, explicare, explicavi, explicatum",
+    "english": "to unfold, explain; spread out, deploy",
+    "conjugation": 1
+  },
+  {
+    "chapter": 40,
+    "type": "verb",
+    "latin": "fatigo, fatigare, fatigavi, fatigatum",
+    "english": "to weary, tire out",
+    "conjugation": 1
+  },
+  {
+    "chapter": 40,
+    "type": "verb",
+    "latin": "for, fari, fatus sum, -",
+    "english": "to speak (prophetically), talk, foretell",
+    "conjugation": 1
+  },
+  {
+    "chapter": 40,
+    "type": "verb",
+    "latin": "opinor, opinari, opinatus sum, -",
+    "english": "to suppose",
+    "conjugation": 1
+  },
+  {
+    "chapter": 40,
+    "type": "verb",
+    "latin": "reperio, reperire, repperi, repertum",
+    "english": "to find, discover, learn, get",
+    "conjugation": 4
+  },
+  {
+    "chapter": 40,
+    "type": "verb",
+    "latin": "vereor, vereri, vertus sum, -",
+    "english": "to show reverence for, respect; be afraid of, fear",
+    "conjugation": 4
+  }
+]

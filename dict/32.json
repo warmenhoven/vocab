@@ -1,0 +1,185 @@
+[
+  {
+    "chapter": 32,
+    "type": "noun",
+    "latin": "custodia, -ae",
+    "english": "protection, custody; (plural) guards",
+    "gender": "f",
+    "declension": 1
+  },
+  {
+    "chapter": 32,
+    "type": "noun",
+    "latin": "exercitus, -us",
+    "english": "army",
+    "gender": "m",
+    "declension": 4
+  },
+  {
+    "chapter": 32,
+    "type": "noun",
+    "latin": "paupertas, paupertatis",
+    "english": "poverty, humble circumstance",
+    "gender": "f",
+    "declension": 3
+  },
+  {
+    "chapter": 32,
+    "type": "adjective",
+    "latin": "dives",
+    "english": "rich",
+    "notes": "genitive divitis or ditis"
+  },
+  {
+    "chapter": 32,
+    "type": "adjective",
+    "latin": "par",
+    "english": "equal, like",
+    "notes": "genitive paris"
+  },
+  {
+    "chapter": 32,
+    "type": "adjective",
+    "latin": "pauper",
+    "english": "of small means, poor",
+    "notes": "genitive pauperis"
+  },
+  {
+    "chapter": 32,
+    "type": "conjunction",
+    "latin": "dummodo",
+    "english": "(with subj.) provided that, so long as"
+  },
+  {
+    "chapter": 32,
+    "type": "adverb",
+    "latin": "longe",
+    "english": "far"
+  },
+  {
+    "chapter": 32,
+    "type": "adverb",
+    "latin": "libere",
+    "english": "freely"
+  },
+  {
+    "chapter": 32,
+    "type": "adverb",
+    "latin": "pulchre",
+    "english": "beautifully"
+  },
+  {
+    "chapter": 32,
+    "type": "adverb",
+    "latin": "fortiter",
+    "english": "bravely"
+  },
+  {
+    "chapter": 32,
+    "type": "adverb",
+    "latin": "celeriter",
+    "english": "quickly"
+  },
+  {
+    "chapter": 32,
+    "type": "adverb",
+    "latin": "acriter",
+    "english": "keenly"
+  },
+  {
+    "chapter": 32,
+    "type": "adverb",
+    "latin": "feliciter",
+    "english": "happily"
+  },
+  {
+    "chapter": 32,
+    "type": "adverb",
+    "latin": "sapienter",
+    "english": "wisely"
+  },
+  {
+    "chapter": 32,
+    "type": "adverb",
+    "latin": "facile",
+    "english": "easily"
+  },
+  {
+    "chapter": 32,
+    "type": "adverb",
+    "latin": "bene",
+    "english": "well"
+  },
+  {
+    "chapter": 32,
+    "type": "adverb",
+    "latin": "male",
+    "english": "badly"
+  },
+  {
+    "chapter": 32,
+    "type": "adverb",
+    "latin": "multum",
+    "english": "much"
+  },
+  {
+    "chapter": 32,
+    "type": "adverb",
+    "latin": "magnopere",
+    "english": "greatly"
+  },
+  {
+    "chapter": 32,
+    "type": "adverb",
+    "latin": "parum",
+    "english": "little, not very (much)"
+  },
+  {
+    "chapter": 32,
+    "type": "adverb",
+    "latin": "diu",
+    "english": "for a long time"
+  },
+  {
+    "chapter": 32,
+    "type": "verb",
+    "latin": "malo, malle, malui, -",
+    "english": "to want (something) more, instead; prefer",
+    "conjugation": 0
+  },
+  {
+    "chapter": 32,
+    "type": "verb",
+    "latin": "nolo, nolle, nolui, -",
+    "english": "to not...wish, be unwilling",
+    "conjugation": 0
+  },
+  {
+    "chapter": 32,
+    "type": "verb",
+    "latin": "pateo, patere, patui, -",
+    "english": "to be open, lie open, be accessible, be evident",
+    "conjugation": 2
+  },
+  {
+    "chapter": 32,
+    "type": "verb",
+    "latin": "praebeo, praebere, praebui, praebitum",
+    "english": "to offer, provide",
+    "conjugation": 2
+  },
+  {
+    "chapter": 32,
+    "type": "verb",
+    "latin": "promitto, promittere, promisi, promissum",
+    "english": "to send forth; promise",
+    "conjugation": 3
+  },
+  {
+    "chapter": 32,
+    "type": "verb",
+    "latin": "volo, velle, volui, -",
+    "english": "to wish, want, be willing, will",
+    "conjugation": 0
+  }
+]

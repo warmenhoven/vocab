@@ -1,0 +1,115 @@
+[
+  {
+    "chapter": 33,
+    "type": "noun",
+    "latin": "initium, -ii",
+    "english": "beginning, commencement",
+    "gender": "n",
+    "declension": 2
+  },
+  {
+    "chapter": 33,
+    "type": "noun",
+    "latin": "ops, opis",
+    "english": "help, aid; (plural) power, resources, wealth",
+    "gender": "f",
+    "declension": 3
+  },
+  {
+    "chapter": 33,
+    "type": "noun",
+    "latin": "philosophus, -i",
+    "english": "philosopher",
+    "gender": "m",
+    "declension": 2
+  },
+  {
+    "chapter": 33,
+    "type": "noun",
+    "latin": "philosopha, -ae",
+    "english": "philosopher",
+    "gender": "f",
+    "declension": 1
+  },
+  {
+    "chapter": 33,
+    "type": "noun",
+    "latin": "plebs, plebis",
+    "english": "the common people, populace, plebians",
+    "gender": "f",
+    "declension": 3
+  },
+  {
+    "chapter": 33,
+    "type": "noun",
+    "latin": "sal, salis",
+    "english": "salt; wit",
+    "gender": "m",
+    "declension": 3
+  },
+  {
+    "chapter": 33,
+    "type": "noun",
+    "latin": "speculum, -i",
+    "english": "mirror",
+    "gender": "n",
+    "declension": 2
+  },
+  {
+    "chapter": 33,
+    "type": "pronoun",
+    "latin": "quis, quid",
+    "english": "(after si, nisi) anyone, anything, someone, something"
+  },
+  {
+    "chapter": 33,
+    "type": "adjective",
+    "latin": "candidus, -a, -um",
+    "english": "shining, bright, white; beautiful"
+  },
+  {
+    "chapter": 33,
+    "type": "adjective",
+    "latin": "merus, -a, -um",
+    "english": "pure, undiluted"
+  },
+  {
+    "chapter": 33,
+    "type": "adjective",
+    "latin": "suavis, suave",
+    "english": "sweet"
+  },
+  {
+    "chapter": 33,
+    "type": "enclitic, conjunction",
+    "latin": "-ve",
+    "english": "or"
+  },
+  {
+    "chapter": 33,
+    "type": "interjection",
+    "latin": "heu",
+    "english": "ah!, alas!",
+    "notes": "a sound of grief or pain"
+  },
+  {
+    "chapter": 33,
+    "type": "adverb",
+    "latin": "subito",
+    "english": "suddenly"
+  },
+  {
+    "chapter": 33,
+    "type": "verb",
+    "latin": "recuso, recusare, recusavi, recusatum",
+    "english": "to refuse",
+    "conjugation": 1
+  },
+  {
+    "chapter": 33,
+    "type": "verb",
+    "latin": "trado, tradere, tradidi, traditum",
+    "english": "to give over, surrender; hand down, transmit, teach",
+    "conjugation": 3
+  }
+]

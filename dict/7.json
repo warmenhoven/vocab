@@ -1,0 +1,172 @@
+[
+  {
+    "chapter": 7,
+    "type": "noun",
+    "latin": "amor, amoris",
+    "english": "love",
+    "gender": "m",
+    "declension": 3
+  },
+  {
+    "chapter": 7,
+    "type": "noun",
+    "latin": "carmen, carminis",
+    "english": "song, poem",
+    "gender": "n",
+    "declension": 3
+  },
+  {
+    "chapter": 7,
+    "type": "noun",
+    "latin": "civitas, civitatis",
+    "english": "state, citizenship",
+    "gender": "f",
+    "declension": 3
+  },
+  {
+    "chapter": 7,
+    "type": "noun",
+    "latin": "corpus, corporis",
+    "english": "body",
+    "gender": "n",
+    "declension": 3
+  },
+  {
+    "chapter": 7,
+    "type": "noun",
+    "latin": "homo, hominis",
+    "english": "human being, man",
+    "gender": "m",
+    "declension": 3
+  },
+  {
+    "chapter": 7,
+    "type": "noun",
+    "latin": "labor, laboris",
+    "english": "labor, work, toil; a work, production",
+    "gender": "m",
+    "declension": 3
+  },
+  {
+    "chapter": 7,
+    "type": "noun",
+    "latin": "littera, -ae",
+    "english": "a letter of the alphabet; (plural) a letter, literature",
+    "gender": "f",
+    "declension": 1
+  },
+  {
+    "chapter": 7,
+    "type": "noun",
+    "latin": "mos, moris",
+    "english": "habit, custom, manner; (plural) habits, character",
+    "gender": "m",
+    "declension": 3
+  },
+  {
+    "chapter": 7,
+    "type": "noun",
+    "latin": "nomen, nominis",
+    "english": "name",
+    "gender": "n",
+    "declension": 3
+  },
+  {
+    "chapter": 7,
+    "type": "noun",
+    "latin": "pax, pacis",
+    "english": "peace",
+    "gender": "f",
+    "declension": 3
+  },
+  {
+    "chapter": 7,
+    "type": "noun",
+    "latin": "regina, -ae",
+    "english": "queen",
+    "gender": "f",
+    "declension": 1
+  },
+  {
+    "chapter": 7,
+    "type": "noun",
+    "latin": "rex, regis",
+    "english": "king",
+    "gender": "m",
+    "declension": 3
+  },
+  {
+    "chapter": 7,
+    "type": "noun",
+    "latin": "tempus, temporis",
+    "english": "time; occasion, opportunity",
+    "gender": "n",
+    "declension": 3
+  },
+  {
+    "chapter": 7,
+    "type": "noun",
+    "latin": "terra, -ae",
+    "english": "earth, ground, land, country",
+    "gender": "f",
+    "declension": 1
+  },
+  {
+    "chapter": 7,
+    "type": "noun",
+    "latin": "uxor, uxoris",
+    "english": "wife",
+    "gender": "f",
+    "declension": 3
+  },
+  {
+    "chapter": 7,
+    "type": "noun",
+    "latin": "virgo, virginis",
+    "english": "maiden, virgin",
+    "gender": "f",
+    "declension": 3
+  },
+  {
+    "chapter": 7,
+    "type": "noun",
+    "latin": "virtus, virtutis",
+    "english": "manliness, courage, excellence, character, worth, virtue",
+    "gender": "f",
+    "declension": 3
+  },
+  {
+    "chapter": 7,
+    "type": "adjective",
+    "latin": "novus, -a, -um",
+    "english": "new; strange"
+  },
+  {
+    "chapter": 7,
+    "type": "preposition",
+    "latin": "post",
+    "english": "after, behind",
+    "notes": "takes accusative"
+  },
+  {
+    "chapter": 7,
+    "type": "preposition",
+    "latin": "sub",
+    "english": "under, up under, close to",
+    "notes": "takes ablative with verbs of rest, takes accusative with verbs of motion"
+  },
+  {
+    "chapter": 7,
+    "type": "verb",
+    "latin": "audeo, audere, ausus sum, -",
+    "english": "to dare",
+    "conjugation": 2
+  },
+  {
+    "chapter": 7,
+    "type": "verb",
+    "latin": "neco, necare, necavi, necatum",
+    "english": "to murder, kill",
+    "conjugation": 1
+  }
+]
