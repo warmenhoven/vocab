@@ -1,7 +1,3 @@
-function paramVal(name, def) {
-    return url.searchParams.has(name) ? url.searchParams.get(name) : def;
-}
-
 function paramNumVal(name, def) {
     return url.searchParams.has(name) ? Number.parseInt(url.searchParams.get(name)) : def;
 }
@@ -14,7 +10,6 @@ if (end < start)
     end = start;
 
 function checkAnswer(num, conj) {
-    try {
     var check = document.getElementById(num);
     var result = document.getElementById("result" + num);
     var conjstr = (conj && conj.length) ? " (" + conj + ")" : '';
@@ -24,7 +19,6 @@ function checkAnswer(num, conj) {
     } else {
         result.innerHTML = "<font color=\"red\">Incorrect!</font> " + check.name + conjstr;
     }
-    } catch (e) { console.log(e); }
     return false;
 }
 
@@ -62,15 +56,15 @@ function buildTable() {
             return;
         parts[part] = `<input name="${parts[part]}" id="${idx}" />`;
 
-        var form = document.createElement("form");
-        form.onsubmit = (() => { return checkAnswer(idx, word.conjugation); });
-
         var tr = document.createElement("tr");
-        form.appendChild(tr);
 
         var td = document.createElement("td");
-        td.innerHTML = parts.join(", ");
         tr.appendChild(td);
+
+        var form = document.createElement("form");
+        form.onsubmit = (() => { return checkAnswer(idx, word.conjugation); });
+        form.innerHTML = parts.join(", ");
+        td.appendChild(form);
 
         td = document.createElement("td");
         var label = document.createElement("label");
@@ -78,7 +72,7 @@ function buildTable() {
         td.appendChild(label);
         tr.appendChild(td);
 
-        verbstable.appendChild(form);
+        verbstable.appendChild(tr);
     });
 }
 
