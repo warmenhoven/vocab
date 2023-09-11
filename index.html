@@ -9,6 +9,8 @@
 
     <h3>Wheelock's Latin Vocabulary Tools</h3>
 
+    <h4>Translations</h4>
+    <p>
     <form action="display.html" method="get">
       Build a vocab list from Chapter
       <select name="start" id="displaystart">
@@ -49,25 +51,8 @@
       </select>
       <input type="submit" value="Build" />
     </form>
-
-    <form action="verbs.html" method="get">
-      Quiz
-      <select name="part">
-        <option value="0">all</option>
-        <option value="1">first</option>
-        <option value="2">second</option>
-        <option value="3">third</option>
-        <option value="4">fourth</option>
-      </select>
-      principal parts for verbs from Chapter
-      <select name="start" id="verbsstart">
-      </select>
-      to Chapter
-      <select name="end" id="verbsend">
-      </select>
-      <input type="submit" value="Quiz" />
-    </form>
-
+    </p>
+    <p>
     <form action="vocab.html" method="get">
       <select name="test">
         <option value="some">Quiz</option>
@@ -86,17 +71,31 @@
       </select>
       <input type="submit" value="Quiz" />
     </form>
+    </p>
 
-    <form action="numbers.html" method="get">
-      Quiz numbers from
-      <select name="english">
-        <option value="latin">Latin to English</option>
-	<option value="ordered">English to Latin, in order</option>
-	<option value="random">English to Latin, randomized</option>
+    <h4>Verbs</h4>
+    <p>
+    <form action="verbs.html" method="get">
+      Quiz
+      <select name="part">
+        <option value="0">all</option>
+        <option value="1">first</option>
+        <option value="2">second</option>
+        <option value="3">third</option>
+        <option value="4">fourth</option>
+      </select>
+      principal parts for verbs from Chapter
+      <select name="start" id="verbsstart">
+      </select>
+      to Chapter
+      <select name="end" id="verbsend">
       </select>
       <input type="submit" value="Quiz" />
     </form>
+    </p>
 
+    <h4>Nouns</h4>
+    <p>
     <form action="declquiz.html" method="get">
       Quiz
       <select name="decl">
@@ -116,7 +115,8 @@
       </select>
       <input type="submit" value="Quiz" />
     </form>
-
+    </p>
+    <p>
     <form action="declgrid.html" method="get">
       Quiz
       <select name="decl">
@@ -136,7 +136,21 @@
       </select>
       <input type="submit" value="Quiz" />
     </form>
+    </p>
 
+    <h4>Misc.</h4>
+    <p>
+    <form action="numbers.html" method="get">
+      Quiz numbers from
+      <select name="english">
+        <option value="latin">Latin to English</option>
+	<option value="ordered">English to Latin, in order</option>
+	<option value="random">English to Latin, randomized</option>
+      </select>
+      <input type="submit" value="Quiz" />
+    </form>
+    </p>
+    <p>
     <form action="calendar.html" method="get">
     Create a calendar for
       <select name="month" id="calmonth">
@@ -145,6 +159,7 @@
       </select>
       <input type="submit" value="Create" />
     </form>
+    </p>
 
     <!--
     <h3>Site Updated, Again!</h3>
