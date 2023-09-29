@@ -15,10 +15,17 @@ if (end < start)
 
 function createForm(word, plural, type, count) {
     var form = document.createElement("form");
+    form.autocomplete = false;
+    form.autocorrect = false;
+    form.spellcheck = false;
     form.onsubmit = (() => checkAnswer(count, type, plural, word.latin, word.declension, word.gender, true));
 
     var input = document.createElement("input");
     input.id = `${plural}${type}${count}`;
+    input.type = "text";
+    input.autocomplete = false;
+    input.autocorrect = false;
+    input.spellcheck = false;
     form.appendChild(input);
 
     return form;

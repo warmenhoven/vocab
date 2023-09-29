@@ -108,12 +108,19 @@ function buildTable() {
         tr.appendChild(td);
 
         var form = document.createElement("form");
+        form.autocomplete = false;
+        form.autocorrect = false;
+        form.spellcheck = false;
         form.onsubmit = (() => { return checkAnswer(idx); });
         td.appendChild(form);
 
         var input = document.createElement("input");
         input.name = answer;
         input.id = `check${idx}`;
+        input.type = "text";
+        input.autocomplete = false;
+        input.autocorrect = false;
+        input.spellcheck = false;
         form.appendChild(input);
 
         var label = document.createElement("label");

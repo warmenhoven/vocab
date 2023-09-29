@@ -54,7 +54,7 @@ function buildTable() {
         var parts = word.latin.split(/, /);
         if (parts[part] == '-')
             return;
-        parts[part] = `<input name="${parts[part]}" id="${idx}" />`;
+        parts[part] = `<input name="${parts[part]}" id="${idx}" type="text" autocomplete="false" autocorrect="false" spellcheck="false"/>`;
 
         var tr = document.createElement("tr");
 
@@ -62,6 +62,9 @@ function buildTable() {
         tr.appendChild(td);
 
         var form = document.createElement("form");
+        form.autocomplete = false;
+        form.autocorrect = false;
+        form.spellcheck = false;
         form.onsubmit = (() => { return checkAnswer(idx, word.conjugation); });
         form.innerHTML = parts.join(", ");
         td.appendChild(form);

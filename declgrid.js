@@ -33,10 +33,17 @@ function buildHeader(word) {
 
 function createForm(word, count, type, plural) {
     var form = document.createElement("form");
+    form.autocomplete = false;
+    form.autocorrect = false;
+    form.spellcheck = false;
     form.onsubmit = (() => checkAnswer(count, type, plural, word.latin, word.declension, word.gender, false));
 
     var input = document.createElement("input");
     input.id = `${plural}${type}${count}`;
+    input.type = "text";
+    input.autocomplete = false;
+    input.autocorrect = false;
+    input.spellcheck = false;
     form.appendChild(input);
 
     return form;
